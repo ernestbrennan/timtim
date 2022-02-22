@@ -1,0 +1,151 @@
+{
+  "id": 4566991,
+  "title": "dimdim",
+  "adv_type": "rent",
+  "description": "м. Голосеевская 12 мин пешком. Остановка автобуса 1 мин( м. Демеевская, м. Голосеевская) сдам часть дома. 2 смежные комнаты, Вся необходимая бытовая. техника.",
+  "url": "http://dimdim.com.ua",
+  "base_price": 6000,
+  "price_uah": 6000,
+  "price_usd": 221,
+  "price_eur": 185,
+  "price_rub": 15960,
+  "price_pln": 960,
+  "district": "Голосіївський район",
+  "street": "вулиця Гориста",
+  "building_no": "9",
+  "is_owner": false,
+  "is_verified": true,
+  "owner_name": "Елена Римини",
+  "created_at": "2021-06-17T14:51:25.492800+00:00",
+  "updated_at": "2021-06-17T14:53:35.583042+00:00",
+  "size_total": 65,
+  "size_kitchen": 12,
+  "size_living": 50,
+  "room": 2,
+  "floor": 1,
+  "floors_total": 2,
+  "currency": "UAH",
+  "is_last_floor": false,
+  "is_first_floor": true,
+  "city": 1,
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      30.4986413,
+      50.4022117
+    ]
+  },
+  "location_point": {
+    "lat": 50.4022117,
+    "lon": 30.4986413
+  },
+  "address_raw": "вулиця Гориста, 9, Голосіївський район, Київ",
+  "additional_info": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        30.4986413,
+        50.4022117
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "type": "single",
+      "flat_ids": [
+        4566991
+      ],
+      "price_uah": 6000,
+      "count": 1,
+      "hash": "u8vwwp2qj",
+      "min_price_uah": "6 000",
+      "max_price_uah": "6 000",
+      "min_price_usd": "221",
+      "max_price_usd": "221",
+      "min_price_eur": "185",
+      "max_price_eur": "185",
+      "min_price_rub": "15 960",
+      "max_price_rub": "15 960",
+      "min_price_pln": "960",
+      "max_price_pln": "960"
+    }
+  },
+  "features": [
+    13,
+    10,
+    9,
+    3,
+    1,
+    18,
+    17,
+    16,
+    5
+  ],
+  "locality_name": "Київ",
+  "address_id": 94529,
+  "street_id": 8794,
+  "images": [
+    "https://static.dimdim.wrenchtech.io/flats/4566991/b6a67ae4-1f4e-476d-aec3-74afaf16abb5",
+    "https://static.dimdim.wrenchtech.io/flats/4566991/70404632-42fd-4360-85cd-867f9987ae43",
+    "https://static.dimdim.wrenchtech.io/flats/4566991/4fa7a1c6-24ae-4194-8462-882b54935afc",
+    "https://static.dimdim.wrenchtech.io/flats/4566991/b5c5007e-95a5-4c16-9cbb-127062a601a1",
+    "https://static.dimdim.wrenchtech.io/flats/4566991/121e63ba-7700-4642-9dbc-86c6f3b56629",
+    "https://static.dimdim.wrenchtech.io/flats/4566991/6851af9b-35c6-4e5d-8618-7af92fd55b3a"
+  ],
+  "providers": [
+    {
+      "provider": "dimdim",
+      "url": "http://dimdim.com.ua",
+      "price_uah": 6000,
+      "price_usd": 221,
+      "price_eur": 185,
+      "price_rub": 15960,
+      "price_pln": 960,
+      "is_owner": false,
+      "created_at": "2021-06-17T14:51:25.491268+00:00"
+    }
+  ],
+  "landlords": [
+    {
+      "first_name": "Елена",
+      "type": "landlord",
+      "agency_name": null,
+      "avatar": null,
+      "flat_id": 4566991,
+      "phone": [
+        "+380638308070"
+      ],
+      "created_at": "2021-06-17T14:51:25.491268+00:00"
+    }
+  ],
+  "properties": {
+    "room_plan": "walkthrough",
+    "bathroom": "full",
+    "heating": "individual",
+    "entrance": [
+      "key"
+    ],
+    "parking": [
+      "own"
+    ],
+    "wall_type": "brick",
+    "building_type": "80s",
+    "conditions": "cosmetic",
+    "furniture": "new",
+    "rules": null,
+    "additional_payments": "by_meters"
+  },
+  "subways_distance": [
+    {
+      "subway_id": 74,
+      "minutes": 13
+    },
+    {
+      "subway_id": 73,
+      "minutes": 19
+    },
+    {
+      "subway_id": 75,
+      "minutes": 20
+    }
+  ]
+}

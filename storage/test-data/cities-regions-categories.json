@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "is_active": true,
+    "name": "Райони",
+    "short_name": "р-н",
+    "slug": "districts"
+  },
+  {
+    "id": 2,
+    "is_active": true,
+    "name": "Мікрорайони",
+    "short_name": "м-н",
+    "slug": null
+  },
+  {
+    "id": 3,
+    "is_active": false,
+    "name": "ЖК",
+    "short_name": "жк",
+    "slug": null
+  },
+  {
+    "id": 8,
+    "is_active": true,
+    "name": "Передмістя",
+    "short_name": "п-д",
+    "slug": "suburb"
+  }
+]

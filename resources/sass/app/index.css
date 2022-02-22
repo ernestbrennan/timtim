@@ -1,0 +1,19 @@
+@import './fonts.css';
+
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+body,
+html {
+  position: fixed;
+}
+
+.slick-slide,
+.slick-dots,
+.slick-slide * {
+  outline: none !important;
+}

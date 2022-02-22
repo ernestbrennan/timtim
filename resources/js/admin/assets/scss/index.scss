@@ -1,0 +1,25 @@
+// variables and mixins
+@import '~suneditor/dist/css/suneditor.min.css';
+@import "~react-map-gl-geocoder/dist/mapbox-gl-geocoder.css";
+@import "~mapbox-gl/dist/mapbox-gl.css";
+
+@import "variables";
+@import "mixins";
+@import "shadows";
+
+@import "fonts";
+// plugin css
+@import "plugins/plugin-nouislider";
+@import "plugins/plugin-perfect-scrollbar";
+@import "plugins/plugin-react-datetime";
+@import "plugins/plugin-react-bootstrap-sweetalert";
+@import "plugins/plugin-react-chartist";
+@import "plugins/plugin-react-big-calendar";
+@import "plugins/plugin-react-jvectormap";
+@import "plugins/plugin-react-table";
+@import "plugins/plugin-react-tagsinput";
+
+// Core CSS
+@import "misc";
+@import "fileupload";
+@import "fixed-plugin";

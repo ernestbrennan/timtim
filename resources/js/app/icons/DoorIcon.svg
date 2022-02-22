@@ -1,0 +1,41 @@
+function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
+
+function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i < sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) >= 0) continue; target[key] = source[key]; } return target; }
+
+import React from "react";
+
+var _ref2 = /*#__PURE__*/React.createElement("path", {
+  opacity: 0.6,
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M5.14995 0.125L0.799951 0.85C0.349951 0.85 -4.86374e-05 1.3 -4.86374e-05 1.85V10.175C-4.86374e-05 10.7 0.374951 11.15 0.799951 11.15L5.14995 11.875C5.59995 11.875 5.94995 11.45 5.94995 10.9V1.1C5.94995 0.575 5.57495 0.125 5.14995 0.125ZM4.74995 6.1C4.74995 6.43 4.48328 6.7 4.14995 6.7C3.81662 6.7 3.54995 6.43 3.54995 6.1C3.54995 5.77 3.81662 5.5 4.14995 5.5C4.48328 5.5 4.74995 5.77 4.74995 6.1Z",
+  fill: "#77828D"
+});
+
+var _ref3 = /*#__PURE__*/React.createElement("path", {
+  d: "M7 0.850006C7.55228 0.850006 8 1.29772 8 1.85001V10.325C8 10.8773 7.55228 11.325 7 11.325",
+  fill: "#77828D"
+});
+
+var SvgDoorIcon = function SvgDoorIcon(_ref) {
+  var svgRef = _ref.svgRef,
+      props = _objectWithoutProperties(_ref, ["svgRef"]);
+
+  return /*#__PURE__*/React.createElement("svg", _extends({
+    width: 8,
+    height: 12,
+    viewBox: "0 0 8 12",
+    fill: "none",
+    ref: svgRef
+  }, props), _ref2, _ref3);
+};
+
+var ForwardRef = /*#__PURE__*/React.forwardRef(function (props, ref) {
+  return /*#__PURE__*/React.createElement(SvgDoorIcon, _extends({
+    svgRef: ref
+  }, props));
+});
+export default __webpack_public_path__ + "static/media/DoorIcon.77be4573.svg";
+export { ForwardRef as ReactComponent };

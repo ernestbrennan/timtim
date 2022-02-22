@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "is_active": true,
+    "name": "Київ",
+    "name_en": "Kyiv",
+    "bbox": [
+      50.5937,
+      30.8449,
+      50.2182,
+      30.2396
+    ],
+    "icon_url": "https://i.imgur.com/1nsi0Xu.jpg",
+    "slug_seo": "kyiv",
+    "slug_geo": "kyiv"
+  },
+  {
+    "id": 2,
+    "is_active": true,
+    "name": "Харків",
+    "name_en": "Kharkiv",
+    "bbox": [
+      50.1,
+      36.45,
+      49.88,
+      36.1
+    ],
+    "icon_url": "https://i.imgur.com/PYdYn9z.jpg",
+    "slug_seo": "kharkiv",
+    "slug_geo": "kharkiv"
+  },
+  {
+    "id": 3,
+    "is_active": true,
+    "name": "Одеса",
+    "name_en": "Odessa",
+    "bbox": [
+      46.603,
+      30.812,
+      46.318,
+      30.614
+    ],
+    "icon_url": "https://i.imgur.com/ZimqHEl.jpg",
+    "slug_seo": "odessa",
+    "slug_geo": "odesa"
+  },
+  {
+    "id": 4,
+    "is_active": true,
+    "name": "Львів",
+    "name_en": "Lviv",
+    "bbox": [
+      49.9280087,
+      24.1620159,
+      49.7678305,
+      23.9051028
+    ],
+    "icon_url": "https://i.imgur.com/GXw8nNb.jpg",
+    "slug_seo": "lviv",
+    "slug_geo": "lviv"
+  },
+  {
+    "id": 5,
+    "is_active": true,
+    "name": "Дніпро",
+    "name_en": "Dnipro",
+    "bbox": [
+      48.58135,
+      35.298525,
+      48.350975,
+      34.854265
+    ],
+    "icon_url": "https://i.imgur.com/88rKLQ9.jpg",
+    "slug_seo": "dnipro",
+    "slug_geo": "dnipro"
+  },
+  {
+    "id": 9,
+    "is_active": true,
+    "name": "Чернігів",
+    "name_en": "Chernihiv",
+    "bbox": [
+      51.549445,
+      31.382373,
+      51.43667,
+      31.207064
+    ],
+    "icon_url": "https://static.dimdim.wrenchtech.io/cities/Chernigov.png",
+    "slug_seo": "chernihiv",
+    "slug_geo": "chernihiv"
+  },
+  {
+    "id": 10,
+    "is_active": true,
+    "name": "Миколаїв",
+    "name_en": "Mykolaiv",
+    "bbox": [
+      48.02596,
+      41.745676,
+      48.009903,
+      41.728271
+    ],
+    "icon_url": "https://static.dimdim.wrenchtech.io/cities/Nikolayev.png",
+    "slug_seo": "mykolaiv",
+    "slug_geo": "mykolaiv"
+  },
+  {
+    "id": 12,
+    "is_active": true,
+    "name": "Полтава",
+    "name_en": "Poltava",
+    "bbox": [
+      49.6579,
+      34.6603,
+      49.543,
+      34.4464
+    ],
+    "icon_url": "https://static.dimdim.wrenchtech.io/cities/Poltava.png",
+    "slug_seo": "poltava",
+    "slug_geo": "poltava"
+  },
+  {
+    "id": 14,
+    "is_active": true,
+    "name": "Черкаси",
+    "name_en": "Cherkasy",
+    "bbox": [
+      49.497671,
+      32.125038,
+      49.364998,
+      31.960822
+    ],
+    "icon_url": "https://static.dimdim.wrenchtech.io/cities/Cherkaska.png",
+    "slug_seo": "cherkasy",
+    "slug_geo": "cherkasy"
+  },
+  {
+    "id": 15,
+    "is_active": true,
+    "name": "Запоріжжя",
+    "name_en": "Zaporizhzhia",
+    "bbox": [
+      47.954467,
+      35.369022,
+      47.75262,
+      34.98667
+    ],
+    "icon_url": "https://static.dimdim.wrenchtech.io/cities/Zaporozh'ya.png",
+    "slug_seo": "zaporizhzhia",
+    "slug_geo": "zaporizhzhia"
+  }
+]

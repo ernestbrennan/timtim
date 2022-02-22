@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "is_active": true,
+    "name": "Червона гілка",
+    "color": "ee4055",
+    "city": 1
+  },
+  {
+    "id": 2,
+    "is_active": true,
+    "name": "Зелена гілка",
+    "color": "59d31c",
+    "city": 1
+  },
+  {
+    "id": 3,
+    "is_active": true,
+    "name": "Синя гілка",
+    "color": "245bdf",
+    "city": 1
+  }
+]

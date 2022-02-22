@@ -1,0 +1,66 @@
+function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
+
+function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i < sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) >= 0) continue; target[key] = source[key]; } return target; }
+
+import React from "react";
+
+var _ref2 = /*#__PURE__*/React.createElement("path", {
+  d: "M7.51953 28.9034V12.3636L15.7499 3.57007H24.5195C25.2268 3.57007 25.9051 3.85102 26.4051 4.35112C26.9052 4.85121 27.1862 5.52949 27.1862 6.23674V28.9034C27.1862 29.6106 26.9052 30.2889 26.4051 30.789C25.9051 31.2891 25.2268 31.5701 24.5195 31.5701H10.1862C9.47896 31.5701 8.80068 31.2891 8.30058 30.789C7.80048 30.2889 7.51953 29.6106 7.51953 28.9034Z",
+  stroke: "#54606A",
+  strokeWidth: 2
+});
+
+var _ref3 = /*#__PURE__*/React.createElement("path", {
+  d: "M16.0462 2.57007H15.3129L6.69286 11.7834C6.6362 11.8434 6.5762 11.8967 6.51953 11.9501V12.4701H12.3795C13.352 12.4701 14.2846 12.0838 14.9723 11.3961C15.6599 10.7085 16.0462 9.77586 16.0462 8.8034V2.57007Z",
+  fill: "#54606A"
+});
+
+var _ref4 = /*#__PURE__*/React.createElement("rect", {
+  x: 12.3691,
+  y: 17.7798,
+  width: 10.5291,
+  height: 1.63787,
+  rx: 0.818934,
+  fill: "#54606A"
+});
+
+var _ref5 = /*#__PURE__*/React.createElement("rect", {
+  x: 12.3691,
+  y: 21.2888,
+  width: 10.5291,
+  height: 1.63787,
+  rx: 0.818934,
+  fill: "#54606A"
+});
+
+var _ref6 = /*#__PURE__*/React.createElement("rect", {
+  x: 12.3691,
+  y: 24.7979,
+  width: 10.5291,
+  height: 1.63787,
+  rx: 0.818934,
+  fill: "#54606A"
+});
+
+var SvgDocumentsIcon = function SvgDocumentsIcon(_ref) {
+  var svgRef = _ref.svgRef,
+      props = _objectWithoutProperties(_ref, ["svgRef"]);
+
+  return /*#__PURE__*/React.createElement("svg", _extends({
+    width: 36,
+    height: 36,
+    viewBox: "0 0 36 36",
+    fill: "none",
+    ref: svgRef
+  }, props), _ref2, _ref3, _ref4, _ref5, _ref6);
+};
+
+var ForwardRef = /*#__PURE__*/React.forwardRef(function (props, ref) {
+  return /*#__PURE__*/React.createElement(SvgDocumentsIcon, _extends({
+    svgRef: ref
+  }, props));
+});
+export default __webpack_public_path__ + "static/media/DocumentsIcon.8017e734.svg";
+export { ForwardRef as ReactComponent };

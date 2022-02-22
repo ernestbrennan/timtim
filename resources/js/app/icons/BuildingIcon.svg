@@ -1,0 +1,36 @@
+function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
+
+function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i < sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) >= 0) continue; target[key] = source[key]; } return target; }
+
+import React from "react";
+
+var _ref2 = /*#__PURE__*/React.createElement("path", {
+  opacity: 0.6,
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M7.06662 0.55661L0 4.03417V12H7.06662V0.55661ZM2.89423 9.08975H1.30128V10.7051H2.89423V9.08975ZM5.63141 9.08975H4.01603V10.7051H5.63141V9.08975ZM2.89423 5.92628H1.30128V7.51923H2.89423V5.92628ZM5.63141 5.92628H4.01603V7.51923H5.63141V5.92628Z",
+  fill: "#77828D"
+});
+
+var SvgBuildingIcon = function SvgBuildingIcon(_ref) {
+  var svgRef = _ref.svgRef,
+      props = _objectWithoutProperties(_ref, ["svgRef"]);
+
+  return /*#__PURE__*/React.createElement("svg", _extends({
+    width: 8,
+    height: 12,
+    viewBox: "0 0 8 12",
+    fill: "none",
+    ref: svgRef
+  }, props), _ref2);
+};
+
+var ForwardRef = /*#__PURE__*/React.forwardRef(function (props, ref) {
+  return /*#__PURE__*/React.createElement(SvgBuildingIcon, _extends({
+    svgRef: ref
+  }, props));
+});
+export default __webpack_public_path__ + "static/media/BuildingIcon.2c1cf00b.svg";
+export { ForwardRef as ReactComponent };

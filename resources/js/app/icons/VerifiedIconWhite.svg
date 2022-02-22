@@ -1,0 +1,75 @@
+function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
+
+function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i < sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) >= 0) continue; target[key] = source[key]; } return target; }
+
+import React from "react";
+
+var _ref2 = /*#__PURE__*/React.createElement("mask", {
+  id: "mask0",
+  "mask-type": "alpha",
+  maskUnits: "userSpaceOnUse",
+  x: 10,
+  y: 3,
+  width: 7,
+  height: 15
+}, /*#__PURE__*/React.createElement("path", {
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M10.3052 3.85925H16.0212V17.1001H10.3052V3.85925Z",
+  fill: "white"
+}));
+
+var _ref3 = /*#__PURE__*/React.createElement("g", {
+  mask: "url(#mask0)"
+}, /*#__PURE__*/React.createElement("path", {
+  opacity: 0.3,
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M10.7557 17.1001C10.6171 17.1001 10.4803 17.0362 10.3921 16.9156C10.2454 16.7149 10.2886 16.4332 10.4902 16.2865C12.0598 15.139 13.1767 14.1418 13.7221 13.4038C14.5717 12.2518 15.0334 10.9621 15.0955 9.56885C15.1531 8.27825 15.0955 4.35515 15.0955 4.31555C15.0919 4.06805 15.2899 3.86285 15.5383 3.85925C15.7579 3.86915 15.9919 4.05455 15.9955 4.30295C15.9973 4.46495 16.0531 8.29175 15.9946 9.60845C15.9262 11.161 15.3907 12.6577 14.4466 13.9384C13.8391 14.7601 12.6871 15.7951 11.0203 17.0137C10.9411 17.0722 10.8484 17.1001 10.7557 17.1001Z",
+  fill: "white"
+}));
+
+var _ref4 = /*#__PURE__*/React.createElement("path", {
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M13.9338 3.63377C10.4634 2.38884 6.63791 2.38884 3.16655 3.63377C2.88417 3.73825 2.69837 3.99988 2.70021 4.2896V8.6811C2.70941 10.8584 3.79478 12.904 5.62796 14.1999L8.31932 16.127C8.45637 16.2244 8.64493 16.2244 8.78106 16.127L11.4733 14.1999C13.3056 12.904 14.391 10.8584 14.4002 8.6811V4.2896C14.4029 3.99988 14.2171 3.73825 13.9338 3.63377Z",
+  fill: "white"
+});
+
+var _ref5 = /*#__PURE__*/React.createElement("path", {
+  opacity: 0.3,
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M3.13653 2.70002C2.96029 2.70002 2.79365 2.59215 2.72822 2.41816C2.64359 2.19284 2.75701 1.94229 2.98298 1.85791C5.98168 0.733924 9.19763 0.596471 12.2818 1.45947C12.5139 1.52384 12.6491 1.76395 12.5837 1.99536C12.5191 2.22764 12.2792 2.36248 12.0454 2.29723C9.14092 1.48383 6.11342 1.61345 3.29009 2.67219C3.23949 2.69132 3.18801 2.70002 3.13653 2.70002Z",
+  fill: "white"
+});
+
+var _ref6 = /*#__PURE__*/React.createElement("path", {
+  fillRule: "evenodd",
+  clipRule: "evenodd",
+  d: "M8.1564 10.8C7.9273 10.8 7.69821 10.7195 7.50628 10.5574L5.59571 8.47122C5.33982 8.1908 5.33463 7.72989 5.58447 7.44267C5.83518 7.15545 6.24583 7.14963 6.50172 7.43005L8.15986 9.24749L11.5003 5.60485C11.7571 5.3254 12.1669 5.33316 12.4176 5.62038C12.6666 5.90857 12.6605 6.36948 12.4037 6.6499L8.90939 10.4604C8.70277 10.6855 8.43045 10.8 8.1564 10.8Z",
+  fill: "#FF8C27"
+});
+
+var SvgVerifiedIconWhite = function SvgVerifiedIconWhite(_ref) {
+  var svgRef = _ref.svgRef,
+      props = _objectWithoutProperties(_ref, ["svgRef"]);
+
+  return /*#__PURE__*/React.createElement("svg", _extends({
+    width: 18,
+    height: 18,
+    viewBox: "0 0 18 18",
+    fill: "none",
+    ref: svgRef
+  }, props), _ref2, _ref3, _ref4, _ref5, _ref6);
+};
+
+var ForwardRef = /*#__PURE__*/React.forwardRef(function (props, ref) {
+  return /*#__PURE__*/React.createElement(SvgVerifiedIconWhite, _extends({
+    svgRef: ref
+  }, props));
+});
+export default __webpack_public_path__ + "static/media/VerifiedIconWhite.b07b4eb9.svg";
+export { ForwardRef as ReactComponent };

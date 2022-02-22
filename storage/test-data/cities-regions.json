@@ -1,0 +1,1292 @@
+[
+  {
+    "id": 1,
+    "name": "Солом'янський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "solom-ianskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 2,
+    "name": "Дніпровський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "dniprovskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 3,
+    "name": "Печерський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "pecherskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 4,
+    "name": "Оболонський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "obolonskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 5,
+    "name": "Подільський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "podilskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 6,
+    "name": "Дарницький",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "darnitskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 7,
+    "name": "Деснянський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "desnianskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 8,
+    "name": "Голосіївський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "golosiyivskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 9,
+    "name": "Святошинський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "sviatoshinskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 10,
+    "name": "Шевченківський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": "shevchenkivskii-raion",
+    "category": 1,
+    "category__slug": "districts"
+  },
+  {
+    "id": 13,
+    "name": "Urban Park",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 3,
+    "category__slug": null
+  },
+  {
+    "id": 113,
+    "name": "Академмістечко",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 114,
+    "name": "Олександрівська Слобідка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 115,
+    "name": "Багринова гора",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 116,
+    "name": "Байкова гора",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 117,
+    "name": "Батиєва гора",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 118,
+    "name": "Біличі",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 119,
+    "name": "Біличе поле",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 120,
+    "name": "Березняки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 121,
+    "name": "Берковець",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 122,
+    "name": "Бортничі",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 123,
+    "name": "Борщагівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 124,
+    "name": "Биківня",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 125,
+    "name": "Верхня Теличка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 126,
+    "name": "Вітряні Гори",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 127,
+    "name": "Виноградар",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 128,
+    "name": "Віта-Литовська (Чапаєвка)",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 129,
+    "name": "Воскресенка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 130,
+    "name": "Вишгородський масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 131,
+    "name": "Галагани",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 132,
+    "name": "Голосієво",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 133,
+    "name": "Осокорки (дачі) ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 134,
+    "name": "ДВРЗ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 135,
+    "name": "Деміївка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 136,
+    "name": "Добрий Шлях",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 137,
+    "name": "Залізничний массив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 138,
+    "name": "Жуляни",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 139,
+    "name": "Замковище",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 140,
+    "name": "Звіринець",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 141,
+    "name": "Історичний центр",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 142,
+    "name": "Кадетський Гай",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 143,
+    "name": "Караваєві дачі",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 144,
+    "name": "Катеринівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 145,
+    "name": "Китаєво",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 146,
+    "name": "Конча-Заспа",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 147,
+    "name": "Корчувате",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 148,
+    "name": "КПІ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 149,
+    "name": "Кудрявець",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 150,
+    "name": "Куренівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 151,
+    "name": "Лівобережний масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 152,
+    "name": "Лісовий масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 153,
+    "name": "Липки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 154,
+    "name": "Лук'янівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 155,
+    "name": "Мінський масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 156,
+    "name": "Мостицький масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 157,
+    "name": "Мишоловка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 158,
+    "name": "Нивки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 159,
+    "name": "Нижні Сади",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 160,
+    "name": "Нижній Печерськ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 161,
+    "name": "Микільська Борщагівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 162,
+    "name": "Микільська Слобідка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 163,
+    "name": "Нова Дарниця",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 164,
+    "name": "Новобіличі",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 165,
+    "name": "Нова Забудова",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 166,
+    "name": "Оболонь",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 167,
+    "name": "Осокорки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 168,
+    "name": "Відрадний",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 169,
+    "name": "Паньківщина",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 170,
+    "name": "Першотравневий масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 171,
+    "name": "Петрівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 172,
+    "name": "Печерськ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 173,
+    "name": "Пирогів",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 174,
+    "name": "Поділ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 175,
+    "name": "Позняки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 176,
+    "name": "Пріорка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 177,
+    "name": "Пуща-Водиця",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 178,
+    "name": "Райдужний",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 179,
+    "name": "Русанівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 180,
+    "name": "Русанівські сади",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 181,
+    "name": "Рибальський острів",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 182,
+    "name": "Саперна Слобідка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 183,
+    "name": "Святошино",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 184,
+    "name": "Північно-Броварський (Комсомольський) масив",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 185,
+    "name": "Село Троєщина",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 186,
+    "name": "Село Шевченка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 187,
+    "name": "Совки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 188,
+    "name": "Солдатська Слобідка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 189,
+    "name": "Солом'янка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 190,
+    "name": "Соцмісто",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 191,
+    "name": "Стара Дарниця",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 192,
+    "name": "Старий Київ",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 193,
+    "name": "Сирець",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 194,
+    "name": "Татарка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 195,
+    "name": "Теремки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 196,
+    "name": "Теремки-1",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 197,
+    "name": "Теремки-2",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 198,
+    "name": "Троєщина",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 199,
+    "name": "Феофанія",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 200,
+    "name": "Харківський",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 201,
+    "name": "Царське Село",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 202,
+    "name": "Черепанова гора",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 203,
+    "name": "Чорна гора",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 204,
+    "name": "Чоколівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 205,
+    "name": "Ширма",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 206,
+    "name": "Шулявка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 207,
+    "name": "Південна Борщагівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 2,
+    "category__slug": null
+  },
+  {
+    "id": 518,
+    "name": "Вишневе",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 519,
+    "name": "Боярка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 520,
+    "name": "Крюківщина",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 521,
+    "name": "Тарасівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 522,
+    "name": "Буча",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 523,
+    "name": "Ірпінь",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 524,
+    "name": "Петропавлівська Борщагівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 525,
+    "name": "Софіївська Борщагівка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 526,
+    "name": "Вишгород",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 527,
+    "name": "Глеваха",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 528,
+    "name": "Обухів",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 529,
+    "name": "Гатне",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 530,
+    "name": "Чабани, Новосілки, Хотів",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 531,
+    "name": "Бровари",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 532,
+    "name": "Бориспіль",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 533,
+    "name": "Чубинське",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 534,
+    "name": "Щасливе",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 535,
+    "name": "Васильків",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 536,
+    "name": "Вишеньки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 537,
+    "name": "Віта Поштова",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 538,
+    "name": "Чайки",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 539,
+    "name": "Коцюбинське",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  },
+  {
+    "id": 540,
+    "name": "Білогородка",
+    "city": 1,
+    "is_active": true,
+    "slug": null,
+    "slug_seo": null,
+    "category": 8,
+    "category__slug": "suburb"
+  }
+]

@@ -1,0 +1,7946 @@
+{
+  "geojson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.2521,
+            49.9931
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "ubcu2uvyz",
+          "complex_id": 1886,
+          "is_verified": true,
+          "price": 763319.0,
+          "currency": 28063.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5372,
+            50.699
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u9j8qvkqz",
+          "complex_id": 1795,
+          "is_verified": false,
+          "price": 4729974.0,
+          "currency": 173897.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.445,
+            50.3174
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yq78180",
+          "complex_id": 482,
+          "is_verified": false,
+          "price": 370000.0,
+          "currency": 13603.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9533,
+            50.3813
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn87es0",
+          "complex_id": 1527,
+          "is_verified": false,
+          "price": 180240.0,
+          "currency": 6626.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9477,
+            50.3735
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn84pqw",
+          "complex_id": 234,
+          "is_verified": false,
+          "price": 567520.0,
+          "currency": 20864.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9421,
+            50.376
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn84eme",
+          "complex_id": 89,
+          "is_verified": false,
+          "price": 628650.0,
+          "currency": 23112.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9461,
+            50.3692
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn81qmc",
+          "complex_id": 511,
+          "is_verified": false,
+          "price": 534600.0,
+          "currency": 19654.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9607,
+            50.3528
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2w2yj",
+          "complex_id": 201,
+          "is_verified": false,
+          "price": 772500.0,
+          "currency": 28400.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9604,
+            50.3483
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2t8sh",
+          "complex_id": 331,
+          "is_verified": false,
+          "price": 448056.0,
+          "currency": 16472.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9556,
+            50.3542
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2qtnw",
+          "complex_id": 513,
+          "is_verified": false,
+          "price": 1134540.0,
+          "currency": 41711.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9581,
+            50.3525
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2qqux",
+          "complex_id": 240,
+          "is_verified": false,
+          "price": 994000.0,
+          "currency": 36544.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9504,
+            50.3508
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2q16g",
+          "complex_id": 1524,
+          "is_verified": false,
+          "price": 839680.0,
+          "currency": 30870.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9476,
+            50.3589
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2px3s",
+          "complex_id": 276,
+          "is_verified": false,
+          "price": 663936.0,
+          "currency": 24409.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9441,
+            50.3579
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2pkgf",
+          "complex_id": 1511,
+          "is_verified": false,
+          "price": 1937500.0,
+          "currency": 71232.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9573,
+            50.3459
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8yn2mnmv",
+          "complex_id": 245,
+          "is_verified": false,
+          "price": 1378700.0,
+          "currency": 50687.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.9776,
+            49.653
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8y42zj1v",
+          "complex_id": 229,
+          "is_verified": false,
+          "price": 534784.0,
+          "currency": 19661.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.8816,
+            50.4872
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vznwzm2",
+          "complex_id": 84,
+          "is_verified": false,
+          "price": 566400.0,
+          "currency": 20823.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.8376,
+            50.5086
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzmdz4p",
+          "complex_id": 324,
+          "is_verified": false,
+          "price": 584000.0,
+          "currency": 21470.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.8346,
+            50.5059
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzmdm46",
+          "complex_id": 226,
+          "is_verified": false,
+          "price": 682344.0,
+          "currency": 25086.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7957,
+            50.5235
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkv8b8",
+          "complex_id": 192,
+          "is_verified": false,
+          "price": 891734.0,
+          "currency": 32784.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7956,
+            50.5237
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkv89w",
+          "complex_id": 1536,
+          "is_verified": false,
+          "price": 1617000.0,
+          "currency": 59449.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7868,
+            50.5239
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzktd6c",
+          "complex_id": 261,
+          "is_verified": false,
+          "price": 496400.0,
+          "currency": 18250.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7839,
+            50.5243
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkt8jm",
+          "complex_id": 1498,
+          "is_verified": false,
+          "price": 1250060.0,
+          "currency": 45958.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7865,
+            50.5228
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkt6hd",
+          "complex_id": 186,
+          "is_verified": true,
+          "price": 646428.0,
+          "currency": 23765.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7802,
+            50.519
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkktqt",
+          "complex_id": 52,
+          "is_verified": true,
+          "price": 832134.0,
+          "currency": 30593.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7761,
+            50.5157
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkk47r",
+          "complex_id": 1506,
+          "is_verified": false,
+          "price": 2560600.0,
+          "currency": 94140.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7753,
+            50.5172
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkk3gg",
+          "complex_id": 40,
+          "is_verified": false,
+          "price": 1153183.0,
+          "currency": 42396.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7678,
+            50.516
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzkhhmj",
+          "complex_id": 352,
+          "is_verified": false,
+          "price": 666600.0,
+          "currency": 24507.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7809,
+            50.5127
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzk7tcz",
+          "complex_id": 12,
+          "is_verified": false,
+          "price": 1279685.0,
+          "currency": 47047.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7644,
+            50.4889
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzhp1zn",
+          "complex_id": 274,
+          "is_verified": false,
+          "price": 496044.0,
+          "currency": 18237.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6822,
+            50.564
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vzdhyh6",
+          "complex_id": 191,
+          "is_verified": false,
+          "price": 657078.0,
+          "currency": 24157.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6591,
+            50.5519
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz9dtmb",
+          "complex_id": 416,
+          "is_verified": false,
+          "price": 469170.0,
+          "currency": 17249.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6397,
+            50.5402
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz90x1u",
+          "complex_id": 1586,
+          "is_verified": false,
+          "price": 720366.0,
+          "currency": 26484.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6273,
+            50.5492
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz8fnn7",
+          "complex_id": 213,
+          "is_verified": false,
+          "price": 751646.0,
+          "currency": 27634.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.623,
+            50.532
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz2z4fn",
+          "complex_id": 79,
+          "is_verified": false,
+          "price": 674632.0,
+          "currency": 24802.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5967,
+            50.5332
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz2prc4",
+          "complex_id": 1561,
+          "is_verified": true,
+          "price": 831607.0,
+          "currency": 30574.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5932,
+            50.5316
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz2nvrb",
+          "complex_id": 395,
+          "is_verified": false,
+          "price": 517140.0,
+          "currency": 19012.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.59,
+            50.5297
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz2ndvp",
+          "complex_id": 443,
+          "is_verified": false,
+          "price": 852800.0,
+          "currency": 31353.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5944,
+            50.5192
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz2hwps",
+          "complex_id": 107,
+          "is_verified": false,
+          "price": 1628770.0,
+          "currency": 59881.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5913,
+            50.5105
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz255uu",
+          "complex_id": 1566,
+          "is_verified": false,
+          "price": 635500.0,
+          "currency": 23364.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6707,
+            50.48
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz1vteq",
+          "complex_id": 393,
+          "is_verified": true,
+          "price": 983060.0,
+          "currency": 36142.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6715,
+            50.4794
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz1vqrd",
+          "complex_id": 1455,
+          "is_verified": false,
+          "price": 1566080.0,
+          "currency": 57576.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6717,
+            50.4791
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz1vqqj",
+          "complex_id": 355,
+          "is_verified": false,
+          "price": 255815.0,
+          "currency": 9405.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6696,
+            50.4774
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz1vhuj",
+          "complex_id": 266,
+          "is_verified": false,
+          "price": 326192.0,
+          "currency": 11992.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6703,
+            50.4761
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz1uvkq",
+          "complex_id": 379,
+          "is_verified": false,
+          "price": 2696750.0,
+          "currency": 99146.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6494,
+            50.4618
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz16q1r",
+          "complex_id": 1454,
+          "is_verified": true,
+          "price": 1136445.0,
+          "currency": 41781.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6118,
+            50.4889
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz0x4z3",
+          "complex_id": 353,
+          "is_verified": true,
+          "price": 1357110.0,
+          "currency": 49894.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6295,
+            50.4723
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz0upwq",
+          "complex_id": 330,
+          "is_verified": false,
+          "price": 971519.0,
+          "currency": 35717.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6043,
+            50.4858
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz0qtm7",
+          "complex_id": 1460,
+          "is_verified": true,
+          "price": 970934.0,
+          "currency": 35696.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5866,
+            50.4931
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz0pbrz",
+          "complex_id": 95,
+          "is_verified": true,
+          "price": 1225148.0,
+          "currency": 45042.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6106,
+            50.4684
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz0e3zz",
+          "complex_id": 49,
+          "is_verified": true,
+          "price": 1970559.0,
+          "currency": 72447.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6013,
+            50.4655
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz06gpj",
+          "complex_id": 1459,
+          "is_verified": true,
+          "price": 1473841.0,
+          "currency": 54185.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6061,
+            50.455
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vz03n9w",
+          "complex_id": 561,
+          "is_verified": true,
+          "price": 1824760.0,
+          "currency": 67087.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7835,
+            50.3911
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vysmrvd",
+          "complex_id": 162,
+          "is_verified": false,
+          "price": 2470050.0,
+          "currency": 90811.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7867,
+            50.3782
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyse44j",
+          "complex_id": 248,
+          "is_verified": false,
+          "price": 802431.0,
+          "currency": 29501.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7189,
+            50.4172
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyg40vd",
+          "complex_id": 255,
+          "is_verified": false,
+          "price": 601800.0,
+          "currency": 22125.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6974,
+            50.4115
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyf91hk",
+          "complex_id": 399,
+          "is_verified": true,
+          "price": 1167971.0,
+          "currency": 42940.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6925,
+            50.4229
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyf7jwg",
+          "complex_id": 1567,
+          "is_verified": true,
+          "price": 1088807.0,
+          "currency": 40029.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6762,
+            50.406
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyf01sp",
+          "complex_id": 1456,
+          "is_verified": false,
+          "price": 1008300.0,
+          "currency": 37070.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7222,
+            50.3905
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyej71y",
+          "complex_id": 43,
+          "is_verified": true,
+          "price": 957872.0,
+          "currency": 35216.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6779,
+            50.4037
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vydpdyy",
+          "complex_id": 316,
+          "is_verified": true,
+          "price": 700300.0,
+          "currency": 25746.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6745,
+            50.4038
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vydp8x8",
+          "complex_id": 48,
+          "is_verified": true,
+          "price": 1423737.0,
+          "currency": 52343.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6994,
+            50.382
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vydef8k",
+          "complex_id": 146,
+          "is_verified": false,
+          "price": 1892616.0,
+          "currency": 69582.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7131,
+            50.3671
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vydch9e",
+          "complex_id": 426,
+          "is_verified": false,
+          "price": 559185.0,
+          "currency": 20558.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6587,
+            50.4296
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vycsmj8",
+          "complex_id": 311,
+          "is_verified": true,
+          "price": 459799.0,
+          "currency": 16904.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6467,
+            50.4385
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vycqh1x",
+          "complex_id": 272,
+          "is_verified": false,
+          "price": 766992.0,
+          "currency": 28198.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6314,
+            50.4422
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vycn9nu",
+          "complex_id": 222,
+          "is_verified": false,
+          "price": 799680.0,
+          "currency": 29400.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6478,
+            50.4281
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyckjj1",
+          "complex_id": 335,
+          "is_verified": false,
+          "price": 806575.0,
+          "currency": 29653.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6701,
+            50.4055
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vycbj32",
+          "complex_id": 403,
+          "is_verified": false,
+          "price": 316480.0,
+          "currency": 11635.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6533,
+            50.4132
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyc93n2",
+          "complex_id": 1544,
+          "is_verified": true,
+          "price": 843675.0,
+          "currency": 31017.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6533,
+            50.4127
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyc9353",
+          "complex_id": 1457,
+          "is_verified": false,
+          "price": 884939.0,
+          "currency": 32534.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6231,
+            50.439
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyby5h3",
+          "complex_id": 382,
+          "is_verified": false,
+          "price": 1047470.0,
+          "currency": 38510.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6202,
+            50.4345
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vybv2fr",
+          "complex_id": 102,
+          "is_verified": true,
+          "price": 1255375.0,
+          "currency": 46153.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.627,
+            50.4295
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vybumuv",
+          "complex_id": 94,
+          "is_verified": true,
+          "price": 840604.0,
+          "currency": 30904.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6071,
+            50.4424
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vybqz2j",
+          "complex_id": 214,
+          "is_verified": false,
+          "price": 921120.0,
+          "currency": 33864.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6124,
+            50.4203
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vybdepx",
+          "complex_id": 218,
+          "is_verified": true,
+          "price": 1210639.0,
+          "currency": 44509.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6116,
+            50.4102
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyb8fsv",
+          "complex_id": 66,
+          "is_verified": true,
+          "price": 1832735.0,
+          "currency": 67380.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6066,
+            50.4167
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyb6p42",
+          "complex_id": 14,
+          "is_verified": true,
+          "price": 1712454.0,
+          "currency": 62958.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5976,
+            50.4139
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyb386p",
+          "complex_id": 10,
+          "is_verified": true,
+          "price": 979056.0,
+          "currency": 35994.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6001,
+            50.411
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vyb3434",
+          "complex_id": 45,
+          "is_verified": false,
+          "price": 873107.0,
+          "currency": 32099.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6697,
+            50.4051
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vy9zvp0",
+          "complex_id": 1458,
+          "is_verified": true,
+          "price": 1964820.0,
+          "currency": 72236.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6529,
+            50.3921
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vy9t8er",
+          "complex_id": 296,
+          "is_verified": false,
+          "price": 933199.0,
+          "currency": 34309.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6505,
+            50.4028
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vy9rx1b",
+          "complex_id": 67,
+          "is_verified": true,
+          "price": 1823166.0,
+          "currency": 67028.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6118,
+            50.4027
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vy8xdbc",
+          "complex_id": 71,
+          "is_verified": false,
+          "price": 2641540.0,
+          "currency": 97116.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5996,
+            50.3971
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vy8q9bw",
+          "complex_id": 4,
+          "is_verified": true,
+          "price": 3386470.0,
+          "currency": 124503.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6025,
+            50.3921
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vy8ms54",
+          "complex_id": 394,
+          "is_verified": false,
+          "price": 2190000.0,
+          "currency": 80515.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4767,
+            50.5986
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxve0qp",
+          "complex_id": 212,
+          "is_verified": true,
+          "price": 1191400.0,
+          "currency": 43801.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.494,
+            50.584
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxvbt16",
+          "complex_id": 510,
+          "is_verified": false,
+          "price": 695160.0,
+          "currency": 25557.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4945,
+            50.5821
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxvbjqm",
+          "complex_id": 447,
+          "is_verified": false,
+          "price": 707370.0,
+          "currency": 26006.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4873,
+            50.583
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxvb25n",
+          "complex_id": 310,
+          "is_verified": false,
+          "price": 1924192.0,
+          "currency": 70742.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4871,
+            50.582
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxvb0j8",
+          "complex_id": 273,
+          "is_verified": false,
+          "price": 954222.0,
+          "currency": 35081.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.471,
+            50.5958
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxv6smc",
+          "complex_id": 329,
+          "is_verified": false,
+          "price": 1688060.0,
+          "currency": 62061.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4633,
+            50.5964
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxv4y9t",
+          "complex_id": 1497,
+          "is_verified": false,
+          "price": 627871.0,
+          "currency": 23083.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4612,
+            50.5969
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxv4vhj",
+          "complex_id": 1485,
+          "is_verified": false,
+          "price": 554745.0,
+          "currency": 20395.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4611,
+            50.5967
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxv4v4f",
+          "complex_id": 480,
+          "is_verified": false,
+          "price": 486744.0,
+          "currency": 17895.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4602,
+            50.5967
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxv4u6y",
+          "complex_id": 267,
+          "is_verified": false,
+          "price": 1141392.0,
+          "currency": 41963.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4409,
+            50.6178
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxuwwqj",
+          "complex_id": 691,
+          "is_verified": false,
+          "price": 528120.0,
+          "currency": 19416.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4591,
+            50.5673
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxtj7xv",
+          "complex_id": 317,
+          "is_verified": false,
+          "price": 865490.0,
+          "currency": 31819.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5001,
+            50.5133
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxq59mr",
+          "complex_id": 295,
+          "is_verified": true,
+          "price": 7203578.0,
+          "currency": 264839.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4992,
+            50.5009
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxq12v5",
+          "complex_id": 468,
+          "is_verified": true,
+          "price": 2747528.0,
+          "currency": 101012.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5808,
+            50.4619
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxpfk1z",
+          "complex_id": 412,
+          "is_verified": false,
+          "price": 1470160.0,
+          "currency": 54050.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.582,
+            50.4603
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxpfj07",
+          "complex_id": 327,
+          "is_verified": false,
+          "price": 1520690.0,
+          "currency": 55908.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5328,
+            50.485
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxny923",
+          "complex_id": 253,
+          "is_verified": false,
+          "price": 1295087.0,
+          "currency": 47613.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5351,
+            50.4805
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxnvdyp",
+          "complex_id": 37,
+          "is_verified": true,
+          "price": 1941600.0,
+          "currency": 71382.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5314,
+            50.4732
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxnu279",
+          "complex_id": 1,
+          "is_verified": true,
+          "price": 1695629.0,
+          "currency": 62339.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5044,
+            50.4873
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxnnuwh",
+          "complex_id": 11,
+          "is_verified": true,
+          "price": 1254481.0,
+          "currency": 46120.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5109,
+            50.4814
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxnmc7e",
+          "complex_id": 1577,
+          "is_verified": true,
+          "price": 1043489.0,
+          "currency": 38363.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5169,
+            50.4727
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxnkm8y",
+          "complex_id": 338,
+          "is_verified": true,
+          "price": 3653317.0,
+          "currency": 134314.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5245,
+            50.4653
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxndgmb",
+          "complex_id": 39,
+          "is_verified": true,
+          "price": 4245248.0,
+          "currency": 156076.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5212,
+            50.4618
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxnd2ch",
+          "complex_id": 251,
+          "is_verified": false,
+          "price": 7894500.0,
+          "currency": 290241.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5003,
+            50.4707
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn5ctj",
+          "complex_id": 29,
+          "is_verified": false,
+          "price": 1939056.0,
+          "currency": 71289.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5053,
+            50.465
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn4v7c",
+          "complex_id": 499,
+          "is_verified": false,
+          "price": 3333250.0,
+          "currency": 122546.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5074,
+            50.4617
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn4qb9",
+          "complex_id": 98,
+          "is_verified": false,
+          "price": 2526042.0,
+          "currency": 92869.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.501,
+            50.4644
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn4f0m",
+          "complex_id": 1476,
+          "is_verified": false,
+          "price": 3472659.0,
+          "currency": 127672.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5034,
+            50.4634
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn4efs",
+          "complex_id": 340,
+          "is_verified": true,
+          "price": 1463200.0,
+          "currency": 53794.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5138,
+            50.459
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn3g3n",
+          "complex_id": 1466,
+          "is_verified": false,
+          "price": 4311360.0,
+          "currency": 158507.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5099,
+            50.4583
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn38t5",
+          "complex_id": 1467,
+          "is_verified": false,
+          "price": 5172820.0,
+          "currency": 190178.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.503,
+            50.4588
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn1exu",
+          "complex_id": 32,
+          "is_verified": false,
+          "price": 2599608.0,
+          "currency": 95574.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5036,
+            50.4519
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxn0kpd",
+          "complex_id": 70,
+          "is_verified": false,
+          "price": 2993892.0,
+          "currency": 110070.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4596,
+            50.5262
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxmnh02",
+          "complex_id": 378,
+          "is_verified": false,
+          "price": 1326800.0,
+          "currency": 48779.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4679,
+            50.5155
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxmk446",
+          "complex_id": 293,
+          "is_verified": true,
+          "price": 1266286.0,
+          "currency": 46555.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4569,
+            50.5155
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxmh442",
+          "complex_id": 181,
+          "is_verified": false,
+          "price": 913440.0,
+          "currency": 33582.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4874,
+            50.5046
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxmf04r",
+          "complex_id": 244,
+          "is_verified": true,
+          "price": 2651570.0,
+          "currency": 97484.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4655,
+            50.4976
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxm2b38",
+          "complex_id": 208,
+          "is_verified": false,
+          "price": 1421100.0,
+          "currency": 52246.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4484,
+            50.5101
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxkg5f7",
+          "complex_id": 3,
+          "is_verified": true,
+          "price": 947050.0,
+          "currency": 34818.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4821,
+            50.4731
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjsk6g",
+          "complex_id": 367,
+          "is_verified": false,
+          "price": 878170.0,
+          "currency": 32285.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4684,
+            50.4752
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjkdrm",
+          "complex_id": 549,
+          "is_verified": true,
+          "price": 1339070.0,
+          "currency": 49230.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4937,
+            50.4667
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjghve",
+          "complex_id": 420,
+          "is_verified": false,
+          "price": 747500.0,
+          "currency": 27481.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4928,
+            50.4628
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjfknv",
+          "complex_id": 279,
+          "is_verified": false,
+          "price": 1153040.0,
+          "currency": 42391.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4915,
+            50.4615
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjf5pw",
+          "complex_id": 249,
+          "is_verified": true,
+          "price": 2495275.0,
+          "currency": 91738.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4842,
+            50.4704
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjevgq",
+          "complex_id": 333,
+          "is_verified": false,
+          "price": 1374294.0,
+          "currency": 50525.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4804,
+            50.4704
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjeg5s",
+          "complex_id": 259,
+          "is_verified": false,
+          "price": 2802600.0,
+          "currency": 103037.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4773,
+            50.4706
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjebu7",
+          "complex_id": 1541,
+          "is_verified": true,
+          "price": 986253.0,
+          "currency": 36259.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4874,
+            50.454
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxjbb78",
+          "complex_id": 278,
+          "is_verified": true,
+          "price": 3513565.0,
+          "currency": 129176.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4868,
+            50.451
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxj8rf6",
+          "complex_id": 560,
+          "is_verified": true,
+          "price": 3882199.0,
+          "currency": 142729.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4814,
+            50.4541
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxj8guk",
+          "complex_id": 76,
+          "is_verified": true,
+          "price": 1988611.0,
+          "currency": 73111.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4639,
+            50.4666
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxj5pj5",
+          "complex_id": 51,
+          "is_verified": false,
+          "price": 1495970.0,
+          "currency": 54999.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4624,
+            50.4621
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxj4q50",
+          "complex_id": 62,
+          "is_verified": true,
+          "price": 1506775.0,
+          "currency": 55396.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4564,
+            50.4624
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxj43sy",
+          "complex_id": 1562,
+          "is_verified": false,
+          "price": 1300500.0,
+          "currency": 47812.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4483,
+            50.4757
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhugf3",
+          "complex_id": 30,
+          "is_verified": true,
+          "price": 1216215.0,
+          "currency": 44714.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.44,
+            50.4819
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhtvwr",
+          "complex_id": 1475,
+          "is_verified": false,
+          "price": 882980.0,
+          "currency": 32462.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.439,
+            50.4813
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhtugp",
+          "complex_id": 81,
+          "is_verified": true,
+          "price": 1956404.0,
+          "currency": 71927.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4195,
+            50.4916
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhpwyc",
+          "complex_id": 1464,
+          "is_verified": false,
+          "price": 1096836.0,
+          "currency": 40325.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4116,
+            50.4864
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhnc0f",
+          "complex_id": 236,
+          "is_verified": true,
+          "price": 1414000.0,
+          "currency": 51985.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4538,
+            50.4604
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhfpbb",
+          "complex_id": 22,
+          "is_verified": false,
+          "price": 1286330.0,
+          "currency": 47291.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4521,
+            50.4541
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxhbys8",
+          "complex_id": 23,
+          "is_verified": true,
+          "price": 3581100.0,
+          "currency": 131659.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4299,
+            50.4689
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxh7w6s",
+          "complex_id": 370,
+          "is_verified": false,
+          "price": 825471.0,
+          "currency": 30348.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4282,
+            50.4582
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxh3thj",
+          "complex_id": 187,
+          "is_verified": true,
+          "price": 1584332.0,
+          "currency": 58247.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4222,
+            50.4577
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vxh389p",
+          "complex_id": 175,
+          "is_verified": true,
+          "price": 3322620.0,
+          "currency": 122156.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2794,
+            50.5464
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx918y3",
+          "complex_id": 377,
+          "is_verified": false,
+          "price": 461700.0,
+          "currency": 16974.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2641,
+            50.5738
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8wtts",
+          "complex_id": 1491,
+          "is_verified": false,
+          "price": 635985.0,
+          "currency": 23381.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2549,
+            50.5782
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8rqzj",
+          "complex_id": 434,
+          "is_verified": false,
+          "price": 580800.0,
+          "currency": 21353.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2771,
+            50.5561
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8grnu",
+          "complex_id": 1603,
+          "is_verified": true,
+          "price": 687375.0,
+          "currency": 25271.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.268,
+            50.5573
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8g8mz",
+          "complex_id": 301,
+          "is_verified": false,
+          "price": 713805.0,
+          "currency": 26243.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2659,
+            50.5564
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8ewbw",
+          "complex_id": 290,
+          "is_verified": true,
+          "price": 618450.0,
+          "currency": 22737.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2625,
+            50.5537
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8eh8b",
+          "complex_id": 257,
+          "is_verified": false,
+          "price": 709580.0,
+          "currency": 26087.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2647,
+            50.5532
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8dyjg",
+          "complex_id": 390,
+          "is_verified": false,
+          "price": 938280.0,
+          "currency": 34495.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2772,
+            50.5479
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8czny",
+          "complex_id": 334,
+          "is_verified": false,
+          "price": 465000.0,
+          "currency": 17095.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2748,
+            50.5467
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8ctrt",
+          "complex_id": 268,
+          "is_verified": true,
+          "price": 566568.0,
+          "currency": 20829.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2781,
+            50.5406
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8bxu4",
+          "complex_id": 1495,
+          "is_verified": false,
+          "price": 576540.0,
+          "currency": 21196.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2724,
+            50.5412
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx8bexw",
+          "complex_id": 1733,
+          "is_verified": true,
+          "price": 1680000.0,
+          "currency": 61765.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2572,
+            50.5387
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx88295",
+          "complex_id": 364,
+          "is_verified": false,
+          "price": 867150.0,
+          "currency": 31880.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2579,
+            50.5382
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx881ns",
+          "complex_id": 74,
+          "is_verified": false,
+          "price": 786600.0,
+          "currency": 28919.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2351,
+            50.5446
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx812e9",
+          "complex_id": 373,
+          "is_verified": false,
+          "price": 805600.0,
+          "currency": 29617.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4099,
+            50.5052
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx7fpvf",
+          "complex_id": 96,
+          "is_verified": false,
+          "price": 1446135.0,
+          "currency": 53167.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3716,
+            50.4935
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx705cy",
+          "complex_id": 254,
+          "is_verified": false,
+          "price": 950076.0,
+          "currency": 34929.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3607,
+            50.5304
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx6ygcn",
+          "complex_id": 235,
+          "is_verified": true,
+          "price": 1362545.0,
+          "currency": 50093.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.357,
+            50.4985
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx6bcr4",
+          "complex_id": 264,
+          "is_verified": true,
+          "price": 1007720.0,
+          "currency": 37048.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3548,
+            50.4991
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx69pdw",
+          "complex_id": 57,
+          "is_verified": true,
+          "price": 831250.0,
+          "currency": 30560.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4009,
+            50.4686
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx5g90x",
+          "complex_id": 50,
+          "is_verified": true,
+          "price": 2650810.0,
+          "currency": 97457.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4091,
+            50.4583
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx5cxhw",
+          "complex_id": 269,
+          "is_verified": false,
+          "price": 3129619.0,
+          "currency": 115060.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4098,
+            50.4561
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx5cpzb",
+          "complex_id": 221,
+          "is_verified": true,
+          "price": 1186900.0,
+          "currency": 43636.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3749,
+            50.4629
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx54qrc",
+          "complex_id": 548,
+          "is_verified": true,
+          "price": 1722481.0,
+          "currency": 63327.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3762,
+            50.4559
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx51pr1",
+          "complex_id": 1477,
+          "is_verified": true,
+          "price": 1130982.0,
+          "currency": 41580.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3764,
+            50.4539
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx50z7k",
+          "complex_id": 230,
+          "is_verified": false,
+          "price": 1202279.0,
+          "currency": 44201.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3546,
+            50.4735
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx4srt8",
+          "complex_id": 6,
+          "is_verified": true,
+          "price": 452386.0,
+          "currency": 16632.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3372,
+            50.4898
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx4r6us",
+          "complex_id": 1532,
+          "is_verified": true,
+          "price": 794855.0,
+          "currency": 29222.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.339,
+            50.4782
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx4mk0v",
+          "complex_id": 385,
+          "is_verified": false,
+          "price": 1274200.0,
+          "currency": 46845.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3628,
+            50.4709
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx4gvw2",
+          "complex_id": 384,
+          "is_verified": true,
+          "price": 1121367.0,
+          "currency": 41227.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3595,
+            50.4586
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx4cen7",
+          "complex_id": 319,
+          "is_verified": true,
+          "price": 587829.0,
+          "currency": 21611.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3374,
+            50.4643
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx46ep9",
+          "complex_id": 369,
+          "is_verified": false,
+          "price": 756015.0,
+          "currency": 27794.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2404,
+            50.5287
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2nkrh",
+          "complex_id": 380,
+          "is_verified": false,
+          "price": 914355.0,
+          "currency": 33616.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2365,
+            50.5288
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2n3xd",
+          "complex_id": 20,
+          "is_verified": false,
+          "price": 809489.0,
+          "currency": 29760.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.237,
+            50.5277
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2n3cj",
+          "complex_id": 328,
+          "is_verified": false,
+          "price": 935355.0,
+          "currency": 34388.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2362,
+            50.5268
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2n1k1",
+          "complex_id": 246,
+          "is_verified": false,
+          "price": 784852.0,
+          "currency": 28855.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2347,
+            50.5263
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2n01n",
+          "complex_id": 80,
+          "is_verified": false,
+          "price": 1483900.0,
+          "currency": 54555.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2484,
+            50.5215
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2m4hz",
+          "complex_id": 1530,
+          "is_verified": false,
+          "price": 886920.0,
+          "currency": 32607.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2464,
+            50.521
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2m0dp",
+          "complex_id": 1508,
+          "is_verified": false,
+          "price": 912135.0,
+          "currency": 33534.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2459,
+            50.5203
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2kbqh",
+          "complex_id": 1518,
+          "is_verified": false,
+          "price": 559500.0,
+          "currency": 20570.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2433,
+            50.5207
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2jn82",
+          "complex_id": 155,
+          "is_verified": false,
+          "price": 1950480.0,
+          "currency": 71709.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2438,
+            50.5202
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2hyvs",
+          "complex_id": 1528,
+          "is_verified": false,
+          "price": 425822.0,
+          "currency": 15655.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2406,
+            50.5202
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2hut2",
+          "complex_id": 1490,
+          "is_verified": false,
+          "price": 522200.0,
+          "currency": 19198.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2532,
+            50.5073
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx26tdn",
+          "complex_id": 306,
+          "is_verified": true,
+          "price": 807400.0,
+          "currency": 29684.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.237,
+            50.5097
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx251bh",
+          "complex_id": 288,
+          "is_verified": true,
+          "price": 1013841.0,
+          "currency": 37273.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2435,
+            50.5065
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx24qtg",
+          "complex_id": 299,
+          "is_verified": false,
+          "price": 1260380.0,
+          "currency": 46337.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2387,
+            50.5081
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx24eph",
+          "complex_id": 481,
+          "is_verified": false,
+          "price": 597170.0,
+          "currency": 21954.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2378,
+            50.507
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx24d2z",
+          "complex_id": 1438,
+          "is_verified": false,
+          "price": 692730.0,
+          "currency": 25468.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2364,
+            50.5057
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2433p",
+          "complex_id": 398,
+          "is_verified": false,
+          "price": 893100.0,
+          "currency": 32834.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2538,
+            50.4976
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx22y45",
+          "complex_id": 441,
+          "is_verified": false,
+          "price": 420390.0,
+          "currency": 15455.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2458,
+            50.4968
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx228m4",
+          "complex_id": 309,
+          "is_verified": false,
+          "price": 596800.0,
+          "currency": 21941.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2455,
+            50.4964
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx2284d",
+          "complex_id": 156,
+          "is_verified": false,
+          "price": 1543455.0,
+          "currency": 56745.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2459,
+            50.4958
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx222r5",
+          "complex_id": 270,
+          "is_verified": false,
+          "price": 566100.0,
+          "currency": 20812.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2435,
+            50.5038
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx21ywh",
+          "complex_id": 514,
+          "is_verified": false,
+          "price": 799092.0,
+          "currency": 29378.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.244,
+            50.4975
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx20z12",
+          "complex_id": 75,
+          "is_verified": false,
+          "price": 664200.0,
+          "currency": 24419.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2439,
+            50.496
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx20wbt",
+          "complex_id": 404,
+          "is_verified": false,
+          "price": 468990.0,
+          "currency": 17242.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2423,
+            50.4973
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx20tzb",
+          "complex_id": 91,
+          "is_verified": false,
+          "price": 852440.0,
+          "currency": 31339.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2368,
+            50.4855
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vx0n9g8",
+          "complex_id": 1509,
+          "is_verified": false,
+          "price": 773840.0,
+          "currency": 28450.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5452,
+            50.4408
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwzn6qg",
+          "complex_id": 65,
+          "is_verified": false,
+          "price": 3575352.0,
+          "currency": 131447.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5588,
+            50.4225
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz7hhx",
+          "complex_id": 132,
+          "is_verified": false,
+          "price": 7159999.0,
+          "currency": 263237.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5576,
+            50.4268
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz7gm7",
+          "complex_id": 134,
+          "is_verified": false,
+          "price": 34875000.0,
+          "currency": 1282179.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5557,
+            50.426
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz7cbz",
+          "complex_id": 72,
+          "is_verified": true,
+          "price": 2503901.0,
+          "currency": 92055.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5488,
+            50.4257
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz5syz",
+          "complex_id": 203,
+          "is_verified": true,
+          "price": 1767278.0,
+          "currency": 64974.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5525,
+            50.4196
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz4xek",
+          "complex_id": 1473,
+          "is_verified": false,
+          "price": 2386020.0,
+          "currency": 87722.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5509,
+            50.4125
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz1q9b",
+          "complex_id": 359,
+          "is_verified": false,
+          "price": 1888072.0,
+          "currency": 69414.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5447,
+            50.4117
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz11vq",
+          "complex_id": 86,
+          "is_verified": false,
+          "price": 3555240.0,
+          "currency": 130708.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5527,
+            50.4058
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz0pg4",
+          "complex_id": 315,
+          "is_verified": true,
+          "price": 4749120.0,
+          "currency": 174601.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5477,
+            50.4075
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz0khv",
+          "complex_id": 77,
+          "is_verified": true,
+          "price": 1559252.0,
+          "currency": 57325.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5485,
+            50.4068
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz0k9p",
+          "complex_id": 280,
+          "is_verified": false,
+          "price": 1896395.0,
+          "currency": 69720.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5451,
+            50.4094
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwz0f20",
+          "complex_id": 56,
+          "is_verified": true,
+          "price": 3680160.0,
+          "currency": 135301.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5356,
+            50.4386
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyy564",
+          "complex_id": 348,
+          "is_verified": false,
+          "price": 8016289.0,
+          "currency": 294718.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5245,
+            50.4444
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyx57b",
+          "complex_id": 321,
+          "is_verified": false,
+          "price": 6527000.0,
+          "currency": 239965.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5234,
+            50.4435
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwywfqy",
+          "complex_id": 1461,
+          "is_verified": true,
+          "price": 5868666.0,
+          "currency": 215761.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5409,
+            50.4368
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyvxpy",
+          "complex_id": 233,
+          "is_verified": true,
+          "price": 4890054.0,
+          "currency": 179782.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5385,
+            50.428
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyujkr",
+          "complex_id": 1470,
+          "is_verified": true,
+          "price": 5460494.0,
+          "currency": 200755.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5258,
+            50.4275
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwysh1x",
+          "complex_id": 1471,
+          "is_verified": false,
+          "price": 5707975.0,
+          "currency": 209853.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5198,
+            50.429
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwykrf6",
+          "complex_id": 69,
+          "is_verified": false,
+          "price": 4668105.0,
+          "currency": 171622.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5082,
+            50.4349
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyjrk7",
+          "complex_id": 231,
+          "is_verified": false,
+          "price": 4728505.0,
+          "currency": 173843.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5336,
+            50.4194
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyf9f7",
+          "complex_id": 207,
+          "is_verified": false,
+          "price": 4875880.0,
+          "currency": 179261.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5313,
+            50.4194
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyf84q",
+          "complex_id": 1468,
+          "is_verified": true,
+          "price": 11012991.0,
+          "currency": 404892.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5277,
+            50.4266
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyevs4",
+          "complex_id": 44,
+          "is_verified": true,
+          "price": 3210900.0,
+          "currency": 118048.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5298,
+            50.4241
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyerju",
+          "complex_id": 204,
+          "is_verified": false,
+          "price": 1861200.0,
+          "currency": 68427.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5229,
+            50.4235
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwye645",
+          "complex_id": 339,
+          "is_verified": true,
+          "price": 3201550.0,
+          "currency": 117704.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5267,
+            50.4212
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwyduuu",
+          "complex_id": 1446,
+          "is_verified": false,
+          "price": 2375190.0,
+          "currency": 87323.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5376,
+            50.415
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwycubb",
+          "complex_id": 219,
+          "is_verified": false,
+          "price": 3175740.0,
+          "currency": 116756.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5406,
+            50.407
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwybqfp",
+          "complex_id": 1462,
+          "is_verified": true,
+          "price": 1827917.0,
+          "currency": 67203.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.529,
+            50.4109
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy9n8b",
+          "complex_id": 17,
+          "is_verified": true,
+          "price": 1840050.0,
+          "currency": 67649.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5189,
+            50.4257
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy7xny",
+          "complex_id": 5,
+          "is_verified": false,
+          "price": 2831304.0,
+          "currency": 104092.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5154,
+            50.4256
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy7swt",
+          "complex_id": 63,
+          "is_verified": true,
+          "price": 3091065.0,
+          "currency": 113643.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5171,
+            50.4228
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy7jyk",
+          "complex_id": 323,
+          "is_verified": true,
+          "price": 4228308.0,
+          "currency": 155453.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5139,
+            50.4262
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy7g9d",
+          "complex_id": 137,
+          "is_verified": false,
+          "price": 6724524.0,
+          "currency": 247227.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5136,
+            50.4233
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy772f",
+          "complex_id": 133,
+          "is_verified": false,
+          "price": 5991360.0,
+          "currency": 220272.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5183,
+            50.4194
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy6wdr",
+          "complex_id": 58,
+          "is_verified": false,
+          "price": 3874392.0,
+          "currency": 142442.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4997,
+            50.4271
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy5cpq",
+          "complex_id": 128,
+          "is_verified": false,
+          "price": 3814050.0,
+          "currency": 140223.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.51,
+            50.406
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwy20sq",
+          "complex_id": 286,
+          "is_verified": false,
+          "price": 1961600.0,
+          "currency": 72118.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5548,
+            50.4048
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwxrcm3",
+          "complex_id": 13,
+          "is_verified": true,
+          "price": 3241461.0,
+          "currency": 119172.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5565,
+            50.3881
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwxkfs1",
+          "complex_id": 42,
+          "is_verified": true,
+          "price": 682578.0,
+          "currency": 25095.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5482,
+            50.3874
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwxhsx9",
+          "complex_id": 232,
+          "is_verified": false,
+          "price": 617820.0,
+          "currency": 22714.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5059,
+            50.4021
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwpmtr",
+          "complex_id": 125,
+          "is_verified": false,
+          "price": 1927740.0,
+          "currency": 70873.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5022,
+            50.405
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwpgn3",
+          "complex_id": 138,
+          "is_verified": false,
+          "price": 1573345.0,
+          "currency": 57844.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5022,
+            50.4029
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwpe41",
+          "complex_id": 131,
+          "is_verified": false,
+          "price": 1540283.0,
+          "currency": 56628.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5014,
+            50.4036
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwpdqn",
+          "complex_id": 407,
+          "is_verified": false,
+          "price": 726800.0,
+          "currency": 26720.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5012,
+            50.4033
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwpdk2",
+          "complex_id": 342,
+          "is_verified": false,
+          "price": 853470.0,
+          "currency": 31377.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5075,
+            50.3962
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwnqfu",
+          "complex_id": 178,
+          "is_verified": false,
+          "price": 1794673.0,
+          "currency": 65981.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5403,
+            50.3783
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwwgnep",
+          "complex_id": 357,
+          "is_verified": false,
+          "price": 1914780.0,
+          "currency": 70396.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4967,
+            50.4477
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwvzwzr",
+          "complex_id": 302,
+          "is_verified": false,
+          "price": 2357056.0,
+          "currency": 86657.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4799,
+            50.4481
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwvxfc9",
+          "complex_id": 100,
+          "is_verified": true,
+          "price": 2654750.0,
+          "currency": 97601.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.489,
+            50.4337
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwvv1mk",
+          "complex_id": 344,
+          "is_verified": true,
+          "price": 2044663.0,
+          "currency": 75172.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4849,
+            50.4381
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwvtyrq",
+          "complex_id": 250,
+          "is_verified": false,
+          "price": 2569600.0,
+          "currency": 94471.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4751,
+            50.4329
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwvmp31",
+          "complex_id": 211,
+          "is_verified": false,
+          "price": 2974680.0,
+          "currency": 109364.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4857,
+            50.4167
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwvdp42",
+          "complex_id": 349,
+          "is_verified": true,
+          "price": 2644287.0,
+          "currency": 97217.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4764,
+            50.4101
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwv8bk0",
+          "complex_id": 55,
+          "is_verified": true,
+          "price": 1494113.0,
+          "currency": 54931.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4546,
+            50.4232
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwv522s",
+          "complex_id": 60,
+          "is_verified": false,
+          "price": 1757866.0,
+          "currency": 64627.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4731,
+            50.4113
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwv3jg7",
+          "complex_id": 73,
+          "is_verified": true,
+          "price": 2189355.0,
+          "currency": 80491.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4574,
+            50.4147
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwv1drh",
+          "complex_id": 185,
+          "is_verified": true,
+          "price": 1244880.0,
+          "currency": 45768.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4438,
+            50.4422
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwuy8x2",
+          "complex_id": 9,
+          "is_verified": false,
+          "price": 757620.0,
+          "currency": 27853.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4479,
+            50.4328
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwuv52r",
+          "complex_id": 152,
+          "is_verified": false,
+          "price": 2565000.0,
+          "currency": 94302.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4458,
+            50.4353
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwuv3zn",
+          "complex_id": 374,
+          "is_verified": false,
+          "price": 736560.0,
+          "currency": 27079.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4342,
+            50.4364
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwut9t0",
+          "complex_id": 363,
+          "is_verified": false,
+          "price": 1247120.0,
+          "currency": 45850.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4429,
+            50.4325
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwuszy7",
+          "complex_id": 195,
+          "is_verified": false,
+          "price": 1029080.0,
+          "currency": 37834.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4278,
+            50.4225
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwu7hu6",
+          "complex_id": 16,
+          "is_verified": true,
+          "price": 1814681.0,
+          "currency": 66716.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.485,
+            50.3984
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtwy2p",
+          "complex_id": 1450,
+          "is_verified": true,
+          "price": 1444855.0,
+          "currency": 53120.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4872,
+            50.3904
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtv216",
+          "complex_id": 292,
+          "is_verified": true,
+          "price": 1048279.0,
+          "currency": 38539.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4852,
+            50.3911
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwttqt7",
+          "complex_id": 438,
+          "is_verified": true,
+          "price": 2166000.0,
+          "currency": 79632.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4795,
+            50.391
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtt6sb",
+          "complex_id": 260,
+          "is_verified": false,
+          "price": 775040.0,
+          "currency": 28494.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4776,
+            50.3906
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtt34k",
+          "complex_id": 477,
+          "is_verified": false,
+          "price": 818330.0,
+          "currency": 30085.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.473,
+            50.3941
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtmvy9",
+          "complex_id": 41,
+          "is_verified": true,
+          "price": 1429962.0,
+          "currency": 52572.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4664,
+            50.3919
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtm8fr",
+          "complex_id": 31,
+          "is_verified": true,
+          "price": 1155600.0,
+          "currency": 42485.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4603,
+            50.3916
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtjs89",
+          "complex_id": 358,
+          "is_verified": false,
+          "price": 875939.0,
+          "currency": 32203.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4624,
+            50.3904
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwtjq11",
+          "complex_id": 1452,
+          "is_verified": true,
+          "price": 1509020.0,
+          "currency": 55479.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4623,
+            50.3697
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwt1tbx",
+          "complex_id": 34,
+          "is_verified": true,
+          "price": 2291067.0,
+          "currency": 84231.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4529,
+            50.3851
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwsur47",
+          "complex_id": 354,
+          "is_verified": false,
+          "price": 863900.0,
+          "currency": 31761.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4418,
+            50.3854
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwssrh6",
+          "complex_id": 1474,
+          "is_verified": false,
+          "price": 642001.0,
+          "currency": 23603.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4414,
+            50.3858
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwssqy2",
+          "complex_id": 509,
+          "is_verified": true,
+          "price": 366630.0,
+          "currency": 13479.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4467,
+            50.3702
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwscded",
+          "complex_id": 54,
+          "is_verified": true,
+          "price": 1517025.0,
+          "currency": 55773.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.44,
+            50.3674
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vws9jg0",
+          "complex_id": 46,
+          "is_verified": true,
+          "price": 1901400.0,
+          "currency": 69904.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5323,
+            50.2846
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwnf0by",
+          "complex_id": 247,
+          "is_verified": false,
+          "price": 739404.0,
+          "currency": 27184.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5314,
+            50.2742
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwnb0k8",
+          "complex_id": 414,
+          "is_verified": false,
+          "price": 622050.0,
+          "currency": 22869.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.531,
+            50.2794
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwn9pfz",
+          "complex_id": 391,
+          "is_verified": false,
+          "price": 587400.0,
+          "currency": 21595.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4779,
+            50.3582
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwmx3m9",
+          "complex_id": 243,
+          "is_verified": true,
+          "price": 1491250.0,
+          "currency": 54825.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4771,
+            50.3516
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwmw0z2",
+          "complex_id": 1453,
+          "is_verified": true,
+          "price": 11.0,
+          "currency": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4889,
+            50.3489
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwmv9rd",
+          "complex_id": 176,
+          "is_verified": false,
+          "price": 4665700.0,
+          "currency": 171534.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4773,
+            50.3479
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwmt8ce",
+          "complex_id": 78,
+          "is_verified": false,
+          "price": 1403520.0,
+          "currency": 51600.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4746,
+            50.3467
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwmmqfv",
+          "complex_id": 1449,
+          "is_verified": false,
+          "price": 1336982.0,
+          "currency": 49154.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4542,
+            50.3452
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwmj044",
+          "complex_id": 188,
+          "is_verified": true,
+          "price": 714149.0,
+          "currency": 26255.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4716,
+            50.3275
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwm3uep",
+          "complex_id": 237,
+          "is_verified": false,
+          "price": 1295100.0,
+          "currency": 47614.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.442,
+            50.3611
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkxznv",
+          "complex_id": 1565,
+          "is_verified": false,
+          "price": 816408.0,
+          "currency": 30015.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4408,
+            50.3554
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkwym3",
+          "complex_id": 190,
+          "is_verified": true,
+          "price": 635325.0,
+          "currency": 23357.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4479,
+            50.3492
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkvg90",
+          "complex_id": 381,
+          "is_verified": false,
+          "price": 493290.0,
+          "currency": 18135.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4453,
+            50.3486
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkv9td",
+          "complex_id": 256,
+          "is_verified": false,
+          "price": 1554250.0,
+          "currency": 57142.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4377,
+            50.3427
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkss5d",
+          "complex_id": 183,
+          "is_verified": false,
+          "price": 1012500.0,
+          "currency": 37224.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4306,
+            50.3538
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkqwgg",
+          "complex_id": 436,
+          "is_verified": false,
+          "price": 720000.0,
+          "currency": 26470.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.417,
+            50.3604
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkpufr",
+          "complex_id": 275,
+          "is_verified": false,
+          "price": 824040.0,
+          "currency": 30295.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4284,
+            50.3492
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkmv30",
+          "complex_id": 210,
+          "is_verified": false,
+          "price": 434520.0,
+          "currency": 15975.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4234,
+            50.3495
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkmcdg",
+          "complex_id": 277,
+          "is_verified": false,
+          "price": 1202130.0,
+          "currency": 44196.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4242,
+            50.3406
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkk4pr",
+          "complex_id": 307,
+          "is_verified": false,
+          "price": 804935.0,
+          "currency": 29593.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4196,
+            50.3459
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkjnyh",
+          "complex_id": 8,
+          "is_verified": false,
+          "price": 932580.0,
+          "currency": 34286.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4497,
+            50.3289
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkfhg0",
+          "complex_id": 417,
+          "is_verified": false,
+          "price": 614250.0,
+          "currency": 22582.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4482,
+            50.3296
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkf5xp",
+          "complex_id": 209,
+          "is_verified": false,
+          "price": 586880.0,
+          "currency": 21576.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4332,
+            50.3358
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwke2g1",
+          "complex_id": 238,
+          "is_verified": false,
+          "price": 743562.0,
+          "currency": 27337.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4376,
+            50.3321
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwkdsj8",
+          "complex_id": 430,
+          "is_verified": false,
+          "price": 621743.0,
+          "currency": 22858.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4318,
+            50.3366
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwk7rzc",
+          "complex_id": 225,
+          "is_verified": false,
+          "price": 691950.0,
+          "currency": 25439.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4259,
+            50.3377
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwk7eqq",
+          "complex_id": 263,
+          "is_verified": false,
+          "price": 845340.0,
+          "currency": 31078.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4042,
+            50.4335
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwgv5st",
+          "complex_id": 25,
+          "is_verified": false,
+          "price": 926835.0,
+          "currency": 34075.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3936,
+            50.4243
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwge7yy",
+          "complex_id": 343,
+          "is_verified": false,
+          "price": 992610.0,
+          "currency": 36493.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3545,
+            50.4376
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwftzkp",
+          "complex_id": 289,
+          "is_verified": false,
+          "price": 1630860.0,
+          "currency": 59958.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3539,
+            50.4331
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwftp42",
+          "complex_id": 479,
+          "is_verified": false,
+          "price": 814997.0,
+          "currency": 29963.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3266,
+            50.4328
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwfj50m",
+          "complex_id": 1496,
+          "is_verified": false,
+          "price": 1137750.0,
+          "currency": 41829.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.326,
+            50.4276
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwfh4dn",
+          "complex_id": 1519,
+          "is_verified": false,
+          "price": 598400.0,
+          "currency": 22000.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3565,
+            50.4205
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwffbbt",
+          "complex_id": 350,
+          "is_verified": false,
+          "price": 344020.0,
+          "currency": 12647.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3662,
+            50.4111
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwfcpfp",
+          "complex_id": 1500,
+          "is_verified": false,
+          "price": 1508105.0,
+          "currency": 55445.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3622,
+            50.4127
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwfcm55",
+          "complex_id": 1504,
+          "is_verified": false,
+          "price": 444600.0,
+          "currency": 16345.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3603,
+            50.4128
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwfc7et",
+          "complex_id": 423,
+          "is_verified": false,
+          "price": 379200.0,
+          "currency": 13941.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3349,
+            50.4268
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwf7cjq",
+          "complex_id": 1437,
+          "is_verified": false,
+          "price": 767532.0,
+          "currency": 28218.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3365,
+            50.4102
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwf2fks",
+          "complex_id": 1441,
+          "is_verified": false,
+          "price": 438900.0,
+          "currency": 16136.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3387,
+            50.4079
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwf27zp",
+          "complex_id": 1515,
+          "is_verified": false,
+          "price": 609547.0,
+          "currency": 22410.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3325,
+            50.4082
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwf0x3p",
+          "complex_id": 1486,
+          "is_verified": false,
+          "price": 276760.0,
+          "currency": 10175.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3239,
+            50.4064
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwf01nm",
+          "complex_id": 470,
+          "is_verified": false,
+          "price": 718530.0,
+          "currency": 26416.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3928,
+            50.4049
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwexgmf",
+          "complex_id": 114,
+          "is_verified": false,
+          "price": 1740280.0,
+          "currency": 63981.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3962,
+            50.398
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwewtv7",
+          "complex_id": 283,
+          "is_verified": false,
+          "price": 1407650.0,
+          "currency": 51752.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3991,
+            50.3875
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vweszbx",
+          "complex_id": 265,
+          "is_verified": true,
+          "price": 1079000.0,
+          "currency": 39669.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3919,
+            50.3858
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwes6wr",
+          "complex_id": 179,
+          "is_verified": false,
+          "price": 666000.0,
+          "currency": 24485.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3902,
+            50.3851
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwes36r",
+          "complex_id": 285,
+          "is_verified": false,
+          "price": 803190.0,
+          "currency": 29529.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3787,
+            50.4037
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwer9p5",
+          "complex_id": 413,
+          "is_verified": false,
+          "price": 422700.0,
+          "currency": 15540.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.384,
+            50.399
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwequgq",
+          "complex_id": 1493,
+          "is_verified": false,
+          "price": 1004500.0,
+          "currency": 36930.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3833,
+            50.3953
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vweqhmv",
+          "complex_id": 1503,
+          "is_verified": false,
+          "price": 999740.0,
+          "currency": 36755.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.377,
+            50.397
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwenrzu",
+          "complex_id": 406,
+          "is_verified": false,
+          "price": 638135.0,
+          "currency": 23461.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3714,
+            50.397
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwen7zc",
+          "complex_id": 356,
+          "is_verified": false,
+          "price": 609600.0,
+          "currency": 22411.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.385,
+            50.3925
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwemttw",
+          "complex_id": 467,
+          "is_verified": false,
+          "price": 406214.0,
+          "currency": 14934.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3816,
+            50.3901
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwem5pv",
+          "complex_id": 485,
+          "is_verified": false,
+          "price": 965550.0,
+          "currency": 35498.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3851,
+            50.3868
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwektsx",
+          "complex_id": 206,
+          "is_verified": false,
+          "price": 713635.0,
+          "currency": 26236.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3725,
+            50.3905
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwejkd1",
+          "complex_id": 19,
+          "is_verified": false,
+          "price": 763494.0,
+          "currency": 28069.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3701,
+            50.3895
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwej4u3",
+          "complex_id": 322,
+          "is_verified": false,
+          "price": 1009635.0,
+          "currency": 37119.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3915,
+            50.3707
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe9dqk",
+          "complex_id": 7,
+          "is_verified": false,
+          "price": 817037.0,
+          "currency": 30038.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3882,
+            50.3694
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe92p0",
+          "complex_id": 488,
+          "is_verified": false,
+          "price": 1348095.0,
+          "currency": 49562.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3828,
+            50.3826
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe7u5g",
+          "complex_id": 1501,
+          "is_verified": false,
+          "price": 1247540.0,
+          "currency": 45865.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3807,
+            50.3809
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe7d9f",
+          "complex_id": 300,
+          "is_verified": false,
+          "price": 1325250.0,
+          "currency": 48722.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3853,
+            50.3735
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe6jyt",
+          "complex_id": 298,
+          "is_verified": false,
+          "price": 623700.0,
+          "currency": 22930.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3801,
+            50.3766
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe6f0g",
+          "complex_id": 241,
+          "is_verified": false,
+          "price": 1147000.0,
+          "currency": 42169.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3773,
+            50.3729
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe6057",
+          "complex_id": 402,
+          "is_verified": false,
+          "price": 490200.0,
+          "currency": 18022.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3838,
+            50.3692
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwe3kvc",
+          "complex_id": 284,
+          "is_verified": false,
+          "price": 550400.0,
+          "currency": 20235.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.362,
+            50.4044
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdzugj",
+          "complex_id": 444,
+          "is_verified": false,
+          "price": 420000.0,
+          "currency": 15441.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3619,
+            50.4013
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdzkbe",
+          "complex_id": 281,
+          "is_verified": false,
+          "price": 692475.0,
+          "currency": 25458.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3492,
+            50.4051
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdxgxh",
+          "complex_id": 287,
+          "is_verified": false,
+          "price": 1098900.0,
+          "currency": 40401.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3649,
+            50.3904
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdvr14",
+          "complex_id": 33,
+          "is_verified": true,
+          "price": 964600.0,
+          "currency": 35463.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3402,
+            50.4044
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdrv4c",
+          "complex_id": 326,
+          "is_verified": false,
+          "price": 980910.0,
+          "currency": 36063.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.339,
+            50.4022
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdrknm",
+          "complex_id": 375,
+          "is_verified": false,
+          "price": 1228200.0,
+          "currency": 45154.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3399,
+            50.398
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdqsve",
+          "complex_id": 320,
+          "is_verified": false,
+          "price": 837865.0,
+          "currency": 30804.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3292,
+            50.4032
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdpth0",
+          "complex_id": 297,
+          "is_verified": false,
+          "price": 671180.0,
+          "currency": 24675.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3261,
+            50.4043
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdpff1",
+          "complex_id": 1480,
+          "is_verified": false,
+          "price": 728900.0,
+          "currency": 26798.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.323,
+            50.4044
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdpbe0",
+          "complex_id": 1563,
+          "is_verified": true,
+          "price": 686750.0,
+          "currency": 25248.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3247,
+            50.3959
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwdn3c9",
+          "complex_id": 362,
+          "is_verified": false,
+          "price": 739810.0,
+          "currency": 27199.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3322,
+            50.3801
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwd5rm8",
+          "complex_id": 695,
+          "is_verified": false,
+          "price": 262236.0,
+          "currency": 9641.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3298,
+            50.38
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwd5mky",
+          "complex_id": 487,
+          "is_verified": false,
+          "price": 1662500.0,
+          "currency": 61121.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2869,
+            50.4414
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vwcnw68",
+          "complex_id": 61,
+          "is_verified": true,
+          "price": 618480.0,
+          "currency": 22738.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3207,
+            50.3938
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw9vyv7",
+          "complex_id": 440,
+          "is_verified": false,
+          "price": 474295.0,
+          "currency": 17437.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3044,
+            50.3938
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw9tfuz",
+          "complex_id": 199,
+          "is_verified": false,
+          "price": 264860.0,
+          "currency": 9737.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2659,
+            50.3901
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw8tnzy",
+          "complex_id": 486,
+          "is_verified": false,
+          "price": 749880.0,
+          "currency": 27569.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2462,
+            50.386
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw8k2xg",
+          "complex_id": 1484,
+          "is_verified": false,
+          "price": 411824.0,
+          "currency": 15140.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2377,
+            50.3909
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw8j6kj",
+          "complex_id": 345,
+          "is_verified": false,
+          "price": 927945.0,
+          "currency": 34115.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4077,
+            50.3609
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw7zyjw",
+          "complex_id": 228,
+          "is_verified": true,
+          "price": 724680.0,
+          "currency": 26642.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4068,
+            50.3512
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw7yjt1",
+          "complex_id": 1492,
+          "is_verified": false,
+          "price": 675130.0,
+          "currency": 24821.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3961,
+            50.3584
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw7xmxp",
+          "complex_id": 1514,
+          "is_verified": false,
+          "price": 828233.0,
+          "currency": 30450.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3035,
+            50.3378
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw3edr4",
+          "complex_id": 47,
+          "is_verified": false,
+          "price": 852295.0,
+          "currency": 31334.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3024,
+            50.3197
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vw383t8",
+          "complex_id": 1502,
+          "is_verified": false,
+          "price": 440309.0,
+          "currency": 16187.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6359,
+            50.2467
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vvc5hk7",
+          "complex_id": 1584,
+          "is_verified": true,
+          "price": 1654400.0,
+          "currency": 60824.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.745,
+            50.1577
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vv7dgvf",
+          "complex_id": 1534,
+          "is_verified": false,
+          "price": 907440.0,
+          "currency": 33362.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.7544,
+            50.1433
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vv7b69s",
+          "complex_id": 1526,
+          "is_verified": false,
+          "price": 467264.0,
+          "currency": 17178.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6467,
+            50.1331
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vv1qknx",
+          "complex_id": 242,
+          "is_verified": false,
+          "price": 520800.0,
+          "currency": 19147.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.6387,
+            50.1267
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vv1jq3m",
+          "complex_id": 1507,
+          "is_verified": false,
+          "price": 670500.0,
+          "currency": 24650.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5453,
+            50.2529
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vtzh62s",
+          "complex_id": 24,
+          "is_verified": true,
+          "price": 1372963.0,
+          "currency": 50477.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.5299,
+            50.2723
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vtyxz1j",
+          "complex_id": 442,
+          "is_verified": false,
+          "price": 508625.0,
+          "currency": 18699.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3127,
+            50.2139
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vt9v1j2",
+          "complex_id": 397,
+          "is_verified": false,
+          "price": 595411.0,
+          "currency": 21890.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3119,
+            50.1875
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vt9b27n",
+          "complex_id": 368,
+          "is_verified": false,
+          "price": 502600.0,
+          "currency": 18478.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.238,
+            50.2227
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vt8nf8k",
+          "complex_id": 361,
+          "is_verified": false,
+          "price": 321000.0,
+          "currency": 11801.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3206,
+            50.1738
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vt3vyg9",
+          "complex_id": 1529,
+          "is_verified": false,
+          "price": 685800.0,
+          "currency": 25213.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3183,
+            50.1742
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vt3vvju",
+          "complex_id": 605,
+          "is_verified": false,
+          "price": 473695.0,
+          "currency": 17415.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2183,
+            50.5769
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxxhrb",
+          "complex_id": 1517,
+          "is_verified": false,
+          "price": 781170.0,
+          "currency": 28719.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2172,
+            50.5807
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxxgw0",
+          "complex_id": 220,
+          "is_verified": false,
+          "price": 442910.0,
+          "currency": 16283.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2155,
+            50.5776
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxx65x",
+          "complex_id": 478,
+          "is_verified": false,
+          "price": 509999.0,
+          "currency": 18750.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2166,
+            50.5724
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxw7j3",
+          "complex_id": 312,
+          "is_verified": false,
+          "price": 308000.0,
+          "currency": 11323.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2189,
+            50.5597
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxsheq",
+          "complex_id": 445,
+          "is_verified": false,
+          "price": 921067.0,
+          "currency": 33863.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2063,
+            50.5736
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxqes3",
+          "complex_id": 227,
+          "is_verified": false,
+          "price": 618340.0,
+          "currency": 22733.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.211,
+            50.566
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxmqbr",
+          "complex_id": 168,
+          "is_verified": false,
+          "price": 1050840.0,
+          "currency": 38634.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2256,
+            50.5484
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxf19u",
+          "complex_id": 184,
+          "is_verified": false,
+          "price": 725970.0,
+          "currency": 26690.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2216,
+            50.5585
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxeysm",
+          "complex_id": 332,
+          "is_verified": false,
+          "price": 564775.0,
+          "currency": 20763.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2219,
+            50.5487
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxdngs",
+          "complex_id": 337,
+          "is_verified": false,
+          "price": 543160.0,
+          "currency": 19969.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2316,
+            50.5467
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxcwpb",
+          "complex_id": 182,
+          "is_verified": true,
+          "price": 583440.0,
+          "currency": 21450.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2296,
+            50.5474
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxcus1",
+          "complex_id": 15,
+          "is_verified": true,
+          "price": 634365.0,
+          "currency": 23322.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2319,
+            50.5451
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrxcqnw",
+          "complex_id": 202,
+          "is_verified": false,
+          "price": 704557.0,
+          "currency": 25903.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2119,
+            50.5483
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrx6p9k",
+          "complex_id": 1482,
+          "is_verified": true,
+          "price": 850200.0,
+          "currency": 31257.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2001,
+            50.5511
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrx4x18",
+          "complex_id": 1582,
+          "is_verified": false,
+          "price": 495300.0,
+          "currency": 18209.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1999,
+            50.5497
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrx4qcs",
+          "complex_id": 366,
+          "is_verified": false,
+          "price": 479886.0,
+          "currency": 17643.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1933,
+            50.5522
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrx4dpd",
+          "complex_id": 325,
+          "is_verified": false,
+          "price": 428846.0,
+          "currency": 15766.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1917,
+            50.5393
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrx02uw",
+          "complex_id": 489,
+          "is_verified": false,
+          "price": 505120.0,
+          "currency": 18570.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.0811,
+            50.5489
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrsd0kv",
+          "complex_id": 1531,
+          "is_verified": false,
+          "price": 409400.0,
+          "currency": 15051.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.0811,
+            50.5489
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrsd0ks",
+          "complex_id": 163,
+          "is_verified": false,
+          "price": 445000.0,
+          "currency": 16360.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2324,
+            50.5228
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrvqsf",
+          "complex_id": 303,
+          "is_verified": false,
+          "price": 770194.0,
+          "currency": 28316.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2301,
+            50.5219
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrvhze",
+          "complex_id": 474,
+          "is_verified": false,
+          "price": 810000.0,
+          "currency": 29779.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2253,
+            50.5159
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrru1ks",
+          "complex_id": 205,
+          "is_verified": false,
+          "price": 1045750.0,
+          "currency": 38446.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2095,
+            50.5216
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrmjve",
+          "complex_id": 1606,
+          "is_verified": false,
+          "price": 460486.0,
+          "currency": 16929.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2074,
+            50.5181
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrks37",
+          "complex_id": 409,
+          "is_verified": false,
+          "price": 330000.0,
+          "currency": 12132.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2064,
+            50.5187
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrkess",
+          "complex_id": 216,
+          "is_verified": false,
+          "price": 766500.0,
+          "currency": 28180.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2007,
+            50.5189
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrhxqp",
+          "complex_id": 193,
+          "is_verified": false,
+          "price": 958804.0,
+          "currency": 35250.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1994,
+            50.5182
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrhw98",
+          "complex_id": 383,
+          "is_verified": false,
+          "price": 603152.0,
+          "currency": 22174.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.233,
+            50.5115
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrgr48",
+          "complex_id": 157,
+          "is_verified": false,
+          "price": 1636800.0,
+          "currency": 60176.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2324,
+            50.5113
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrgq99",
+          "complex_id": 158,
+          "is_verified": false,
+          "price": 877800.0,
+          "currency": 32272.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2318,
+            50.5072
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrfw1u",
+          "complex_id": 271,
+          "is_verified": false,
+          "price": 825475.0,
+          "currency": 30348.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2301,
+            50.5066
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrfkyk",
+          "complex_id": 262,
+          "is_verified": false,
+          "price": 539865.0,
+          "currency": 19848.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2286,
+            50.5079
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrrfey4",
+          "complex_id": 314,
+          "is_verified": false,
+          "price": 625500.0,
+          "currency": 22996.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2206,
+            50.5123
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrremzw",
+          "complex_id": 217,
+          "is_verified": false,
+          "price": 693504.0,
+          "currency": 25496.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2167,
+            50.5143
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrreg5h",
+          "complex_id": 476,
+          "is_verified": false,
+          "price": 702240.0,
+          "currency": 25817.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1979,
+            50.5138
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrr5v2q",
+          "complex_id": 1499,
+          "is_verified": false,
+          "price": 824600.0,
+          "currency": 30316.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2333,
+            50.4858
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrpyxjn",
+          "complex_id": 483,
+          "is_verified": false,
+          "price": 488564.0,
+          "currency": 17962.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.2344,
+            50.4821
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrpvzzx",
+          "complex_id": 1522,
+          "is_verified": false,
+          "price": 1265780.0,
+          "currency": 46536.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1683,
+            50.4562
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrn3rbg",
+          "complex_id": 106,
+          "is_verified": false,
+          "price": 793600.0,
+          "currency": 29176.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1418,
+            50.535
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vrmzsee",
+          "complex_id": 282,
+          "is_verified": false,
+          "price": 389400.0,
+          "currency": 14316.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1655,
+            50.4438
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vqyrjb6",
+          "complex_id": 291,
+          "is_verified": false,
+          "price": 545200.0,
+          "currency": 20044.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.9845,
+            50.4395
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vqfq4p6",
+          "complex_id": 1638,
+          "is_verified": true,
+          "price": 2379800.0,
+          "currency": 87493.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.0475,
+            50.3427
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vq7sxgq",
+          "complex_id": 173,
+          "is_verified": false,
+          "price": 307490.0,
+          "currency": 11304.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.8507,
+            50.4311
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vnzk8w7",
+          "complex_id": 521,
+          "is_verified": false,
+          "price": 745440.0,
+          "currency": 27406.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.9014,
+            50.081
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8vkbkvwb",
+          "complex_id": 428,
+          "is_verified": false,
+          "price": 527068.0,
+          "currency": 19377.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1677,
+            49.7839
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7nqzkq",
+          "complex_id": 1523,
+          "is_verified": false,
+          "price": 782880.0,
+          "currency": 28782.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1677,
+            49.7839
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7nqzkm",
+          "complex_id": 108,
+          "is_verified": false,
+          "price": 782880.0,
+          "currency": 28782.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1624,
+            49.7832
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7nqg87",
+          "complex_id": 512,
+          "is_verified": false,
+          "price": 750890.0,
+          "currency": 27606.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1474,
+            49.7871
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7np2wt",
+          "complex_id": 305,
+          "is_verified": false,
+          "price": 742900.0,
+          "currency": 27312.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1187,
+            49.7955
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7m2gz8",
+          "complex_id": 304,
+          "is_verified": false,
+          "price": 1153440.0,
+          "currency": 42406.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1087,
+            49.7987
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7m1s6q",
+          "complex_id": 475,
+          "is_verified": false,
+          "price": 1310050.0,
+          "currency": 48163.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1072,
+            49.7952
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7m0gmu",
+          "complex_id": 1436,
+          "is_verified": false,
+          "price": 1060000.0,
+          "currency": 38970.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.1015,
+            49.804
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v7kfx32",
+          "complex_id": 1533,
+          "is_verified": false,
+          "price": 819000.0,
+          "currency": 30110.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.0436,
+            49.8063
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v77dvng",
+          "complex_id": 1520,
+          "is_verified": false,
+          "price": 741150.0,
+          "currency": 27248.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.9302,
+            49.5218
+          ]
+        },
+        "properties": {
+          "count": 1,
+          "id": "u8v39p4mx",
+          "complex_id": 1521,
+          "is_verified": false,
+          "price": 722400.0,
+          "currency": 26559.0
+        }
+      }
+    ]
+  },
+  "bbox": [39.57771922702983,66.85270525924847,39.716217291261955,67.0803501900051]
+}

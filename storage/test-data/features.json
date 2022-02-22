@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_fridge_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_fridge_active.png",
+    "name": "Холодильник",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 2,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_microwave_oven_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_microwave_oven_active.png",
+    "name": "Мікрохвильова піч",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 3,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_plate_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_plate_active.png",
+    "name": "Плита",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 5,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_shower_cabin_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_shower_cabin_inactive_copy.png",
+    "name": "Душова кабіна",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 7,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_coffee_machine_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_coffee_machine_active.png",
+    "name": "Кавоварка",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 8,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_dishwasher_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_dishwasher_active.png",
+    "name": "Посудомийна машина",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 9,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_tv_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_tv_active.png",
+    "name": "Телевізор",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 10,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_washer_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_washer_active.png",
+    "name": "Пральна машина",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 11,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_drying_machine_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_drying_machine_active.png",
+    "name": "Сушильна машина",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 12,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_oven_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_oven_active.png",
+    "name": "Духова шафа",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 13,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_hoover_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_hoover_active.png",
+    "name": "Пилосос",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 4
+  },
+  {
+    "id": 14,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_water_heating_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_water_heating_active.png",
+    "name": "Підігрів води",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 15,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_conditioner_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_conditioner_active.png",
+    "name": "Кондиціонер",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 16,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_wifi_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_wifi_active.png",
+    "name": "Wi-Fi",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 17,
+    "icon": "https://static.dimdim.wrenchtech.io/features/fast_internet_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_fast_internet_active.png",
+    "name": "Швидкісний Інтернет",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 18,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_bathroom_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_bathroom_active.png",
+    "name": "Ванна кімната",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 19,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_balcony_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_balcony_active.png",
+    "name": "Балкон",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 20,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_terrace_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_terrace_active.png",
+    "name": "Тераса",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 21,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_parking_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_parking_active.png",
+    "name": "Паркомісце",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 22,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_panoramic_windows_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_panoramic_windows_active.png",
+    "name": "Панорамні вікна",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 23,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_signaling_system_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_signaling_system_active.png",
+    "name": "Сигналізація",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 24,
+    "icon": "https://static.dimdim.wrenchtech.io/features/prod_dressing_room_inactive.png",
+    "icon_active": "https://static.dimdim.wrenchtech.io/features/prod_dressing_room_active.png",
+    "name": "Гардеробна",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": null,
+    "feature_category": 5
+  },
+  {
+    "id": 25,
+    "icon": null,
+    "icon_active": null,
+    "name": "Спортзал",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "gym",
+    "feature_category": 6
+  },
+  {
+    "id": 26,
+    "icon": null,
+    "icon_active": null,
+    "name": "Ресторан",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "restaurant",
+    "feature_category": 6
+  },
+  {
+    "id": 27,
+    "icon": null,
+    "icon_active": null,
+    "name": "Супермаркет",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "supermarket",
+    "feature_category": 6
+  },
+  {
+    "id": 28,
+    "icon": null,
+    "icon_active": null,
+    "name": "Дитячий садок",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "kindergarten",
+    "feature_category": 6
+  },
+  {
+    "id": 29,
+    "icon": null,
+    "icon_active": null,
+    "name": "Школа",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "school",
+    "feature_category": 6
+  },
+  {
+    "id": 30,
+    "icon": null,
+    "icon_active": null,
+    "name": "Парк",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "park",
+    "feature_category": 6
+  },
+  {
+    "id": 31,
+    "icon": null,
+    "icon_active": null,
+    "name": "Водойма",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "water",
+    "feature_category": 6
+  },
+  {
+    "id": 32,
+    "icon": null,
+    "icon_active": null,
+    "name": "Аптека",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "pharmacy",
+    "feature_category": 6
+  },
+  {
+    "id": 33,
+    "icon": null,
+    "icon_active": null,
+    "name": "Лікарня",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "hospital",
+    "feature_category": 6
+  },
+  {
+    "id": 34,
+    "icon": null,
+    "icon_active": null,
+    "name": "Ігровий майданчик",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "playground",
+    "feature_category": 6
+  },
+  {
+    "id": 35,
+    "icon": null,
+    "icon_active": null,
+    "name": "Орієнтир",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "landmark",
+    "feature_category": 6
+  },
+  {
+    "id": 36,
+    "icon": null,
+    "icon_active": null,
+    "name": "Об'єкт інфраструктури",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "landmarks",
+    "feature_category": 6
+  },
+  {
+    "id": 37,
+    "icon": null,
+    "icon_active": null,
+    "name": "Паркінг",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "parking",
+    "feature_category": 8
+  },
+  {
+    "id": 38,
+    "icon": null,
+    "icon_active": null,
+    "name": "Оздоблення квартир",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "flat_decoration",
+    "feature_category": 8
+  },
+  {
+    "id": 39,
+    "icon": null,
+    "icon_active": null,
+    "name": "Відеоспостереження",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "video_monitoring",
+    "feature_category": 7
+  },
+  {
+    "id": 40,
+    "icon": null,
+    "icon_active": null,
+    "name": "Консьєрж",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "has_concierge_service",
+    "feature_category": 7
+  },
+  {
+    "id": 41,
+    "icon": null,
+    "icon_active": null,
+    "name": "Закрита територія",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "is_closed_territory",
+    "feature_category": 7
+  },
+  {
+    "id": 42,
+    "icon": null,
+    "icon_active": null,
+    "name": "Концепція ЖК",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "complex_concept",
+    "feature_category": 7
+  },
+  {
+    "id": 43,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип стін",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "wall_type",
+    "feature_category": 8
+  },
+  {
+    "id": 44,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип утеплення стін",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "wall_warming_type",
+    "feature_category": 8
+  },
+  {
+    "id": 45,
+    "icon": null,
+    "icon_active": null,
+    "name": "Висота стель",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "ceiling_height",
+    "feature_category": 8
+  },
+  {
+    "id": 46,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип утеплення",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "warming_type",
+    "feature_category": 8
+  },
+  {
+    "id": 47,
+    "icon": null,
+    "icon_active": null,
+    "name": "Водопостачання",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "water_supply",
+    "feature_category": 8
+  },
+  {
+    "id": 48,
+    "icon": null,
+    "icon_active": null,
+    "name": "Пожежна безпека",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "fire_safety",
+    "feature_category": 8
+  },
+  {
+    "id": 49,
+    "icon": null,
+    "icon_active": null,
+    "name": "Технологія будівництва",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "technology",
+    "feature_category": 8
+  },
+  {
+    "id": 50,
+    "icon": null,
+    "icon_active": null,
+    "name": "Клас будинку",
+    "is_searchable": false,
+    "is_active": false,
+    "slug": "grade",
+    "feature_category": 8
+  },
+  {
+    "id": 51,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип спортивних об'єктів",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "sports_grounds_type",
+    "feature_category": 8
+  },
+  {
+    "id": 52,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип дитячих майданчиків",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "playgrounds_types",
+    "feature_category": 8
+  },
+  {
+    "id": 53,
+    "icon": null,
+    "icon_active": null,
+    "name": "Соціальна інфраструктура в ЖК",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "complex_infrastruct",
+    "feature_category": 8
+  },
+  {
+    "id": 54,
+    "icon": null,
+    "icon_active": null,
+    "name": "Завершення",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "start_year",
+    "feature_category": 8
+  },
+  {
+    "id": 55,
+    "icon": null,
+    "icon_active": null,
+    "name": "Вікна",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "window_types",
+    "feature_category": 8
+  },
+  {
+    "id": 56,
+    "icon": null,
+    "icon_active": null,
+    "name": "Колясочні",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "has_wheelchairs",
+    "feature_category": 8
+  },
+  {
+    "id": 57,
+    "icon": null,
+    "icon_active": null,
+    "name": "Облицювання",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "facade_facing",
+    "feature_category": 8
+  },
+  {
+    "id": 58,
+    "icon": null,
+    "icon_active": null,
+    "name": "Комори в будинку",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "has_storeyrooms",
+    "feature_category": 8
+  },
+  {
+    "id": 59,
+    "icon": null,
+    "icon_active": null,
+    "name": "Рік побудови будинку",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "built_year",
+    "feature_category": 8
+  },
+  {
+    "id": 60,
+    "icon": null,
+    "icon_active": null,
+    "name": "Балкони",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "balcony_loggia_terrace",
+    "feature_category": 8
+  },
+  {
+    "id": 61,
+    "icon": null,
+    "icon_active": null,
+    "name": "Спа-салон",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "spa",
+    "feature_category": 6
+  },
+  {
+    "id": 62,
+    "icon": null,
+    "icon_active": null,
+    "name": "Відпочинок",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "rest",
+    "feature_category": 6
+  },
+  {
+    "id": 63,
+    "icon": null,
+    "icon_active": null,
+    "name": "Бізнес",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "business",
+    "feature_category": 6
+  },
+  {
+    "id": 64,
+    "icon": null,
+    "icon_active": null,
+    "name": "Банк",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "bank",
+    "feature_category": 6
+  },
+  {
+    "id": 65,
+    "icon": null,
+    "icon_active": null,
+    "name": "Річка",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "river",
+    "feature_category": 6
+  },
+  {
+    "id": 66,
+    "icon": null,
+    "icon_active": null,
+    "name": "Озеро",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "lake",
+    "feature_category": 6
+  },
+  {
+    "id": 67,
+    "icon": null,
+    "icon_active": null,
+    "name": "Кінотеатр",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "cinema",
+    "feature_category": 6
+  },
+  {
+    "id": 68,
+    "icon": null,
+    "icon_active": null,
+    "name": "ТЦ",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "mall",
+    "feature_category": 6
+  },
+  {
+    "id": 69,
+    "icon": null,
+    "icon_active": null,
+    "name": "Ринок",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "market",
+    "feature_category": 6
+  },
+  {
+    "id": 70,
+    "icon": null,
+    "icon_active": null,
+    "name": "Магазин",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "shop",
+    "feature_category": 6
+  },
+  {
+    "id": 71,
+    "icon": null,
+    "icon_active": null,
+    "name": "Рекреаційна зона",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "recreational_area",
+    "feature_category": 6
+  },
+  {
+    "id": 72,
+    "icon": null,
+    "icon_active": null,
+    "name": "Транспортна розв'язка",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "traffic_intersection",
+    "feature_category": 6
+  },
+  {
+    "id": 73,
+    "icon": null,
+    "icon_active": null,
+    "name": "Ветеринарна клініка",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "veterinary_hospital",
+    "feature_category": 6
+  },
+  {
+    "id": 74,
+    "icon": null,
+    "icon_active": null,
+    "name": "Підземний паркінг",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "underground_parking",
+    "feature_category": 6
+  },
+  {
+    "id": 75,
+    "icon": null,
+    "icon_active": null,
+    "name": "Наземний паркінг",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "ground_parking",
+    "feature_category": 6
+  },
+  {
+    "id": 76,
+    "icon": null,
+    "icon_active": null,
+    "name": "Багаторівневий паркінг",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "multilevel_parking",
+    "feature_category": 6
+  },
+  {
+    "id": 77,
+    "icon": null,
+    "icon_active": null,
+    "name": "Салон краси",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "beauty_saloon",
+    "feature_category": 6
+  },
+  {
+    "id": 78,
+    "icon": null,
+    "icon_active": null,
+    "name": "Поверховість будинків",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "number_of_storeys",
+    "feature_category": 8
+  },
+  {
+    "id": 79,
+    "icon": null,
+    "icon_active": null,
+    "name": "Клас",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "complex_class",
+    "feature_category": 8
+  },
+  {
+    "id": 80,
+    "icon": null,
+    "icon_active": null,
+    "name": "Будинків у комплексі",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "house_count",
+    "feature_category": 8
+  },
+  {
+    "id": 81,
+    "icon": null,
+    "icon_active": null,
+    "name": "Квартир у ЖК",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "flats_count",
+    "feature_category": 8
+  },
+  {
+    "id": 82,
+    "icon": null,
+    "icon_active": null,
+    "name": "Паркінг",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "guest_parking_types",
+    "feature_category": 8
+  },
+  {
+    "id": 83,
+    "icon": null,
+    "icon_active": null,
+    "name": "Характеристика",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "default",
+    "feature_category": 8
+  },
+  {
+    "id": 84,
+    "icon": null,
+    "icon_active": null,
+    "name": "Технологія будівництва",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "construction_technology",
+    "feature_category": 6
+  },
+  {
+    "id": 85,
+    "icon": null,
+    "icon_active": null,
+    "name": "Оздоблення квартир",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "renovate",
+    "feature_category": 8
+  },
+  {
+    "id": 86,
+    "icon": null,
+    "icon_active": null,
+    "name": "Паркінг",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "tenants_parking_types",
+    "feature_category": 8
+  },
+  {
+    "id": 87,
+    "icon": null,
+    "icon_active": null,
+    "name": "Висота стель",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "ceil_height",
+    "feature_category": 8
+  },
+  {
+    "id": 88,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип утеплення стін",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "wall_warming",
+    "feature_category": 8
+  },
+  {
+    "id": 89,
+    "icon": null,
+    "icon_active": null,
+    "name": "Тип стін",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "wall_material",
+    "feature_category": 8
+  },
+  {
+    "id": 90,
+    "icon": null,
+    "icon_active": null,
+    "name": "Озеленення",
+    "is_searchable": true,
+    "is_active": true,
+    "slug": "planting_of_greenery",
+    "feature_category": 8
+  }
+]

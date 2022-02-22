@@ -1,0 +1,813 @@
+{
+  "id": 306,
+  "name": "ЖК Синергія Сіті",
+  "is_suburban": false,
+  "locality_name": "Ірпінь",
+  "status": "Будується",
+  "description": "«Синергія Сіті» — це великий житловий комплекс із закритою територією, будівництвом якого займається девелопер «Квартал Group» і будгрупа «Синергія». Всього планують звести 24 будинки бізнес-класу заввишки від 7 до 10 поверхів. Перший будинок вже введений у експлуатацію.\r\n\r\nРозташування\r\n\r\nЗнаходиться «Синергія Сіті» під Києвом, у Ірпені. До найближчої станції метро «Академмістечко» можна доїхати на автомобілі за 20 – 30 хвилин.\r\n\r\nІнфраструктура\r\n\r\nКонцепція комплексу «місто в місті» тут витримана за всіма правилами. Територія буде складатися з 30 закритих і 20 зовнішніх дворів. Також тут облаштують велику набережну і посадять більше 11 тис. дерев, що перетворяться на затишну зону для прогулянок. Мешканцям обіцяють 6 дитсадків, велику школу, понад півтисячі магазинів і власний торговельний центр. У комплексі відкриють кафе, фітнес-центр, різноманітні заклади для відпочинку і вирішення побутових питань. Для автомобілів передбачено 6 тис. паркувальних місць. \r\n\r\nКвартири\r\n\r\n«Синергія Ситі» пропонує квартири трьох основних типів: одно-, дво- і трикімнатні. Частина з них буде дворівневими. Площа — від 35 до 141 м2. Можна вибрати квартири з повним ремонтом, лише з чорновим оздобленням або з частковим ремонтом. У будинках буде індивідуальне опалення, високі стелі та сучасне утеплення стін мінеральною ватою.",
+  "url": "https://synergia.city",
+  "is_verified": true,
+  "should_show_plannings": true,
+  "should_show_3d_geodata": false,
+  "location_point": {
+    "lat": 50.50725460982,
+    "lon": 30.2532006957101
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      30.2532006957101,
+      50.50725460982
+    ]
+  },
+  "created_at": "2019-07-26T08:21:14+00:00",
+  "updated_at": "2021-06-23T12:15:20.891468+00:00",
+  "callback_phone": "+380677727106",
+  "address": "вулиця Озерна, Ірпінь",
+  "address_id": 49548,
+  "street_id": 4091,
+  "district": null,
+  "city": 1,
+  "images": [
+    "https://static.dimdim.wrenchtech.io/complexes/photos/6efc87fa-2f9e-485a-8df7-e509f233179d",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/5b78f3f2-e5dc-47cc-ab86-2ac05161c983",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/2f8cb2b7-04c0-47cb-a713-6cfe805d6f8d",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/7eb97429-a52b-4fd0-840b-9a351dfee773",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/6af50f04-2745-4832-9edc-4adc9d324b61",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/0846af41-447f-49e9-bc6e-fb19b7aa7f51",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/e416915a-3730-4137-8337-14b2d8938207",
+    "https://static.dimdim.wrenchtech.io/complexes/photos/e9f1d688-f595-4029-961b-f3cb52a354b6"
+  ],
+  "developers": [
+    {
+      "id": 783,
+      "name": "Квартал Group",
+      "icon": "https://static.dimdim.wrenchtech.io/complexes/f10c362244684f05a94c2e278a22d264.jpg",
+      "phone": null,
+      "email": null,
+      "viber": null,
+      "telegram": null,
+      "url": null,
+      "complexes_done": 0,
+      "houses_done": 0,
+      "complexes_in_progress": 1,
+      "houses_in_progress": 5
+    }
+  ],
+  "lines": [
+    {
+      "year": 2022,
+      "quarter": 3,
+      "plans": {
+        "1": {
+          "room_num": 1,
+          "icon": "https://static.dimdim.wrenchtech.io/icons/one_room_inactive.png",
+          "min_price_uah": 807400,
+          "min_price_usd": 29684,
+          "min_price_rub": 2147684,
+          "min_price_eur": 25152,
+          "min_price_pln": 129184,
+          "min_size_total": 36.7,
+          "max_size_total": 38.7,
+          "available": 3
+        },
+        "2": {
+          "room_num": 2,
+          "icon": "https://static.dimdim.wrenchtech.io/icons/two_rooms_inactive.png",
+          "min_price_uah": 1019520,
+          "min_price_usd": 37482,
+          "min_price_rub": 2711923,
+          "min_price_eur": 31761,
+          "min_price_pln": 163123,
+          "min_size_total": 57.6,
+          "max_size_total": 57.6,
+          "available": 1
+        },
+        "3": {
+          "room_num": 3,
+          "icon": "https://static.dimdim.wrenchtech.io/icons/three_rooms_inactive.png",
+          "min_price_uah": 1424600,
+          "min_price_usd": 52375,
+          "min_price_rub": 3789436,
+          "min_price_eur": 44380,
+          "min_price_pln": 227936,
+          "min_size_total": 83.8,
+          "max_size_total": 83.8,
+          "available": 1
+        }
+      },
+      "is_finished": false
+    },
+    {
+      "year": 2021,
+      "quarter": 4,
+      "plans": {
+        "1": {
+          "room_num": 1,
+          "icon": "https://static.dimdim.wrenchtech.io/icons/one_room_inactive.png",
+          "min_price_uah": 807400,
+          "min_price_usd": 29684,
+          "min_price_rub": 2147684,
+          "min_price_eur": 25152,
+          "min_price_pln": 129184,
+          "min_size_total": 36.7,
+          "max_size_total": 38.7,
+          "available": 3
+        },
+        "2": {
+          "room_num": 2,
+          "icon": "https://static.dimdim.wrenchtech.io/icons/two_rooms_inactive.png",
+          "min_price_uah": 941640,
+          "min_price_usd": 34619,
+          "min_price_rub": 2504762,
+          "min_price_eur": 29334,
+          "min_price_pln": 150662,
+          "min_size_total": 53.2,
+          "max_size_total": 54.2,
+          "available": 2
+        },
+        "3": {
+          "room_num": 3,
+          "icon": "https://static.dimdim.wrenchtech.io/icons/three_rooms_inactive.png",
+          "min_price_uah": 1339600,
+          "min_price_usd": 49250,
+          "min_price_rub": 3563336,
+          "min_price_eur": 41732,
+          "min_price_pln": 214336,
+          "min_size_total": 78.8,
+          "max_size_total": 78.8,
+          "available": 1
+        }
+      },
+      "is_finished": false
+    }
+  ],
+  "uah_max": 807400,
+  "plans": [
+    {
+      "name": "ДОМ 7 (секция 20): 3-комнатная",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 17000,
+      "rooms_num": 3,
+      "uah": {
+        "max": 1424600,
+        "min": 1424600
+      },
+      "usd": {
+        "max": 52375,
+        "min": 52375
+      },
+      "eur": {
+        "max": 44380,
+        "min": 44380
+      },
+      "rub": {
+        "max": 3789436,
+        "min": 3789436
+      },
+      "pln": {
+        "max": 227936,
+        "min": 227936
+      },
+      "total": 1,
+      "floors": [
+        6,
+        7,
+        8
+      ],
+      "available": 1,
+      "size_total": 83.8
+    },
+    {
+      "name": "ДОМ 2: 1-комнатная, 36.7",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 22000,
+      "rooms_num": 1,
+      "uah": {
+        "max": 807400,
+        "min": 807400
+      },
+      "usd": {
+        "max": 29684,
+        "min": 29684
+      },
+      "eur": {
+        "max": 25152,
+        "min": 25152
+      },
+      "rub": {
+        "max": 2147684,
+        "min": 2147684
+      },
+      "pln": {
+        "max": 129184,
+        "min": 129184
+      },
+      "total": 1,
+      "floors": [
+        6,
+        7,
+        8
+      ],
+      "available": 1,
+      "size_total": 36.7
+    },
+    {
+      "name": "ДОМ 2: 2-комнатная, 57,6",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 17700,
+      "rooms_num": 2,
+      "uah": {
+        "max": 1019520,
+        "min": 1019520
+      },
+      "usd": {
+        "max": 37482,
+        "min": 37482
+      },
+      "eur": {
+        "max": 31761,
+        "min": 31761
+      },
+      "rub": {
+        "max": 2711923,
+        "min": 2711923
+      },
+      "pln": {
+        "max": 163123,
+        "min": 163123
+      },
+      "total": 1,
+      "floors": [
+        6,
+        7,
+        8
+      ],
+      "available": 1,
+      "size_total": 57.6
+    },
+    {
+      "name": "ДОМ 2: 1-комнатная, 38.7",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 22000,
+      "rooms_num": 1,
+      "uah": {
+        "max": 851400,
+        "min": 851400
+      },
+      "usd": {
+        "max": 31301,
+        "min": 31301
+      },
+      "eur": {
+        "max": 26523,
+        "min": 26523
+      },
+      "rub": {
+        "max": 2264724,
+        "min": 2264724
+      },
+      "pln": {
+        "max": 136224,
+        "min": 136224
+      },
+      "total": 1,
+      "floors": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "available": 1,
+      "size_total": 38.7
+    },
+    {
+      "name": "ДОМ 7 (секция 20): 1-комнатная",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 22000,
+      "rooms_num": 1,
+      "uah": {
+        "max": 829400,
+        "min": 829400
+      },
+      "usd": {
+        "max": 30492,
+        "min": 30492
+      },
+      "eur": {
+        "max": 25838,
+        "min": 25838
+      },
+      "rub": {
+        "max": 2206204,
+        "min": 2206204
+      },
+      "pln": {
+        "max": 132704,
+        "min": 132704
+      },
+      "total": 1,
+      "floors": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "available": 1,
+      "size_total": 37.7
+    },
+    {
+      "name": "ДОМ 1: 2-комнатная, 53,20",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 17700,
+      "rooms_num": 2,
+      "uah": {
+        "max": 941640,
+        "min": 941640
+      },
+      "usd": {
+        "max": 34619,
+        "min": 34619
+      },
+      "eur": {
+        "max": 29334,
+        "min": 29334
+      },
+      "rub": {
+        "max": 2504762,
+        "min": 2504762
+      },
+      "pln": {
+        "max": 150662,
+        "min": 150662
+      },
+      "total": 1,
+      "floors": [
+        6,
+        7,
+        8
+      ],
+      "available": 1,
+      "size_total": 53.2
+    },
+    {
+      "name": "ДОМ 1: 3-комнатная, 89.55",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 17000,
+      "rooms_num": 3,
+      "uah": {
+        "max": 1339600,
+        "min": 1339600
+      },
+      "usd": {
+        "max": 49250,
+        "min": 49250
+      },
+      "eur": {
+        "max": 41732,
+        "min": 41732
+      },
+      "rub": {
+        "max": 3563336,
+        "min": 3563336
+      },
+      "pln": {
+        "max": 214336,
+        "min": 214336
+      },
+      "total": 1,
+      "floors": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "available": 1,
+      "size_total": 78.8
+    },
+    {
+      "name": "ДОМ 1: 2-комнатная, 54,20",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 17700,
+      "rooms_num": 2,
+      "uah": {
+        "max": 959340,
+        "min": 959340
+      },
+      "usd": {
+        "max": 35270,
+        "min": 35270
+      },
+      "eur": {
+        "max": 29886,
+        "min": 29886
+      },
+      "rub": {
+        "max": 2551844,
+        "min": 2551844
+      },
+      "pln": {
+        "max": 153494,
+        "min": 153494
+      },
+      "total": 1,
+      "floors": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "available": 1,
+      "size_total": 54.2
+    },
+    {
+      "name": "ДОМ 1: 1-комнатная, 38.70",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 22000,
+      "rooms_num": 1,
+      "uah": {
+        "max": 851400,
+        "min": 851400
+      },
+      "usd": {
+        "max": 31301,
+        "min": 31301
+      },
+      "eur": {
+        "max": 26523,
+        "min": 26523
+      },
+      "rub": {
+        "max": 2264724,
+        "min": 2264724
+      },
+      "pln": {
+        "max": 136224,
+        "min": 136224
+      },
+      "total": 1,
+      "floors": [
+        6,
+        7,
+        8
+      ],
+      "available": 1,
+      "size_total": 38.7
+    },
+    {
+      "name": "ДОМ 1: 1-комнатная, 37,7",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 22000,
+      "rooms_num": 1,
+      "uah": {
+        "max": 829400,
+        "min": 829400
+      },
+      "usd": {
+        "max": 30492,
+        "min": 30492
+      },
+      "eur": {
+        "max": 25838,
+        "min": 25838
+      },
+      "rub": {
+        "max": 2206204,
+        "min": 2206204
+      },
+      "pln": {
+        "max": 132704,
+        "min": 132704
+      },
+      "total": 1,
+      "floors": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "available": 1,
+      "size_total": 37.7
+    },
+    {
+      "name": "ДОМ 1: 1-комнатная, 36,7",
+      "is_first_floor": false,
+      "is_last_floor": false,
+      "fee_per_square": 22000,
+      "rooms_num": 1,
+      "uah": {
+        "max": 807400,
+        "min": 807400
+      },
+      "usd": {
+        "max": 29684,
+        "min": 29684
+      },
+      "eur": {
+        "max": 25152,
+        "min": 25152
+      },
+      "rub": {
+        "max": 2147684,
+        "min": 2147684
+      },
+      "pln": {
+        "max": 129184,
+        "min": 129184
+      },
+      "total": 1,
+      "floors": [
+        6,
+        7,
+        8
+      ],
+      "available": 1,
+      "size_total": 36.7
+    }
+  ],
+  "lines_ranges": [
+    20223,
+    20214
+  ],
+  "house_attributes": {
+    "title": "Характеристики ЖК",
+    "items": [
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/01_Клас_дома.png",
+        "title": "Клас",
+        "type": "complex_class",
+        "order": 0,
+        "value": [
+          "Бізнес"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/10_Домов.png",
+        "title": "Будинків у комплексі",
+        "type": "house_count",
+        "order": 1,
+        "value": [
+          "6"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/11_Этажность.png",
+        "title": "Поверховість",
+        "type": "number_of_storeys",
+        "order": 2,
+        "value": [
+          "7-10"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/02_Технология_строительства.png",
+        "title": "Технологія будівництва",
+        "type": "construction_technology",
+        "order": 3,
+        "value": [
+          "Цегляна"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/07_Cтены.png",
+        "title": "Тип стін",
+        "type": "wall_material",
+        "order": 4,
+        "value": [
+          "Цегла"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/08_Утепление.png",
+        "title": "Утеплення стін",
+        "type": "wall_warming",
+        "order": 6,
+        "value": [
+          "Мінеральна вата"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/Group_788.png",
+        "title": "Опалення",
+        "type": "heating",
+        "order": 7,
+        "value": [
+          "Централізоване"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/06_Высота_потолков.png",
+        "title": "Висота стель у квартирах",
+        "type": "ceil_height",
+        "order": 8,
+        "value": [
+          "2,8"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/09_Количество_квартир.png",
+        "title": "Кількість квартир",
+        "type": "flats_count",
+        "order": 11,
+        "value": [
+          "400"
+        ]
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/18_Наземныи_паркинг.png",
+        "title": "Наземний паркінг",
+        "type": "ground_parking",
+        "order": 30,
+        "value": [
+          "2000 місць"
+        ]
+      }
+    ]
+  },
+  "infrastructure": {
+    "title": "Інфраструктура",
+    "items": [
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/05_Школа.png",
+        "type": "school",
+        "value": "Школа",
+        "distance": 0,
+        "order": 0
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/04_Детскии_сад.png",
+        "type": "kindergarten",
+        "value": "Дитячий садок",
+        "distance": 0,
+        "order": 1
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/13_Магазины.png",
+        "type": "supermarket",
+        "value": "Магазин",
+        "distance": 0,
+        "order": 2
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/07_Фитнес_центр_.png",
+        "type": "gym",
+        "value": "Спортзал",
+        "distance": 0,
+        "order": 3
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/03_Ресторан.png",
+        "type": "restaurant",
+        "value": "Ресторан",
+        "distance": 0,
+        "order": 4
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/13_Магазины.png",
+        "type": "supermarket",
+        "value": "Кінотеатр",
+        "distance": 20,
+        "order": 5
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/08_Больница.png",
+        "type": "hospital",
+        "value": "Лікарня",
+        "distance": 0,
+        "order": 6
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/13_Магазины.png",
+        "type": "supermarket",
+        "value": "Ринок",
+        "distance": 10,
+        "order": 7
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/06_Аптека.png",
+        "type": "pharmacy",
+        "value": "Аптека",
+        "distance": 0,
+        "order": 8
+      },
+      {
+        "icon": "https://static.dimdim.wrenchtech.io/features/13_Магазины.png",
+        "type": "supermarket",
+        "value": "Новус",
+        "distance": 7,
+        "order": 9
+      }
+    ]
+  },
+  "complex_advanteges": {
+    "title": "Переваги ЖК",
+    "items": []
+  },
+  "build_steps": {
+    "title": "Процес будівництва",
+    "items": [
+      {
+        "date": "2021-06-09T00:00:00+00:00",
+        "img": "https://static.dimdim.wrenchtech.io/complexes/build_steps/9494399e6aeb4d1eac59d3cbe7e52f7a.jpg"
+      },
+      {
+        "date": "2021-05-05T00:00:00+00:00",
+        "img": "https://static.dimdim.wrenchtech.io/complexes/build_steps/7d9e1b2bb00f4b75b0dc415dda8831e5.jpg"
+      },
+      {
+        "date": "2021-04-07T00:00:00+00:00",
+        "img": "https://static.dimdim.wrenchtech.io/complexes/build_steps/ad8a8b816ac148d1a2e17c59091c98a3.jpg"
+      },
+      {
+        "date": "2021-03-22T10:47:33+00:00",
+        "img": "https://static.dimdim.wrenchtech.io/complexes/build_steps/190e6c800928491882590b67e699746a.jpg"
+      },
+      {
+        "date": "2021-02-28T10:47:18+00:00",
+        "img": "https://static.dimdim.wrenchtech.io/complexes/build_steps/7324ffaf6ad54d279b27cb24dca2d8c1.jpg"
+      },
+      {
+        "date": "2021-01-31T10:46:49+00:00",
+        "img": "https://static.dimdim.wrenchtech.io/complexes/build_steps/002f330561cd4f119aa68f6dc1325715.jpg"
+      },
+      {
+        "date": "2020-07-01T00:00:00+00:00",
+        "img": "https://www.bild.ua/images/thumb/full/00005f10050d10bd6bc3.jpg"
+      },
+      {
+        "date": "2020-06-01T00:00:00+00:00",
+        "img": "https://www.bild.ua/images/thumb/full/00005f1004fd4eb1d837.jpg"
+      },
+      {
+        "date": "2020-05-01T00:00:00+00:00",
+        "img": "https://www.bild.ua/images/thumb/full/00005ed50e2c5f404c37.jpg"
+      },
+      {
+        "date": "2019-09-01T00:00:00+00:00",
+        "img": "https://www.bild.ua/images/thumb/full/00005e7dab4157b84c6c.jpg"
+      },
+      {
+        "date": "2019-08-01T00:00:00+00:00",
+        "img": "https://www.bild.ua/images/thumb/full/00005e7dab1b28ca56c1.jpg"
+      }
+    ],
+    "video_streams": []
+  },
+  "promotions": {
+    "title": "Знижки та акції",
+    "items": [
+      {
+        "description": "Знижка 5% від першого внеску на 2- та 3-кімнатні квартири.",
+        "due_date": null,
+        "order": 3
+      },
+      {
+        "description": "Розтермінування 0% на 24 міс із першим внеском від 50%",
+        "due_date": null,
+        "order": 2
+      },
+      {
+        "description": "Знижка до 140 000 грн на 2-рівневі квартири",
+        "due_date": null,
+        "order": 1
+      },
+      {
+        "description": "на 2 роки 1-й внесок від 30%",
+        "due_date": null,
+        "order": 0
+      }
+    ]
+  },
+  "min_square_meter_prices": {
+    "uah": 16000,
+    "usd": 588,
+    "eur": 498,
+    "rub": 42560,
+    "pln": 2560
+  },
+  "labels": [
+    {
+      "text": "",
+      "colour": "F59142",
+      "icon_url": "https://static.dimdim.wrenchtech.io/label_icon/6a1c7eb5ee66478f843f19e1f4b92c95.png",
+      "type": "verified"
+    }
+  ],
+  "expert_opinion": null,
+  "complex_class": "Бізнес",
+  "nearest_complex_release": {
+    "year": 2021,
+    "quarter": 4
+  },
+  "score": 210.19242012613566
+}

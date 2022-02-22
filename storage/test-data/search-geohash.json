@@ -1,0 +1,507 @@
+[
+  {
+    "id": 4535885,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Предлагается в долгосрочную аренду Видовая Евродвушка (большая кухня студия + отдельная комната) ЖК\"Теремки\" в Голосеевском районе Теремки ул.Заболотного 15 Л\nВсё новое! Первая сдача! После ремонта!\nКвартира полностью укомплектована мебелью и техникой для Вашего комфортного проживания (Холодильник, посудомойка, электро чайник, микроволновая печь, духовой шкаф, телевизор, WiFi, 2 кондиционера, подогрев полов, сигнализация, бойлер, стиральная машина), имеет панорамный вид на Одесскую площадь! Установлены счетчики тепла, воды и эл. энергии.\nЖК расположен возле парка ВДНХ и Голосеевского леса\nРазвитая инфраструктура..\nметро Теремки\nХозяин - БЕЗ КОМИССИИ\n14000 +к.у. первый + последний месяц, без животных, не курящим.",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-goloseevskiy-akademika-zabolotnogo-ulitsa-19947157.html",
+    "base_price": 14000,
+    "price_uah": 14000,
+    "price_usd": 516,
+    "price_eur": 432,
+    "price_rub": 37240,
+    "price_pln": 2240,
+    "district": "Голосеевский район",
+    "street": "улица Академика Заболотного",
+    "building_no": "15",
+    "is_owner": true,
+    "is_verified": false,
+    "owner_name": "Вадим",
+    "created_at": "2021-06-15T19:39:09.726700+00:00",
+    "updated_at": "2021-06-15T19:39:09.726704+00:00",
+    "size_total": 48,
+    "size_kitchen": 18,
+    "room": 1,
+    "floor": 25,
+    "floors_total": 25,
+    "group_id": 20709486,
+    "currency": "UAH",
+    "is_last_floor": true,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4781926,
+        50.3577723
+      ]
+    },
+    "location_point": {
+      "lat": 50.3577723,
+      "lon": 30.4781926
+    },
+    "address_raw": "улица Академика Заболотного, 15, Голосеевский район, Киев",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4781926,
+          50.3577723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4535885
+        ],
+        "price_uah": 14000,
+        "count": 1,
+        "hash": "u8vwmx3e3",
+        "min_price_uah": "14 000",
+        "max_price_uah": "14 000",
+        "min_price_usd": "516",
+        "max_price_usd": "516",
+        "min_price_eur": "432",
+        "max_price_eur": "432",
+        "min_price_rub": "37 240",
+        "max_price_rub": "37 240",
+        "min_price_pln": "2 240",
+        "max_price_pln": "2 240"
+      }
+    },
+    "locality_name": "Киев",
+    "address_id": 40483,
+    "street_id": 421,
+    "complex_id": 243,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/436ce0f0-7afa-4057-b44f-94f5e343073f",
+      "https://static.dimdim.wrenchtech.io/4dbbcb57-3299-4007-af36-79aae5080c54",
+      "https://static.dimdim.wrenchtech.io/212e71e3-321b-462b-80b2-c522622b04c3",
+      "https://static.dimdim.wrenchtech.io/02b8812c-be47-4f48-a421-e4bf3e8d6e99",
+      "https://static.dimdim.wrenchtech.io/dd714ba9-9ca7-4fae-8f30-73c5637f69c0",
+      "https://static.dimdim.wrenchtech.io/6969342c-8d64-48a9-a2ea-12aa5bf60f9c",
+      "https://static.dimdim.wrenchtech.io/c0dc9315-919c-4f58-ac70-f8013b43b9e8",
+      "https://static.dimdim.wrenchtech.io/72198621-83f0-44d8-a35d-216d363fd7d3",
+      "https://static.dimdim.wrenchtech.io/a594e092-524a-4434-be3c-5a4eada24322",
+      "https://static.dimdim.wrenchtech.io/60fb8043-544d-4895-946a-97003f30f8ef",
+      "https://static.dimdim.wrenchtech.io/f459a03a-e715-4563-a94f-5df0a0dbab20",
+      "https://static.dimdim.wrenchtech.io/516876e8-cb1c-442a-8d44-f5158746cd26",
+      "https://static.dimdim.wrenchtech.io/1e7a8479-f3e9-4316-b155-3c7b4264f9b9",
+      "https://static.dimdim.wrenchtech.io/7a223c30-66b2-498b-b36a-a554416b19cf"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-goloseevskiy-akademika-zabolotnogo-ulitsa-19947157.html",
+        "price_uah": 14000,
+        "price_usd": 516,
+        "price_eur": 432,
+        "price_rub": 37240,
+        "price_pln": 2240,
+        "is_owner": true,
+        "created_at": "2021-06-15T19:32:08+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375758937",
+        "price_uah": 14000,
+        "price_usd": 516,
+        "price_eur": 432,
+        "price_rub": 37240,
+        "price_pln": 2240,
+        "is_owner": true,
+        "created_at": "2021-06-03T21:00:00+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-teremki-2-akademika-zabolotnogo-ulitsa-19892318.html",
+        "price_uah": 15000,
+        "price_usd": 553,
+        "price_eur": 462,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-06-07T09:18:24+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/pervaya-sdacha-arenda-vidovoy-kvartiry-zhk-teremki-IDLVGXg.html",
+        "price_uah": 15000,
+        "price_usd": 553,
+        "price_eur": 462,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-06-17T02:58:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375738954",
+        "price_uah": 15000,
+        "price_usd": 553,
+        "price_eur": 462,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-06-06T21:00:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375716527",
+        "price_uah": 14500,
+        "price_usd": 535,
+        "price_eur": 447,
+        "price_rub": 38570,
+        "price_pln": 2320,
+        "is_owner": false,
+        "created_at": "2021-05-05T21:00:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375715922",
+        "price_uah": 15000,
+        "price_usd": 553,
+        "price_eur": 462,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-05-06T21:00:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375724137",
+        "price_uah": 14000,
+        "price_usd": 516,
+        "price_eur": 432,
+        "price_rub": 37240,
+        "price_pln": 2240,
+        "is_owner": false,
+        "created_at": "2021-05-11T21:00:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375748710",
+        "price_uah": 15000,
+        "price_usd": 553,
+        "price_eur": 462,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-06-06T21:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4465567,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Чудова 1-кімнатна квартира, площею 48. кв.м., з великою кухнею та окремою гардеробною кімнатою. (мебель виготовлялась під замовлення). Квартира здається вперше. Інтернет - 500 Мбіт/с. Німецька сантехніка та якісна побутова техніка. Розкішний вид з вікон на парк Феофанія та музей \"Пирогово\". До метро 15 хв. пішки або декілька зупинок громадським транспортом.\nБез тварин.\nБытовая техника: Стиральная машина, Варочная панель, Микроволновая печь, Духовой шкаф\nМультимедиа: Кабельное, цифровое ТВ, Скоростной интернет, Телевизор\n8707",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-teremki-1-akademika-zabolotnogo-ulitsa-19593174.html",
+    "base_price": 16500,
+    "price_uah": 16500,
+    "price_usd": 608,
+    "price_eur": 509,
+    "price_rub": 43890,
+    "price_pln": 2640,
+    "district": "Голосеевский район",
+    "street": "улица Академика Заболотного",
+    "building_no": "15",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Андріана Миколаївна Куриндаш",
+    "created_at": "2021-06-07T06:42:42.709010+00:00",
+    "updated_at": "2021-06-07T06:42:42.709015+00:00",
+    "size_total": 48,
+    "size_kitchen": 14,
+    "room": 1,
+    "floor": 20,
+    "floors_total": 25,
+    "group_id": 20709486,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4781926,
+        50.3577723
+      ]
+    },
+    "location_point": {
+      "lat": 50.3577723,
+      "lon": 30.4781926
+    },
+    "address_raw": "улица Академика Заболотного, 15, Голосеевский район, Киев",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4781926,
+          50.3577723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4465567
+        ],
+        "price_uah": 16500,
+        "count": 1,
+        "hash": "u8vwmx3e3",
+        "min_price_uah": "16 500",
+        "max_price_uah": "16 500",
+        "min_price_usd": "608",
+        "max_price_usd": "608",
+        "min_price_eur": "509",
+        "max_price_eur": "509",
+        "min_price_rub": "43 890",
+        "max_price_rub": "43 890",
+        "min_price_pln": "2 640",
+        "max_price_pln": "2 640"
+      }
+    },
+    "locality_name": "Киев",
+    "address_id": 40483,
+    "street_id": 421,
+    "complex_id": 243,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/fb66ddcc-6223-45c1-a2fe-cc0f2537a680",
+      "https://static.dimdim.wrenchtech.io/f24a2758-dd3e-496d-aa1e-04f407cba8d4",
+      "https://static.dimdim.wrenchtech.io/bacd8406-0fc2-4445-aeaa-4e437e033d8d",
+      "https://static.dimdim.wrenchtech.io/f723ebb3-8251-4cdc-840c-daf972bc8cd2",
+      "https://static.dimdim.wrenchtech.io/4b0b9c67-9257-4a4f-b3c4-fe41fbf27eb0",
+      "https://static.dimdim.wrenchtech.io/13c764e8-c338-4b93-9263-836c78862138",
+      "https://static.dimdim.wrenchtech.io/869a20d0-3705-413e-8c16-8ed88d131ade",
+      "https://static.dimdim.wrenchtech.io/6fdf8720-cd40-4534-be54-32fddf9d8b8d",
+      "https://static.dimdim.wrenchtech.io/58501a6d-51cf-44df-952e-c288b24a0229",
+      "https://static.dimdim.wrenchtech.io/fe924c99-9a20-49b7-ad2a-5234e29cbcbc"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-teremki-1-akademika-zabolotnogo-ulitsa-19593174.html",
+        "price_uah": 16500,
+        "price_usd": 608,
+        "price_eur": 509,
+        "price_rub": 43890,
+        "price_pln": 2640,
+        "is_owner": false,
+        "created_at": "2021-06-07T06:38:13+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4342280,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "В квартире есть чайник, холодильник, стиральная машина, утюг, электрическая плита, сушилка для одежды, роутер, вся необходимая посуда. Просторный двойной длинный балкон. Стол, мебель, шкафы. Двухместный раскладной диван в зале, двухместная кровать в спальной. Кафель в туалете, ванной комнате и на кухне. Оплата за коммунальные услуги небольшая (как за одного человека, без счетчиков на воду). Рядом детский сад, две школы, рынок \"Феофания\" под домом. ТРЦ \"Магелан\", лесопарковая зона. Удобные маршрутные решения \"связки. Автовокзал. Номер объявления на сайте компании: RF-1-969-038-DR.",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-teremki-2-akademika-zabolotnogo-ulitsa-19745475.html",
+    "base_price": 10000,
+    "price_uah": 10000,
+    "price_usd": 369,
+    "price_eur": 308,
+    "price_rub": 26600,
+    "price_pln": 1600,
+    "district": "Голосеевский район",
+    "street": "улица Академика Заболотного",
+    "building_no": "15",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Кирилл",
+    "created_at": "2021-05-13T17:26:15.698641+00:00",
+    "updated_at": "2021-05-13T17:26:15.698645+00:00",
+    "size_total": 56,
+    "size_kitchen": 8,
+    "room": 2,
+    "floor": 17,
+    "floors_total": 18,
+    "group_id": 20709486,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4781926,
+        50.3577723
+      ]
+    },
+    "location_point": {
+      "lat": 50.3577723,
+      "lon": 30.4781926
+    },
+    "address_raw": "улица Академика Заболотного, 15, Голосеевский район, Киев",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4781926,
+          50.3577723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4342280
+        ],
+        "price_uah": 10000,
+        "count": 1,
+        "hash": "u8vwmx3e3",
+        "min_price_uah": "10 000",
+        "max_price_uah": "10 000",
+        "min_price_usd": "369",
+        "max_price_usd": "369",
+        "min_price_eur": "308",
+        "max_price_eur": "308",
+        "min_price_rub": "26 600",
+        "max_price_rub": "26 600",
+        "min_price_pln": "1 600",
+        "max_price_pln": "1 600"
+      }
+    },
+    "locality_name": "Киев",
+    "address_id": 40483,
+    "street_id": 421,
+    "complex_id": 243,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/10306f73-42e1-4f0f-9989-d4921faf6e31",
+      "https://static.dimdim.wrenchtech.io/24390b77-3323-4ba7-b25c-a69a09d8ee64",
+      "https://static.dimdim.wrenchtech.io/22db13f5-91ff-45af-9ed7-cbcba33440c6",
+      "https://static.dimdim.wrenchtech.io/5fcc23d9-1cbf-4398-8708-b5376f48ca8e",
+      "https://static.dimdim.wrenchtech.io/5c6c5c69-38b5-4ef5-8549-b0dbeb4d26ff",
+      "https://static.dimdim.wrenchtech.io/b4c42b96-657a-485d-9b66-5fafd015b974",
+      "https://static.dimdim.wrenchtech.io/3d1d78f1-9b94-4eae-b9de-4167c66679ec",
+      "https://static.dimdim.wrenchtech.io/e161cfdb-b470-4a75-bf0b-9b21a5cf0948",
+      "https://static.dimdim.wrenchtech.io/13256a8a-fc86-46b4-a835-c5006028f87d",
+      "https://static.dimdim.wrenchtech.io/ca1cb0c0-a3e5-4e11-8376-4b2748ab50c7",
+      "https://static.dimdim.wrenchtech.io/29edc4fa-0c6e-4375-94b3-a6a780d68828",
+      "https://static.dimdim.wrenchtech.io/5408f54e-b9fb-4473-9392-b0d38a01b93a",
+      "https://static.dimdim.wrenchtech.io/6ab147e9-01d9-49ac-b4f0-98fc06cc69c2",
+      "https://static.dimdim.wrenchtech.io/73803256-65ea-46ff-9dc9-84627f1b6512"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-teremki-2-akademika-zabolotnogo-ulitsa-19745475.html",
+        "price_uah": 10000,
+        "price_usd": 369,
+        "price_eur": 308,
+        "price_rub": 26600,
+        "price_pln": 1600,
+        "is_owner": false,
+        "created_at": "2021-05-13T16:38:13+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4288943,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "В долгосрочную аренду предлагается 3х комнатная квартира по улице Академика Заболотного 15л, ЖК \"Теремки\".\nРасположена на 17 этаже 25 этажного дома, общей площадью 86 м2.\nКвартира с евроремонтом, комнаты раздельные.\nПо договоренности собственника с арендатором квартира комплектуется мебелью и техникой для комфортного проживания.\nУдобная транспортная развязка, 10 минут пешком к метро Теремки.",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-goloseev-akademika-zabolotnogo-ulitsa-19672236.html",
+    "base_price": 18000,
+    "price_uah": 18000,
+    "price_usd": 664,
+    "price_eur": 555,
+    "price_rub": 47880,
+    "price_pln": 2880,
+    "district": "Голосеевский район",
+    "street": "улица Академика Заболотного",
+    "building_no": "15",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Алина Голык",
+    "created_at": "2021-05-01T07:26:23.312117+00:00",
+    "updated_at": "2021-05-01T07:26:23.312120+00:00",
+    "size_total": 86,
+    "size_kitchen": 15,
+    "room": 3,
+    "floor": 17,
+    "floors_total": 25,
+    "group_id": 20709486,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4781926,
+        50.3577723
+      ]
+    },
+    "location_point": {
+      "lat": 50.3577723,
+      "lon": 30.4781926
+    },
+    "address_raw": "улица Академика Заболотного, 15, Голосеевский район, Киев",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4781926,
+          50.3577723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4288943
+        ],
+        "price_uah": 18000,
+        "count": 1,
+        "hash": "u8vwmx3e3",
+        "min_price_uah": "18 000",
+        "max_price_uah": "18 000",
+        "min_price_usd": "664",
+        "max_price_usd": "664",
+        "min_price_eur": "555",
+        "max_price_eur": "555",
+        "min_price_rub": "47 880",
+        "max_price_rub": "47 880",
+        "min_price_pln": "2 880",
+        "max_price_pln": "2 880"
+      }
+    },
+    "locality_name": "Киев",
+    "address_id": 40483,
+    "street_id": 421,
+    "complex_id": 243,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/48ba7602-41c7-45a1-bfc1-0227775b88df",
+      "https://static.dimdim.wrenchtech.io/6fdfb387-7a51-49e1-a6f8-2a95b22d2c1c",
+      "https://static.dimdim.wrenchtech.io/62fa905a-d5fd-4aee-9004-f3c7556cca11",
+      "https://static.dimdim.wrenchtech.io/e1dae7b2-a503-45ba-ba26-d636127e5220",
+      "https://static.dimdim.wrenchtech.io/3dac8153-a961-4b39-810d-7c79609b861c",
+      "https://static.dimdim.wrenchtech.io/cc216d5e-c2ab-496e-a68d-8874ea14168a",
+      "https://static.dimdim.wrenchtech.io/2babd053-8d6f-43e6-b080-7fcd2ccddd5a",
+      "https://static.dimdim.wrenchtech.io/e022542d-9290-4052-a3b9-49c426f92c15",
+      "https://static.dimdim.wrenchtech.io/fe7689b0-28c4-4775-be74-4a0ae6ae3228",
+      "https://static.dimdim.wrenchtech.io/0c34daa5-ba8e-43f2-bead-95faae3c5efe",
+      "https://static.dimdim.wrenchtech.io/504d2edf-52f1-422b-a969-6c5e1317689e"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-goloseev-akademika-zabolotnogo-ulitsa-19672236.html",
+        "price_uah": 18000,
+        "price_usd": 664,
+        "price_eur": 555,
+        "price_rub": 47880,
+        "price_pln": 2880,
+        "is_owner": false,
+        "created_at": "2021-04-28T12:13:23+00:00"
+      }
+    ]
+  }
+]

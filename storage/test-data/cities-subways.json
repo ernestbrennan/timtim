@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "is_active": true,
+    "name": "Університет",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.50594329409558,
+        50.44422362581775
+      ]
+    },
+    "order": 9,
+    "slug_seo": "universytet",
+    "subway_line": 1
+  },
+  {
+    "id": 56,
+    "is_active": true,
+    "name": "Дарниця",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.612578837693647,
+        50.45594165709449
+      ]
+    },
+    "order": 16,
+    "slug_seo": "darnytsia",
+    "subway_line": 1
+  },
+  {
+    "id": 60,
+    "is_active": true,
+    "name": "Дорогожичі",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.452618270946463,
+        50.47301426449009
+      ]
+    },
+    "order": 2,
+    "slug_seo": "dorohozhychi",
+    "subway_line": 2
+  },
+  {
+    "id": 61,
+    "is_active": true,
+    "name": "Дружби народів",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.547212057177074,
+        50.4167148489866
+      ]
+    },
+    "order": 8,
+    "slug_seo": "druzhby_narodiv",
+    "subway_line": 2
+  },
+  {
+    "id": 59,
+    "is_active": true,
+    "name": "Сирець",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.433258126488003,
+        50.47681767661104
+      ]
+    },
+    "order": 1,
+    "slug_seo": "syrets",
+    "subway_line": 2
+  },
+  {
+    "id": 75,
+    "is_active": true,
+    "name": "Деміївська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.516571221704385,
+        50.40491368567989
+      ]
+    },
+    "order": 6,
+    "slug_seo": "demiivska",
+    "subway_line": 3
+  },
+  {
+    "id": 62,
+    "is_active": true,
+    "name": "Видубичі",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.560570274095817,
+        50.40194990000009
+      ]
+    },
+    "order": 9,
+    "slug_seo": "vydubychi",
+    "subway_line": 2
+  },
+  {
+    "id": 63,
+    "is_active": true,
+    "name": "Славутич",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.605074182030503,
+        50.39415756555939
+      ]
+    },
+    "order": 10,
+    "slug_seo": "slavutych",
+    "subway_line": 2
+  },
+  {
+    "id": 64,
+    "is_active": true,
+    "name": "Осокорки",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.616276128588233,
+        50.39511065690895
+      ]
+    },
+    "order": 11,
+    "slug_seo": "osokorky",
+    "subway_line": 2
+  },
+  {
+    "id": 65,
+    "is_active": true,
+    "name": "Позняки",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.63472305134243,
+        50.397992511548466
+      ]
+    },
+    "order": 12,
+    "slug_seo": "pozniaky",
+    "subway_line": 2
+  },
+  {
+    "id": 66,
+    "is_active": true,
+    "name": "Харківська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.6522092026842,
+        50.400756539171724
+      ]
+    },
+    "order": 13,
+    "slug_seo": "kharkivska",
+    "subway_line": 2
+  },
+  {
+    "id": 67,
+    "is_active": true,
+    "name": "Вирлиця",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.667845142357443,
+        50.403011972252315
+      ]
+    },
+    "order": 14,
+    "slug_seo": "vyrlytsia",
+    "subway_line": 2
+  },
+  {
+    "id": 69,
+    "is_active": true,
+    "name": "Червоний Хутір",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.69620419790022,
+        50.40951429958928
+      ]
+    },
+    "order": 16,
+    "slug_seo": "chervony_khutir",
+    "subway_line": 2
+  },
+  {
+    "id": 46,
+    "is_active": true,
+    "name": "Житомирська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.365687466161603,
+        50.45621182894468
+      ]
+    },
+    "order": 2,
+    "slug_seo": "zhytomyrska",
+    "subway_line": 1
+  },
+  {
+    "id": 47,
+    "is_active": true,
+    "name": "Святошин",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.390603488914984,
+        50.45783828763092
+      ]
+    },
+    "order": 3,
+    "slug_seo": "sviatoshyn",
+    "subway_line": 1
+  },
+  {
+    "id": 48,
+    "is_active": true,
+    "name": "Нивки",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.404250096850163,
+        50.45859858587411
+      ]
+    },
+    "order": 4,
+    "slug_seo": "nyvky",
+    "subway_line": 1
+  },
+  {
+    "id": 49,
+    "is_active": true,
+    "name": "Берестейська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.419583884130688,
+        50.45904586993296
+      ]
+    },
+    "order": 5,
+    "slug_seo": "beresteiska",
+    "subway_line": 1
+  },
+  {
+    "id": 50,
+    "is_active": true,
+    "name": "Шулявська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.445507314939036,
+        50.45501655369142
+      ]
+    },
+    "order": 6,
+    "slug_seo": "shuliavska",
+    "subway_line": 1
+  },
+  {
+    "id": 51,
+    "is_active": true,
+    "name": "Політехнічний інститут",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.466082128588276,
+        50.45079279999997
+      ]
+    },
+    "order": 7,
+    "slug_seo": "politekhnichnyi_instytut",
+    "subway_line": 1
+  },
+  {
+    "id": 52,
+    "is_active": true,
+    "name": "Вокзальна",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.488146359276872,
+        50.441669813000104
+      ]
+    },
+    "order": 8,
+    "slug_seo": "vokzalna",
+    "subway_line": 1
+  },
+  {
+    "id": 53,
+    "is_active": true,
+    "name": "Дніпро",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.558626897900343,
+        50.44104180000005
+      ]
+    },
+    "order": 13,
+    "slug_seo": "dnipro",
+    "subway_line": 1
+  },
+  {
+    "id": 2,
+    "is_active": true,
+    "name": "Театральна",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.51572799257954,
+        50.44482487626146
+      ]
+    },
+    "order": 10,
+    "slug_seo": "teatralna",
+    "subway_line": 1
+  },
+  {
+    "id": 4,
+    "is_active": true,
+    "name": "Арсенальна",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.54542541078764,
+        50.44449692242051
+      ]
+    },
+    "order": 12,
+    "slug_seo": "arsenalna",
+    "subway_line": 1
+  },
+  {
+    "id": 5,
+    "is_active": true,
+    "name": "Либідська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5247402148665,
+        50.4142607517465
+      ]
+    },
+    "order": 7,
+    "slug_seo": "lybidska",
+    "subway_line": 3
+  },
+  {
+    "id": 7,
+    "is_active": true,
+    "name": "Олімпійська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.51680087618464,
+        50.43121288189838
+      ]
+    },
+    "order": 9,
+    "slug_seo": "olimpiiska",
+    "subway_line": 3
+  },
+  {
+    "id": 8,
+    "is_active": true,
+    "name": "Площа Льва Толстого",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.518431659265,
+        50.44080728511041
+      ]
+    },
+    "order": 10,
+    "slug_seo": "ploshcha_lva_tolstoho",
+    "subway_line": 3
+  },
+  {
+    "id": 9,
+    "is_active": true,
+    "name": "Майдан Незалежності",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.52465438417924,
+        50.44856885485422
+      ]
+    },
+    "order": 11,
+    "slug_seo": "maidan_nezalezhnosti",
+    "subway_line": 3
+  },
+  {
+    "id": 10,
+    "is_active": true,
+    "name": "Лук'янівська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.48414229922392,
+        50.46121967068444
+      ]
+    },
+    "order": 3,
+    "slug_seo": "lukianivska",
+    "subway_line": 2
+  },
+  {
+    "id": 13,
+    "is_active": true,
+    "name": "Кловська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.53383826784431,
+        50.43596932483297
+      ]
+    },
+    "order": 6,
+    "slug_seo": "klovska",
+    "subway_line": 2
+  },
+  {
+    "id": 14,
+    "is_active": true,
+    "name": "Печерська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.54104804567459,
+        50.4258544772939
+      ]
+    },
+    "order": 7,
+    "slug_seo": "pecherska",
+    "subway_line": 2
+  },
+  {
+    "id": 76,
+    "is_active": true,
+    "name": "Поштова площа",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.52436637514712,
+        50.45928359612394
+      ]
+    },
+    "order": 12,
+    "slug_seo": "poshtova_ploshcha",
+    "subway_line": 3
+  },
+  {
+    "id": 77,
+    "is_active": true,
+    "name": "Контрактова площа",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.51496625927753,
+        50.46587069999991
+      ]
+    },
+    "order": 13,
+    "slug_seo": "kontraktova_ploshcha",
+    "subway_line": 3
+  },
+  {
+    "id": 78,
+    "is_active": true,
+    "name": "Тараса Шевченка",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.503572545507716,
+        50.474046204860635
+      ]
+    },
+    "order": 14,
+    "slug_seo": "tarasa_shevchenka",
+    "subway_line": 3
+  },
+  {
+    "id": 79,
+    "is_active": true,
+    "name": "Почайна",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.49779076721163,
+        50.48611840000018
+      ]
+    },
+    "order": 15,
+    "slug_seo": "pochaina",
+    "subway_line": 3
+  },
+  {
+    "id": 80,
+    "is_active": true,
+    "name": "Оболонь",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.49801340583514,
+        50.501523993301355
+      ]
+    },
+    "order": 16,
+    "slug_seo": "obolon",
+    "subway_line": 3
+  },
+  {
+    "id": 81,
+    "is_active": true,
+    "name": "Мінська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.49842223652306,
+        50.51224539999992
+      ]
+    },
+    "order": 17,
+    "slug_seo": "minska",
+    "subway_line": 3
+  },
+  {
+    "id": 82,
+    "is_active": true,
+    "name": "Героїв Дніпра",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.498760636523198,
+        50.52263543116902
+      ]
+    },
+    "order": 18,
+    "slug_seo": "heroiv_dnipra",
+    "subway_line": 3
+  },
+  {
+    "id": 68,
+    "is_active": true,
+    "name": "Бориспільська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.68442173652303,
+        50.40344820659116
+      ]
+    },
+    "order": 15,
+    "slug_seo": "boryspilska",
+    "subway_line": 2
+  },
+  {
+    "id": 6,
+    "is_active": true,
+    "name": "Палац «Україна»",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.52062034181973,
+        50.42137044829346
+      ]
+    },
+    "order": 8,
+    "slug_seo": "palats_ukrayina",
+    "subway_line": 3
+  },
+  {
+    "id": 54,
+    "is_active": true,
+    "name": "Гідропарк",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.576999735473755,
+        50.44597694953518
+      ]
+    },
+    "order": 14,
+    "slug_seo": "hidropark",
+    "subway_line": 1
+  },
+  {
+    "id": 55,
+    "is_active": true,
+    "name": "Лівобережна",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5986739629815,
+        50.45130039528758
+      ]
+    },
+    "order": 15,
+    "slug_seo": "livoberezhna",
+    "subway_line": 1
+  },
+  {
+    "id": 57,
+    "is_active": true,
+    "name": "Чернігівська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.63037549790007,
+        50.45982715857709
+      ]
+    },
+    "order": 17,
+    "slug_seo": "chernihivska",
+    "subway_line": 1
+  },
+  {
+    "id": 58,
+    "is_active": true,
+    "name": "Лісова",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.64610666368533,
+        50.464758745693224
+      ]
+    },
+    "order": 18,
+    "slug_seo": "lisova",
+    "subway_line": 1
+  },
+  {
+    "id": 11,
+    "is_active": true,
+    "name": "Золоті ворота",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.515770907923176,
+        50.44485220564519
+      ]
+    },
+    "order": 4,
+    "slug_seo": "zoloti_vorota",
+    "subway_line": 2
+  },
+  {
+    "id": 3,
+    "is_active": true,
+    "name": "Хрещатик",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5248904185719,
+        50.447339113533545
+      ]
+    },
+    "order": 11,
+    "slug_seo": "khreshchatyk",
+    "subway_line": 1
+  },
+  {
+    "id": 12,
+    "is_active": true,
+    "name": "Палац Спорту",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.51980495028089,
+        50.43979600095938
+      ]
+    },
+    "order": 5,
+    "slug_seo": "palats_sportu",
+    "subway_line": 2
+  },
+  {
+    "id": 70,
+    "is_active": true,
+    "name": "Теремки",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.451369,
+        50.3663682
+      ]
+    },
+    "order": 1,
+    "slug_seo": "teremky",
+    "subway_line": 3
+  },
+  {
+    "id": 71,
+    "is_active": true,
+    "name": "Іподром",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.46885813652272,
+        50.37662266251321
+      ]
+    },
+    "order": 2,
+    "slug_seo": "ipodrom",
+    "subway_line": 3
+  },
+  {
+    "id": 72,
+    "is_active": true,
+    "name": "Виставковий центр",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.477601078326206,
+        50.38246035470211
+      ]
+    },
+    "order": 3,
+    "slug_seo": "vystavkovyi_tsentr",
+    "subway_line": 3
+  },
+  {
+    "id": 73,
+    "is_active": true,
+    "name": "Васильківська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.48814205134305,
+        50.393363836525175
+      ]
+    },
+    "order": 4,
+    "slug_seo": "vasylkivska",
+    "subway_line": 3
+  },
+  {
+    "id": 74,
+    "is_active": true,
+    "name": "Голосіївська",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.50804271717356,
+        50.397426231683674
+      ]
+    },
+    "order": 5,
+    "slug_seo": "holosiivska",
+    "subway_line": 3
+  },
+  {
+    "id": 45,
+    "is_active": true,
+    "name": "Академмістечко",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.355133186230677,
+        50.46472227172492
+      ]
+    },
+    "order": 1,
+    "slug_seo": "akademmistechko",
+    "subway_line": 1
+  }
+]

@@ -1,0 +1,2843 @@
+[
+  {
+    "id": 4549420,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "ывыввы",
+    "url": "http://dimdim.com.ua",
+    "base_price": 15000,
+    "price_uah": 15000,
+    "price_usd": 556,
+    "price_eur": 459,
+    "price_rub": 39900,
+    "price_pln": 2400,
+    "district": "Шевченківський район",
+    "street": "проспект Перемоги",
+    "building_no": "20",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Вадим None",
+    "created_at": "2021-06-16T16:03:49.053111+00:00",
+    "updated_at": "2021-06-16T16:04:38.425475+00:00",
+    "size_total": 35,
+    "size_kitchen": 9,
+    "size_living": 20,
+    "room": 1,
+    "floor": 2,
+    "floors_total": 9,
+    "group_id": 2069348,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4736335,
+        50.4503654
+      ]
+    },
+    "location_point": {
+      "lat": 50.4503654,
+      "lon": 30.4736335
+    },
+    "address_raw": "проспект Перемоги, 20, Шевченківський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4736335,
+          50.4503654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549420
+        ],
+        "price_uah": 15000,
+        "count": 1,
+        "hash": "u8vxj2nnx",
+        "min_price_uah": "15 000",
+        "max_price_uah": "15 000",
+        "min_price_usd": "556",
+        "max_price_usd": "556",
+        "min_price_eur": "459",
+        "max_price_eur": "459",
+        "min_price_rub": "39 900",
+        "max_price_rub": "39 900",
+        "min_price_pln": "2 400",
+        "max_price_pln": "2 400"
+      }
+    },
+    "features": [
+      2
+    ],
+    "locality_name": "Київ",
+    "address_id": 991,
+    "street_id": 75,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4549420/6b26807b-5c0a-45fa-90f7-75e05e1d0e8f",
+      "https://static.dimdim.wrenchtech.io/flats/4549420/172792f7-5aa5-4bc1-bb3c-71da799d001a",
+      "https://static.dimdim.wrenchtech.io/flats/4549420/e7676a2d-fdba-4ed3-9122-dc31397235bf"
+    ],
+    "landlords": [
+      {
+        "first_name": "Вадим",
+        "type": "landlord",
+        "agency_name": "",
+        "avatar": "https://static.dimdim.wrenchtech.io/avatar/2499e3c70c1a4a80976841b94b127f84.png",
+        "flat_id": 4549420,
+        "phone": [
+          "+380664850368"
+        ],
+        "created_at": "2021-06-16T16:03:49.051037+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "walkthrough",
+      "bathroom": "full",
+      "heating": "centralized",
+      "entrance": [
+        "intercom"
+      ],
+      "parking": [
+        "underground"
+      ],
+      "wall_type": "brick",
+      "building_type": "carskij",
+      "conditions": "designer",
+      "furniture": "old",
+      "rules": null,
+      "additional_payments": "by_meters"
+    },
+    "subways_distance": [
+      {
+        "subway_id": 51,
+        "minutes": 8
+      }
+    ]
+  },
+  {
+    "id": 4540778,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "Сдам двух комнатную квартиру улучшенной планировки. Евро ремонт. Под тапочки. Квартира находится на массиве Радужном.  Возле дома остановка транспорта к ближайшему метро. Почайной или Левобережной. Добираться 15 минут. Также есть остановка городской электрички, замена метро, в любой конец города. \nКвартира очень чистая, теплая и светлая. Прекрасная инфраструктура: дет.сады, школа, супермаркеты, базар, почта, банк, аптека, поликлинника, парки, пляжи в шаге от дома. \nПредпочтительнее арендаторов семейных. Уважающих чужое имущество и любителей чистоты и тишины. Цена 12000грн первый и залоговый месяцы и коммунальные услуги. Обращаться по тел.  0980123575 Ольга.",
+    "url": "http://dimdim.com.ua",
+    "base_price": 12000,
+    "price_uah": 12000,
+    "price_usd": 445,
+    "price_eur": 367,
+    "price_rub": 31920,
+    "price_pln": 1920,
+    "district": "Дніпровський район",
+    "street": "вулиця Петра Вершигори",
+    "building_no": "5",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Ольга Рай",
+    "created_at": "2021-06-16T08:31:38.608445+00:00",
+    "updated_at": "2021-06-16T10:00:41.846008+00:00",
+    "size_total": 70,
+    "size_kitchen": 11,
+    "size_living": 50,
+    "room": 2,
+    "floor": 4,
+    "floors_total": 9,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5757989,
+        50.4919893
+      ]
+    },
+    "location_point": {
+      "lat": 50.4919893,
+      "lon": 30.5757989
+    },
+    "address_raw": "вулиця Петра Вершигори, 5, Дніпровський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5757989,
+          50.4919893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4540778
+        ],
+        "price_uah": 12000,
+        "count": 1,
+        "hash": "u8vxpzb95",
+        "min_price_uah": "12 000",
+        "max_price_uah": "12 000",
+        "min_price_usd": "445",
+        "max_price_usd": "445",
+        "min_price_eur": "367",
+        "max_price_eur": "367",
+        "min_price_rub": "31 920",
+        "max_price_rub": "31 920",
+        "min_price_pln": "1 920",
+        "max_price_pln": "1 920"
+      }
+    },
+    "features": [
+      12,
+      10,
+      9,
+      3,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 35406,
+    "street_id": 1388,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4540778/74e3ab70-775d-4d98-ac62-c12a968dfb4c",
+      "https://static.dimdim.wrenchtech.io/flats/4540778/ed524d2d-e23c-493d-bafd-417ad5b788b6",
+      "https://static.dimdim.wrenchtech.io/flats/4540778/c4b38698-93af-4f18-9c0f-60606695a6b6"
+    ],
+    "providers": [
+      {
+        "provider": "dimdim",
+        "url": "http://dimdim.com.ua",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T08:31:38.605890+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "ОЛЬГА",
+        "type": "landlord",
+        "agency_name": null,
+        "avatar": null,
+        "flat_id": 4540778,
+        "phone": [
+          "+380980123575"
+        ],
+        "created_at": "2021-06-16T08:31:38.605890+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "separated",
+      "bathroom": "separated",
+      "heating": "centralized",
+      "entrance": [
+        "intercom"
+      ],
+      "parking": [
+        "noparking"
+      ],
+      "wall_type": "panel",
+      "building_type": "80s",
+      "conditions": "recent",
+      "furniture": "new",
+      "rules": {
+        "kids": true,
+        "animals": false,
+        "smoking": false,
+        "only_foreigners": false
+      },
+      "additional_payments": "by_meters"
+    }
+  },
+  {
+    "id": 4535537,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "Здаю свою 2-х кімнатну квартиру с лоджией ,тільки на тривалий час.вул. Північна 16\nВартість 14000+ комунальні послуги(вода та світло по лічильниках)\nТихий двір, е місця для парковки.\nВ 3-х хвилинах ходьби до метро Героїв Дніпра\nРядом ринок, садик, школа, Сільпо. Дрім Таун",
+    "url": "http://dimdim.com.ua",
+    "base_price": 14000,
+    "price_uah": 14000,
+    "price_usd": 519,
+    "price_eur": 428,
+    "price_rub": 37240,
+    "price_pln": 2240,
+    "district": "Оболонський район",
+    "street": "вулиця Північна",
+    "building_no": "16",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Олексій None",
+    "created_at": "2021-06-15T18:42:19.931642+00:00",
+    "updated_at": "2021-06-15T18:42:20.057760+00:00",
+    "size_total": 52,
+    "size_kitchen": 8,
+    "size_living": 34,
+    "room": 2,
+    "floor": 6,
+    "floors_total": 9,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5048,
+        50.5248905
+      ]
+    },
+    "location_point": {
+      "lat": 50.5248905,
+      "lon": 30.5048
+    },
+    "address_raw": "вулиця Північна, 16, Оболонський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5048,
+          50.5248905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4535537
+        ],
+        "price_uah": 14000,
+        "count": 1,
+        "hash": "u8vxqjubv",
+        "min_price_uah": "14 000",
+        "max_price_uah": "14 000",
+        "min_price_usd": "519",
+        "max_price_usd": "519",
+        "min_price_eur": "428",
+        "max_price_eur": "428",
+        "min_price_rub": "37 240",
+        "max_price_rub": "37 240",
+        "min_price_pln": "2 240",
+        "max_price_pln": "2 240"
+      }
+    },
+    "features": [
+      21,
+      19,
+      15,
+      14,
+      5,
+      10,
+      3,
+      2,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 27919,
+    "street_id": 863,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4535537/ed311483-61e1-45d6-8d3d-a9a0edb2e10c",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/c2277f03-fd31-4bd5-a518-85ce1582bb17",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/bb2c6585-94b8-44ee-b415-c0b029d42c3d",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/8f52a43e-545a-4fa9-8c9b-9ec1b41896dc",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/8ba474e0-d19c-407b-91e2-9c37d8c73c5b",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/93535937-1b7e-44e4-be99-59b039494d40",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/b89a4491-cfcc-4960-9133-f2cddcd22e75",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/6f635b67-b2a8-457a-9b6b-22854a8d0480",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/b6219d9e-0bd6-4426-bad9-f3e282e622e5",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/d51bf9b3-f35d-4165-80b2-1acbc4474bca",
+      "https://static.dimdim.wrenchtech.io/flats/4535537/a592fe2a-1212-48f0-9b59-6da6d7656f39"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/dovgostrokova-orenda-kvartiri-blya-metro-IDLWUfJ.html",
+        "price_uah": 14000,
+        "price_usd": 519,
+        "price_eur": 428,
+        "price_rub": 37240,
+        "price_pln": 2240,
+        "is_owner": false,
+        "created_at": "2021-06-15T14:11:00+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Олексій",
+        "type": "landlord",
+        "agency_name": "",
+        "avatar": null,
+        "flat_id": 4535537,
+        "phone": [
+          "+380677842613"
+        ],
+        "created_at": "2021-06-15T18:42:19.929872+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "separated",
+      "bathroom": "separated",
+      "heating": "centralized",
+      "entrance": [
+        "intercom",
+        "key"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "panel",
+      "building_type": "80s",
+      "conditions": "recent",
+      "furniture": "new",
+      "rules": null,
+      "additional_payments": "by_meters"
+    },
+    "subways_distance": [
+      {
+        "subway_id": 82,
+        "minutes": 7
+      }
+    ]
+  },
+  {
+    "id": 4522989,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "Сдам 1-о комнатную квартиру по просп.Победы 128, м.Житомирская 5мин.пешком, Святошинский р-н. 5/5эт., 18/7кв.м., косметический ремонт, мебель 90-2000х. Санузел кафель, душ-кабина, бойлер. Вся бытовая техника. Стеклопакеты. Балкон застеклен, бронедвери. Цена-7000грн.",
+    "url": "http://dimdim.com.ua",
+    "base_price": 7000,
+    "price_uah": 7000,
+    "price_usd": 259,
+    "price_eur": 214,
+    "price_rub": 18620,
+    "price_pln": 1120,
+    "district": "Святошинський район",
+    "street": "проспект Перемоги",
+    "building_no": "128",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Андрей None",
+    "created_at": "2021-06-15T06:30:04.068907+00:00",
+    "updated_at": "2021-06-16T09:42:23.729848+00:00",
+    "size_total": 35,
+    "size_kitchen": 7,
+    "size_living": 18,
+    "room": 1,
+    "floor": 5,
+    "floors_total": 5,
+    "currency": "UAH",
+    "is_last_floor": true,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.3728192,
+        50.4567085
+      ]
+    },
+    "location_point": {
+      "lat": 50.4567085,
+      "lon": 30.3728192
+    },
+    "address_raw": "проспект Перемоги, 128, Святошинський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.3728192,
+          50.4567085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4522989
+        ],
+        "price_uah": 7000,
+        "count": 1,
+        "hash": "u8vx51kg9",
+        "min_price_uah": "7 000",
+        "max_price_uah": "7 000",
+        "min_price_usd": "259",
+        "max_price_usd": "259",
+        "min_price_eur": "214",
+        "max_price_eur": "214",
+        "min_price_rub": "18 620",
+        "max_price_rub": "18 620",
+        "min_price_pln": "1 120",
+        "max_price_pln": "1 120"
+      }
+    },
+    "features": [
+      5,
+      10,
+      3,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 32048,
+    "street_id": 75,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4522989/3bf03ee7-9988-4f96-9a9e-320bad8577a5",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/412f6551-5268-49a6-938b-0a9722ad60a8",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/8c9243c9-aa4e-47aa-afb0-645d52ab37c3",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/bb28c1ea-d997-40bd-8ce2-c719df13a93f",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/d841e447-3b17-4783-a945-461cc06835ad",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/0c0e0ce0-219d-4c8e-87c1-d215b619cf2a",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/c3f4fd31-93b8-4431-844c-6fccdb7f6012",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/dbf9d427-ccb3-4885-9eab-71f6009d9255",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/1605f460-5c7e-42b1-b191-34fc2a9b8ec2",
+      "https://static.dimdim.wrenchtech.io/flats/4522989/99b0883c-4a0c-46f9-82de-e29f0b8a980f"
+    ],
+    "providers": [
+      {
+        "provider": "dimdim",
+        "url": "http://dimdim.com.ua",
+        "price_uah": 7000,
+        "price_usd": 259,
+        "price_eur": 214,
+        "price_rub": 18620,
+        "price_pln": 1120,
+        "is_owner": false,
+        "created_at": "2021-06-15T06:30:04.067100+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Андрей",
+        "type": "rieltor",
+        "agency_name": "Частный Риелтор",
+        "avatar": "https://static.dimdim.wrenchtech.io/avatar/15bd02ccf8b04bfc910b148e1bd06312.jpeg",
+        "flat_id": 4522989,
+        "phone": [
+          "+380677075023"
+        ],
+        "created_at": "2021-06-15T06:30:04.067100+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "separated",
+      "bathroom": "full",
+      "heating": "centralized",
+      "entrance": [
+        "intercom"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "brick",
+      "building_type": "hrushhevka",
+      "conditions": "cosmetic",
+      "furniture": "old",
+      "rules": {
+        "kids": true
+      },
+      "additional_payments": "by_meters"
+    },
+    "subways_distance": [
+      {
+        "subway_id": 47,
+        "minutes": 19
+      },
+      {
+        "subway_id": 46,
+        "minutes": 8
+      }
+    ]
+  },
+  {
+    "id": 4518373,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "пр Правды 104\n9 этаж 16 этажного дома\nОбщая пл 35 кв м \nКомната 17 кв м \nКухня 9 кв м \nБалкон из кухни застеклен.\nВстроенная кухня.\nС-у совмещён кафель.\nХолодильник.\nСтиральная машина.\nКондиционер.\nПаркет.\nБронидверь.\nИнтернет.\nНеобходимая мебель.\nЦена 6500грн + ком услуги\n0969363050 вайбер ватсап телеграм\n0632017908\nАлександр риелтор",
+    "url": "http://dimdim.com.ua",
+    "base_price": 6500,
+    "price_uah": 6500,
+    "price_usd": 241,
+    "price_eur": 199,
+    "price_rub": 17290,
+    "price_pln": 1040,
+    "district": "Подільський район",
+    "street": "проспект Правди",
+    "building_no": "104",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Александр None",
+    "created_at": "2021-06-14T13:10:06.809284+00:00",
+    "updated_at": "2021-06-14T13:10:07.375103+00:00",
+    "size_total": 35,
+    "size_kitchen": 8,
+    "size_living": 17,
+    "room": 1,
+    "floor": 9,
+    "floors_total": 16,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4062208,
+        50.5085084
+      ]
+    },
+    "location_point": {
+      "lat": 50.5085084,
+      "lon": 30.4062208
+    },
+    "address_raw": "проспект Правди, 104, Подільський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4062208,
+          50.5085084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4518373
+        ],
+        "price_uah": 6500,
+        "count": 1,
+        "hash": "u8vx7fv1k",
+        "min_price_uah": "6 500",
+        "max_price_uah": "6 500",
+        "min_price_usd": "241",
+        "max_price_usd": "241",
+        "min_price_eur": "199",
+        "max_price_eur": "199",
+        "min_price_rub": "17 290",
+        "max_price_rub": "17 290",
+        "min_price_pln": "1 040",
+        "max_price_pln": "1 040"
+      }
+    },
+    "features": [
+      19,
+      18,
+      17,
+      15,
+      10,
+      9,
+      3,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 42132,
+    "street_id": 157,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4518373/cda03406-da70-43bf-bb77-8de4decd025c",
+      "https://static.dimdim.wrenchtech.io/flats/4518373/a0b61326-87e9-41e4-b05a-c0b947f4c4d5",
+      "https://static.dimdim.wrenchtech.io/flats/4518373/ccabb957-6648-4648-b1bf-fe859d8525e6",
+      "https://static.dimdim.wrenchtech.io/flats/4518373/87c4ef6a-2e60-4a0a-8aa2-44702e7a6e39",
+      "https://static.dimdim.wrenchtech.io/flats/4518373/06e457ef-e8c4-41ba-8300-45073a37db7b",
+      "https://static.dimdim.wrenchtech.io/flats/4518373/3530d7e2-aa7a-4111-8589-b89b1e21eca7"
+    ],
+    "providers": [
+      {
+        "provider": "dimdim",
+        "url": "http://dimdim.com.ua",
+        "price_uah": 6500,
+        "price_usd": 241,
+        "price_eur": 199,
+        "price_rub": 17290,
+        "price_pln": 1040,
+        "is_owner": false,
+        "created_at": "2021-06-14T13:10:06.806223+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Александр",
+        "type": "rieltor",
+        "agency_name": "Агенство",
+        "avatar": null,
+        "flat_id": 4518373,
+        "phone": [
+          "+380969363050"
+        ],
+        "created_at": "2021-06-14T13:10:06.806223+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "other",
+      "bathroom": "full",
+      "heating": "centralized",
+      "entrance": [
+        "concierge",
+        "intercom"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "panel",
+      "building_type": "90s",
+      "conditions": "cosmetic",
+      "furniture": "old",
+      "rules": null,
+      "additional_payments": "by_meters"
+    }
+  },
+  {
+    "id": 4518240,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "ул Ижакевича 16\n2 этаж 3х этажного дома\nБалкон застеклен.\nГазовая колонка.\nТелевизор\nХолодильник.\nСтиральная машина\nПаркет.\nБронидверь.\nИнтернет.\nНеобходимая мебель\nЦена 6000грн + ком услуги\n0969363050 вайбер ватсап телеграм\n0632017908\nАлександр риелтор",
+    "url": "http://dimdim.com.ua",
+    "base_price": 6000,
+    "price_uah": 6000,
+    "price_usd": 222,
+    "price_eur": 183,
+    "price_rub": 15960,
+    "price_pln": 960,
+    "district": "Подільський район",
+    "street": "вулиця Івана Їжакевича",
+    "building_no": "16",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Александр None",
+    "created_at": "2021-06-14T13:05:47.148567+00:00",
+    "updated_at": "2021-06-14T13:05:47.595105+00:00",
+    "size_total": 42,
+    "size_kitchen": 6,
+    "size_living": 28,
+    "room": 2,
+    "floor": 2,
+    "floors_total": 3,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4365783,
+        50.5147204
+      ]
+    },
+    "location_point": {
+      "lat": 50.5147204,
+      "lon": 30.4365783
+    },
+    "address_raw": "вулиця Івана Їжакевича, 16, Подільський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4365783,
+          50.5147204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4518240
+        ],
+        "price_uah": 6000,
+        "count": 1,
+        "hash": "u8vxkegjx",
+        "min_price_uah": "6 000",
+        "max_price_uah": "6 000",
+        "min_price_usd": "222",
+        "max_price_usd": "222",
+        "min_price_eur": "183",
+        "max_price_eur": "183",
+        "min_price_rub": "15 960",
+        "max_price_rub": "15 960",
+        "min_price_pln": "960",
+        "max_price_pln": "960"
+      }
+    },
+    "features": [
+      19,
+      17,
+      18,
+      14,
+      10,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 7321,
+    "street_id": 1026,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4518240/e5989fab-4407-4e87-be71-003da5749111",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/2cb6b07e-aa91-451d-a3d1-dff7a6ee68bb",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/44d363f2-0f19-459f-b344-e816e8660e8d",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/0fa8a25a-d0a0-4bb0-a309-671c38e9e19e",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/562c34cd-148f-4382-a01d-5e3da0ec22cd",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/331bd15d-fcb4-4fcb-8604-5a9aec8776f9",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/eb471427-e38b-49d8-bab2-703c4207bac5",
+      "https://static.dimdim.wrenchtech.io/flats/4518240/67c8ec32-617d-40a8-8a22-1b6b136d02c0"
+    ],
+    "providers": [
+      {
+        "provider": "dimdim",
+        "url": "http://dimdim.com.ua",
+        "price_uah": 6000,
+        "price_usd": 222,
+        "price_eur": 183,
+        "price_rub": 15960,
+        "price_pln": 960,
+        "is_owner": false,
+        "created_at": "2021-06-14T13:05:47.146513+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Александр",
+        "type": "rieltor",
+        "agency_name": "Агенство",
+        "avatar": null,
+        "flat_id": 4518240,
+        "phone": [
+          "+380969363050"
+        ],
+        "created_at": "2021-06-14T13:05:47.146513+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "other",
+      "bathroom": "full",
+      "heating": "centralized",
+      "entrance": [
+        "code"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "brick",
+      "building_type": "stalinka",
+      "conditions": "cosmetic",
+      "furniture": "old",
+      "rules": null,
+      "additional_payments": "by_meters"
+    }
+  },
+  {
+    "id": 4518148,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "пр Оболонский 37\n2 этаж 9-ти этажного дома.\nБалкон застеклен.\nОбщая пл 34 кв м \nКомната 17 кв м \nКухня 7 кв м \nТелевизор.\nХолодильник.\nСтиральная машина.\nС-у раздельный кафель.\nЛинолеум.\nБронидверь.\nИнтернет.\nНеобходимая мебель.\nМетро Минская или Героев Днепра 5 минут ходьбы.\nЦена 7500грн + ком услуги\n0969363050\n0632017908\nАлександр риелтор",
+    "url": "http://dimdim.com.ua",
+    "base_price": 7500,
+    "price_uah": 7500,
+    "price_usd": 278,
+    "price_eur": 229,
+    "price_rub": 19950,
+    "price_pln": 1200,
+    "district": "Оболонський район",
+    "street": "Оболонський проспект",
+    "building_no": "37",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Александр None",
+    "created_at": "2021-06-14T13:01:33.280676+00:00",
+    "updated_at": "2021-06-14T13:01:33.732392+00:00",
+    "size_total": 34,
+    "size_kitchen": 8,
+    "size_living": 17,
+    "room": 1,
+    "floor": 2,
+    "floors_total": 9,
+    "group_id": 18579827,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4977061,
+        50.519077
+      ]
+    },
+    "location_point": {
+      "lat": 50.519077,
+      "lon": 30.4977061
+    },
+    "address_raw": "Оболонський проспект, 37, Оболонський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4977061,
+          50.519077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4518148
+        ],
+        "price_uah": 7500,
+        "count": 1,
+        "hash": "u8vxmuxyb",
+        "min_price_uah": "7 500",
+        "max_price_uah": "7 500",
+        "min_price_usd": "278",
+        "max_price_usd": "278",
+        "min_price_eur": "229",
+        "max_price_eur": "229",
+        "min_price_rub": "19 950",
+        "max_price_rub": "19 950",
+        "min_price_pln": "1 200",
+        "max_price_pln": "1 200"
+      }
+    },
+    "features": [
+      19,
+      18,
+      17,
+      13,
+      10,
+      3,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 1793,
+    "street_id": 199,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4518148/e4a45552-30f6-4e5f-a07d-e539b5dfe3d1",
+      "https://static.dimdim.wrenchtech.io/flats/4518148/e8968a68-7b7d-403c-ac75-ecf831ca4fde",
+      "https://static.dimdim.wrenchtech.io/flats/4518148/4269825b-2cc9-4823-9bdc-c2d8a5c7f8f0",
+      "https://static.dimdim.wrenchtech.io/flats/4518148/c1a5ceb2-3038-4984-a558-01ffdc63d94d",
+      "https://static.dimdim.wrenchtech.io/flats/4518148/71d301a0-c205-47d6-b98e-fa61df982ab0",
+      "https://static.dimdim.wrenchtech.io/flats/4518148/332df6f7-0fe8-43a9-8c01-e5a84513bb46"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/svobodna-1-kom-kv-metro-minskaya-4-min-peshkom-IDLLUgh.html",
+        "price_uah": 7900,
+        "price_usd": 292,
+        "price_eur": 241,
+        "price_rub": 21014,
+        "price_pln": 1264,
+        "is_owner": false,
+        "created_at": "2021-06-07T03:29:00+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Александр",
+        "type": "rieltor",
+        "agency_name": "Агенство",
+        "avatar": null,
+        "flat_id": 4518148,
+        "phone": [
+          "+380969363050"
+        ],
+        "created_at": "2021-06-14T13:01:33.278540+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "other",
+      "bathroom": "separated",
+      "heating": "centralized",
+      "entrance": [
+        "intercom"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "panel",
+      "building_type": "gostinka",
+      "conditions": "cosmetic",
+      "furniture": "old",
+      "rules": null,
+      "additional_payments": "by_meters"
+    },
+    "subways_distance": [
+      {
+        "subway_id": 82,
+        "minutes": 6
+      },
+      {
+        "subway_id": 81,
+        "minutes": 11
+      }
+    ]
+  },
+  {
+    "id": 4516794,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "Сдаётся в аренду Просторная 3 комнатная квартира , в отличном месте  Ул . Приозерная 4 . Дом расположен на берегу живописного озёра  Вербное . С чистым , благоустроенным пляжем . Через дорогу парк  Наталка . Оболонская  набережная . Метро Почайна и Оболонь пешком . ТРЦ блокбастер",
+    "url": "http://dimdim.com.ua",
+    "base_price": 12999,
+    "price_uah": 12999,
+    "price_usd": 482,
+    "price_eur": 398,
+    "price_rub": 34577,
+    "price_pln": 2079,
+    "district": "Оболонський район",
+    "street": "вулиця Приозерна",
+    "building_no": "4",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Лилия None",
+    "created_at": "2021-06-14T11:50:54.648121+00:00",
+    "updated_at": "2021-06-16T14:49:25.746607+00:00",
+    "size_total": 72,
+    "size_kitchen": 9,
+    "size_living": 45,
+    "room": 3,
+    "floor": 3,
+    "floors_total": 16,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5198169,
+        50.4919014
+      ]
+    },
+    "location_point": {
+      "lat": 50.4919014,
+      "lon": 30.5198169
+    },
+    "address_raw": "вулиця Приозерна, 4, Оболонський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5198169,
+          50.4919014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4516794
+        ],
+        "price_uah": 12999,
+        "count": 1,
+        "hash": "u8vxnrzbe",
+        "min_price_uah": "12 999",
+        "max_price_uah": "12 999",
+        "min_price_usd": "482",
+        "max_price_usd": "482",
+        "min_price_eur": "398",
+        "max_price_eur": "398",
+        "min_price_rub": "34 577",
+        "max_price_rub": "34 577",
+        "min_price_pln": "2 079",
+        "max_price_pln": "2 079"
+      }
+    },
+    "features": [
+      19,
+      18,
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      10,
+      9,
+      3,
+      2,
+      1
+    ],
+    "locality_name": "Київ",
+    "address_id": 17378,
+    "street_id": 341,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4516794/878c98a3-080e-4886-bda1-73e048860f01",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/dcc35963-be9d-418a-a3c8-47acf3f021bf",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/89355985-1d6f-4bbf-a9bc-dfcce8e6198c",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/5c84cbc1-51f9-43e1-b15f-412e846f1547",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/b4b0739d-4813-4b85-a2dd-b8526725d2cd",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/babaaa06-680c-4adb-b6c0-ceabd88bcfae",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/6f118ff0-f3c9-4241-a7d0-3156907e6c99",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/44830610-18bb-41cc-946c-c32e6a344e85",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/d2af1b02-b758-4b95-baa1-ea217daffea7",
+      "https://static.dimdim.wrenchtech.io/flats/4516794/e310282b-cd74-4ce1-ad22-f7e4de88085c"
+    ],
+    "providers": [
+      {
+        "provider": "dimdim",
+        "url": "http://dimdim.com.ua",
+        "price_uah": 12999,
+        "price_usd": 482,
+        "price_eur": 398,
+        "price_rub": 34577,
+        "price_pln": 2079,
+        "is_owner": false,
+        "created_at": "2021-06-14T11:50:54.645494+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Лилия",
+        "type": "landlord",
+        "agency_name": null,
+        "avatar": "https://static.dimdim.wrenchtech.io/avatar/d598db4fbde140c7baf4851987d2541c.jpeg",
+        "flat_id": 4516794,
+        "phone": [
+          "+380505279336"
+        ],
+        "created_at": "2021-06-14T11:50:54.645494+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "separated",
+      "bathroom": "separated",
+      "heating": "centralized",
+      "entrance": [
+        "intercom"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "panel",
+      "building_type": "80s",
+      "conditions": "recent",
+      "furniture": "new",
+      "rules": null,
+      "additional_payments": "by_meters"
+    }
+  },
+  {
+    "id": 4511967,
+    "title": "dimdim",
+    "adv_type": "rent",
+    "description": "Одна кімната об'єднана з кухнею. Перша сдача. Все після ремонту.",
+    "url": "http://dimdim.com.ua",
+    "base_price": 15000,
+    "price_uah": 15000,
+    "price_usd": 556,
+    "price_eur": 459,
+    "price_rub": 39900,
+    "price_pln": 2400,
+    "district": "Печерський район",
+    "street": "бульвар Марії Приймаченко",
+    "building_no": "4",
+    "is_owner": false,
+    "is_verified": true,
+    "owner_name": "Олексій Рубаков",
+    "created_at": "2021-06-14T06:33:16.665326+00:00",
+    "updated_at": "2021-06-14T06:36:51.064133+00:00",
+    "size_total": 44,
+    "size_kitchen": 9,
+    "size_living": 30,
+    "room": 2,
+    "floor": 3,
+    "floors_total": 5,
+    "group_id": 61154171,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5421071,
+        50.4187616
+      ]
+    },
+    "location_point": {
+      "lat": 50.4187616,
+      "lon": 30.5421071
+    },
+    "address_raw": "бульвар Марії Приймаченко, 4, Печерський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5421071,
+          50.4187616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4511967
+        ],
+        "price_uah": 15000,
+        "count": 1,
+        "hash": "u8vwz42nd",
+        "min_price_uah": "15 000",
+        "max_price_uah": "15 000",
+        "min_price_usd": "556",
+        "max_price_usd": "556",
+        "min_price_eur": "459",
+        "max_price_eur": "459",
+        "min_price_rub": "39 900",
+        "max_price_rub": "39 900",
+        "min_price_pln": "2 400",
+        "max_price_pln": "2 400"
+      }
+    },
+    "features": [
+      3,
+      1,
+      19,
+      18,
+      17,
+      16
+    ],
+    "locality_name": "Київ",
+    "address_id": 17177,
+    "street_id": 958,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/flats/4511967/91fd3aa9-95ba-4172-8af0-931a7646c3f5",
+      "https://static.dimdim.wrenchtech.io/flats/4511967/2d59bcba-cd6f-4676-b687-880ed673aae4",
+      "https://static.dimdim.wrenchtech.io/flats/4511967/f40daab6-ee80-42d5-87ce-e26d6309811d",
+      "https://static.dimdim.wrenchtech.io/flats/4511967/6fb6da5d-7638-4c30-8fdc-c7444425eb03",
+      "https://static.dimdim.wrenchtech.io/flats/4511967/adf1cb63-076e-4836-ae13-e2e5368c2190"
+    ],
+    "providers": [
+      {
+        "provider": "dimdim",
+        "url": "http://dimdim.com.ua",
+        "price_uah": 15000,
+        "price_usd": 556,
+        "price_eur": 459,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-06-14T06:33:16.663355+00:00"
+      }
+    ],
+    "landlords": [
+      {
+        "first_name": "Олексій",
+        "type": "landlord",
+        "agency_name": null,
+        "avatar": null,
+        "flat_id": 4511967,
+        "phone": [
+          "+380508257821"
+        ],
+        "created_at": "2021-06-14T06:33:16.663355+00:00"
+      }
+    ],
+    "properties": {
+      "room_plan": "walkthrough",
+      "bathroom": "full",
+      "heating": "centralized",
+      "entrance": [
+        "intercom",
+        "code",
+        "key"
+      ],
+      "parking": [
+        "public"
+      ],
+      "wall_type": "brick",
+      "building_type": "stalinka",
+      "conditions": "recent",
+      "furniture": "new",
+      "rules": {
+        "kids": true,
+        "animals": false,
+        "smoking": false,
+        "only_foreigners": true
+      },
+      "additional_payments": "by_meters"
+    },
+    "subways_distance": [
+      {
+        "subway_id": 14,
+        "minutes": 12
+      },
+      {
+        "subway_id": 5,
+        "minutes": 20
+      },
+      {
+        "subway_id": 61,
+        "minutes": 6
+      }
+    ]
+  },
+  {
+    "id": 4549747,
+    "title": "Здається в довготривалу оренду 2-х к-на квартира по вул Урлівській 30",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Простора 2-х кімнатна квартира, в термо будинку,оснащена 4 повноцінними спальними місцями, з новим ремонтом, текстилем, інтернетом та телебаченням. Техніка: пральна та посудомийна машини, телевізори, холодильник side by side, кондиціонер, мікрохвильовка, чайник тощо.  Поряд сучасна школа та дитячий садок, озеро, дитяча поліклініка, стоиатологія. Недалеко м. Позняки та ТРЦ RIVER MALL.З домашніми тваринами прохання не турбувати.",
+    "url": "https://www.olx.ua/d/obyavlenie/zdatsya-v-dovgotrivalu-orendu-2-h-k-na-kvartira-po-vul-urlvsky-30-IDLVw8L.html",
+    "base_price": 15000,
+    "price_uah": 15000,
+    "price_usd": 556,
+    "price_eur": 459,
+    "price_rub": 39900,
+    "price_pln": 2400,
+    "district": "Дарницький район",
+    "street": "вулиця Урлівська",
+    "building_no": "30",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Елена",
+    "created_at": "2021-06-16T16:37:40.594837+00:00",
+    "updated_at": "2021-06-16T16:37:40.594845+00:00",
+    "size_total": 70,
+    "size_kitchen": 15,
+    "room": 2,
+    "floor": 13,
+    "floors_total": 25,
+    "group_id": 87373517,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.618432,
+        50.4096281
+      ]
+    },
+    "location_point": {
+      "lat": 50.4096281,
+      "lon": 30.618432
+    },
+    "address_raw": "вулиця Урлівська, 30, Дарницький район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.618432,
+          50.4096281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549747
+        ],
+        "price_uah": 15000,
+        "count": 1,
+        "hash": "u8vyb8z9m",
+        "min_price_uah": "15 000",
+        "max_price_uah": "15 000",
+        "min_price_usd": "556",
+        "max_price_usd": "556",
+        "min_price_eur": "459",
+        "max_price_eur": "459",
+        "min_price_rub": "39 900",
+        "max_price_rub": "39 900",
+        "min_price_pln": "2 400",
+        "max_price_pln": "2 400"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 41143,
+    "street_id": 433,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/db7bfdca-a632-455a-b11d-5efad7f8d1fa",
+      "https://static.dimdim.wrenchtech.io/941170ad-048e-4224-bc39-4c6853a37619",
+      "https://static.dimdim.wrenchtech.io/b75593a7-066b-482a-b786-818a162fe29e",
+      "https://static.dimdim.wrenchtech.io/50d5feb6-1beb-4422-b2ed-67bdd82d2c4b",
+      "https://static.dimdim.wrenchtech.io/8f7450f3-b5e0-41f6-b159-bcea4be5c158",
+      "https://static.dimdim.wrenchtech.io/53356a94-dc03-49b8-88db-23c35ba87d03",
+      "https://static.dimdim.wrenchtech.io/626e4a86-3af6-45c0-a26b-239f80bca3ad",
+      "https://static.dimdim.wrenchtech.io/05b5572a-4e24-4c6f-9064-67582d849997",
+      "https://static.dimdim.wrenchtech.io/1d5a4d40-9c57-489f-ba5d-39cba8e0d05c",
+      "https://static.dimdim.wrenchtech.io/bdbdfd9e-1047-48c0-b4d1-3d93aeacd4c5",
+      "https://static.dimdim.wrenchtech.io/01c03a6f-aa35-4430-aba0-661a710cb3d4",
+      "https://static.dimdim.wrenchtech.io/f09f3fd0-37f5-4887-a35d-d5ef339421dd",
+      "https://static.dimdim.wrenchtech.io/ce186cc7-6000-4fa0-9e57-203f0fa0a35b",
+      "https://static.dimdim.wrenchtech.io/1fbb59ed-6a29-49ac-9c08-d5e93727d730",
+      "https://static.dimdim.wrenchtech.io/75cab4d7-a832-443c-b973-1571075f20fb"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/zdatsya-v-dovgotrivalu-orendu-2-h-k-na-kvartira-po-vul-urlvsky-30-IDLVw8L.html",
+        "price_uah": 15000,
+        "price_usd": 556,
+        "price_eur": 459,
+        "price_rub": 39900,
+        "price_pln": 2400,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:27:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4549745,
+    "title": "Сдам 2 к, начало Троещины, Бальзака 10, рядом пр Маяковского,  парк,",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Начало Троещины, Бальзака 10, рядом пр.Маяковского, красивый парк, пляж Десенка. Разд, после косметического ремонта, ламинат, кафель, 2 лоджии застеклены, кухня, холодильник, стиральная автомат, диван, диванчик, встроенные шкафы в коридоре. 70000 гривен+ коммунальные. Риелтор 50%",
+    "url": "https://www.olx.ua/d/obyavlenie/sdam-2-k-nachalo-troeschiny-balzaka-10-ryadom-pr-mayakovskogo-park-IDLVw2P.html",
+    "base_price": 7000,
+    "price_uah": 7000,
+    "price_usd": 259,
+    "price_eur": 214,
+    "price_rub": 18620,
+    "price_pln": 1120,
+    "district": "Деснянський район",
+    "street": "вулиця Оноре де Бальзака",
+    "building_no": "10",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Людмила Михайловна",
+    "created_at": "2021-06-16T16:37:33.903257+00:00",
+    "updated_at": "2021-06-16T16:37:33.903261+00:00",
+    "size_total": 54,
+    "size_kitchen": 8,
+    "room": 2,
+    "floor": 8,
+    "floors_total": 16,
+    "group_id": 89772803,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5813691,
+        50.5026061
+      ]
+    },
+    "location_point": {
+      "lat": 50.5026061,
+      "lon": 30.5813691
+    },
+    "address_raw": "вулиця Оноре де Бальзака, 10, Деснянський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5813691,
+          50.5026061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549745
+        ],
+        "price_uah": 7000,
+        "count": 1,
+        "hash": "u8vxrcsxj",
+        "min_price_uah": "7 000",
+        "max_price_uah": "7 000",
+        "min_price_usd": "259",
+        "max_price_usd": "259",
+        "min_price_eur": "214",
+        "max_price_eur": "214",
+        "min_price_rub": "18 620",
+        "max_price_rub": "18 620",
+        "min_price_pln": "1 120",
+        "max_price_pln": "1 120"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 46082,
+    "street_id": 70,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/3289bdcc-7d61-4e60-a9bf-b23d3c40c5f3",
+      "https://static.dimdim.wrenchtech.io/6123ee25-170a-45bc-be37-afc06ad2a4cb",
+      "https://static.dimdim.wrenchtech.io/bd7c0c1d-6b92-484e-a4a1-c5f7705094e8",
+      "https://static.dimdim.wrenchtech.io/46f15bc5-dfa6-48f5-9ce3-e3a13580c879",
+      "https://static.dimdim.wrenchtech.io/06bc14ed-bf8d-4b5b-9385-cd385cb2db6e",
+      "https://static.dimdim.wrenchtech.io/96d8d0f4-9210-4ffe-83be-349ce1a8eb7d"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-2-k-nachalo-troeschiny-balzaka-10-ryadom-pr-mayakovskogo-park-IDLVw2P.html",
+        "price_uah": 7000,
+        "price_usd": 259,
+        "price_eur": 214,
+        "price_rub": 18620,
+        "price_pln": 1120,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:24:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4549742,
+    "title": "Сдам новую 2х комнатную квартиру после ремонта в Голосеевском районе",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Сдам новую 2х комнатную раздельную квартиру. Можно заезжать сразу \n \nНовый дом \n19 этаж 24 этажного дома \nПервая сдача после ремонта \n2х спальная кровать с ортопедическим матрасом  \nПолностью оборудования кухня \nГардеробная \n \nТехника: стиральная машина-автомат, холодильник, варочная поверхность, духовой шкаф, бойлер, чайник \n \nКонсьерж \n1 грузовой, 2 пассажирских лифта \n \nМетро Ипподром 10 минут пешком \nВДНХ с парком 15 минут пешком \nАвтобусная остановка 3 минуты пешком \nСильпо, 2 Новуса - 5 минут пешком \nМетро, Эпицентр, Магелан 5 минут на машине \n \nЖелательно семейной паре, без вредных привычек можно с детьми \n \nЦена 13000 в месяц + счётчики. Оплата за 1 месяц + месяц залога.  \nКомисия 50%",
+    "url": "https://www.olx.ua/d/obyavlenie/sdam-novuyu-2h-komnatnuyu-kvartiru-posle-remonta-v-goloseevskom-rayone-IDLKNhB.html",
+    "base_price": 13000,
+    "price_uah": 13000,
+    "price_usd": 482,
+    "price_eur": 398,
+    "price_rub": 34580,
+    "price_pln": 2080,
+    "district": "Шевченківський район",
+    "street": "вулиця Дорогожицька",
+    "building_no": "2",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Андрей",
+    "created_at": "2021-06-16T16:37:24.798255+00:00",
+    "updated_at": "2021-06-16T16:37:24.798259+00:00",
+    "size_total": 52,
+    "size_kitchen": 10,
+    "room": 2,
+    "floor": 19,
+    "floors_total": 24,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4618587,
+        50.4706535
+      ]
+    },
+    "location_point": {
+      "lat": 50.4706535,
+      "lon": 30.4618587
+    },
+    "address_raw": "вулиця Дорогожицька, 2, Шевченківський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4618587,
+          50.4706535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549742
+        ],
+        "price_uah": 13000,
+        "count": 1,
+        "hash": "u8vxj5vsu",
+        "min_price_uah": "13 000",
+        "max_price_uah": "13 000",
+        "min_price_usd": "482",
+        "max_price_usd": "482",
+        "min_price_eur": "398",
+        "max_price_eur": "398",
+        "min_price_rub": "34 580",
+        "max_price_rub": "34 580",
+        "min_price_pln": "2 080",
+        "max_price_pln": "2 080"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 45206,
+    "street_id": 1445,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/35278970-9e82-4753-92e7-2bbe3c48580e",
+      "https://static.dimdim.wrenchtech.io/6cd524e0-e13e-41f5-b165-ed8a0f7ab0ec",
+      "https://static.dimdim.wrenchtech.io/349b903c-8548-494f-87a2-2e7a739c81a0",
+      "https://static.dimdim.wrenchtech.io/a95c7cf1-0da0-4a94-b0fe-cca55a160627",
+      "https://static.dimdim.wrenchtech.io/131e08fc-8b35-47a6-bf53-ad9396f156e1",
+      "https://static.dimdim.wrenchtech.io/48eec3a8-fec9-4bb2-bd2d-e7276111122f",
+      "https://static.dimdim.wrenchtech.io/cbfe96c2-7c8e-4a09-86c7-7952c69d1b83",
+      "https://static.dimdim.wrenchtech.io/50839c11-83cb-438a-9d0d-ae83c12c16f1",
+      "https://static.dimdim.wrenchtech.io/a0f85d0c-5dd0-494d-a659-da5ab14621fc"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-novuyu-2h-komnatnuyu-kvartiru-posle-remonta-v-goloseevskom-rayone-IDLKNhB.html",
+        "price_uah": 13000,
+        "price_usd": 482,
+        "price_eur": 398,
+        "price_rub": 34580,
+        "price_pln": 2080,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:20:00+00:00"
+      }
+    ],
+    "subways_distance": [
+      {
+        "subway_id": 60,
+        "minutes": 11
+      }
+    ]
+  },
+  {
+    "id": 4549740,
+    "title": "Аренда! С видом на фонтан! 45 кв м ЖК София",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Долгосрочная аренда! \n \nОтличная, просторная квартира в самом центре ЖК София от Мартынова по ул Леси Украинки 20. Вид на аллею с фонтаном!!! \nВ коридоре огромная встроенная система шкафов. Большая комната. Кухня с встроенной мебелью и техникой. Два телевизора. Два кондиционера. Теплый пол. Полностью внутренняя \n \nСамый лучший ЖК пригорода. ЖК София от Мартынова. Развитая инфраструктура. Отличная транспортная развязка. До метро Житомирская и Теремки 15 мин езды. \n \nМожно с маленькими животными!",
+    "url": "https://www.olx.ua/d/obyavlenie/arenda-s-vidom-na-fontan-45-kv-m-zhk-sofiya-IDLJahB.html",
+    "base_price": 9000,
+    "price_uah": 9000,
+    "price_usd": 333,
+    "price_eur": 275,
+    "price_rub": 23940,
+    "price_pln": 1440,
+    "district": "Подільський район",
+    "street": "вулиця Лесі Українки",
+    "building_no": "20",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Виктория",
+    "created_at": "2021-06-16T16:37:20.960892+00:00",
+    "updated_at": "2021-06-16T16:37:20.960900+00:00",
+    "size_total": 45,
+    "size_kitchen": 16,
+    "room": 1,
+    "floor": 7,
+    "floors_total": 11,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4388613,
+        50.5189631
+      ]
+    },
+    "location_point": {
+      "lat": 50.5189631,
+      "lon": 30.4388613
+    },
+    "address_raw": "вулиця Лесі Українки, 20, Подільський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4388613,
+          50.5189631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549740
+        ],
+        "price_uah": 9000,
+        "count": 1,
+        "hash": "u8vxkssyk",
+        "min_price_uah": "9 000",
+        "max_price_uah": "9 000",
+        "min_price_usd": "333",
+        "max_price_usd": "333",
+        "min_price_eur": "275",
+        "max_price_eur": "275",
+        "min_price_rub": "23 940",
+        "max_price_rub": "23 940",
+        "min_price_pln": "1 440",
+        "max_price_pln": "1 440"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 19871,
+    "street_id": 758,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/b7ccef33-d2f9-4ce1-b789-7c2c6e683618",
+      "https://static.dimdim.wrenchtech.io/1f969ce9-3f5d-4b2f-9ac9-5a0599945a44",
+      "https://static.dimdim.wrenchtech.io/b11a2641-7085-4ae0-b6b6-80eb4c519924",
+      "https://static.dimdim.wrenchtech.io/92007992-ed8f-4064-9664-be90779076f9",
+      "https://static.dimdim.wrenchtech.io/b4d4cf74-13a8-4d73-8ca8-245504379858",
+      "https://static.dimdim.wrenchtech.io/5885b7bf-5429-4a0d-92c9-2ab653e30747",
+      "https://static.dimdim.wrenchtech.io/6d6b172a-3e4e-4b4b-89aa-afb1d69e67f4",
+      "https://static.dimdim.wrenchtech.io/84a1f308-593e-4484-bad0-91d8e566b424",
+      "https://static.dimdim.wrenchtech.io/a88d9749-398e-4469-ba0d-de93a51f69a1",
+      "https://static.dimdim.wrenchtech.io/11bb83c0-1638-46b1-b08a-7fa05e7fd77c",
+      "https://static.dimdim.wrenchtech.io/edfddea0-5658-45b5-96d7-eca991b5313b",
+      "https://static.dimdim.wrenchtech.io/9ea4e644-d601-4f06-8068-11be9997a78c",
+      "https://static.dimdim.wrenchtech.io/782d57c9-e28a-4c39-ba35-7d1dbbe4540b"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/arenda-s-vidom-na-fontan-45-kv-m-zhk-sofiya-IDLJahB.html",
+        "price_uah": 9000,
+        "price_usd": 333,
+        "price_eur": 275,
+        "price_rub": 23940,
+        "price_pln": 1440,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:27:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4549736,
+    "title": "Видовая 1 ком. Соломенская 15а, Времена Года, Изумрудный, Solo Park",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Просторная, видовая 1 комнатная квартира с панорамными окнами в новом доме, в зоне Соломенского парка по ул. Соломенская 15-А, пл. 60 м2. на 20 эт. с качественным, современным ремонтом. \nРазделена на 3 зоны: кухня, гостиная, спальня. Полностью меблирована (большой угловой раскладывающийся диван, двуспальная кровать с ортопедическим матрасом) и укомплектована необходимой бытовой техникой (посудомоечная машина, кондиционер, бойлер), гардеробная, шкаф-купе, смежный санузел с душевой кабиной. \nВ подъезде консьерж, в доме подземный паркинг. Для жильцов дома отдельный выход в Соломенский парк.",
+    "url": "https://www.olx.ua/d/obyavlenie/vidovaya-1-kom-solomenskaya-15a-vremena-goda-izumrudnyy-solo-park-IDLVtGP.html",
+    "base_price": 20000,
+    "price_uah": 20000,
+    "price_usd": 741,
+    "price_eur": 612,
+    "price_rub": 53200,
+    "price_pln": 3200,
+    "district": "Солом'янський район",
+    "street": "вулиця Солом'янська",
+    "building_no": "15",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Владимир",
+    "created_at": "2021-06-16T16:37:12.683131+00:00",
+    "updated_at": "2021-06-16T16:37:12.683139+00:00",
+    "size_total": 60,
+    "size_kitchen": 16,
+    "room": 1,
+    "floor": 20,
+    "floors_total": 27,
+    "group_id": 66015720,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4779578,
+        50.4246398
+      ]
+    },
+    "location_point": {
+      "lat": 50.4246398,
+      "lon": 30.4779578
+    },
+    "address_raw": "вулиця Солом'янська, 15, Солом'янський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4779578,
+          50.4246398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549736
+        ],
+        "price_uah": 20000,
+        "count": 1,
+        "hash": "u8vwve92g",
+        "min_price_uah": "20 000",
+        "max_price_uah": "20 000",
+        "min_price_usd": "741",
+        "max_price_usd": "741",
+        "min_price_eur": "612",
+        "max_price_eur": "612",
+        "min_price_rub": "53 200",
+        "max_price_rub": "53 200",
+        "min_price_pln": "3 200",
+        "max_price_pln": "3 200"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 26,
+    "street_id": 23,
+    "complex_id": 1573,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/3de602e5-b89b-4426-858c-47606300bf18",
+      "https://static.dimdim.wrenchtech.io/e60398d4-a453-42fa-bef1-f00efb76be1a",
+      "https://static.dimdim.wrenchtech.io/21487dd2-8f0d-4e71-939b-d5db4dda41c2",
+      "https://static.dimdim.wrenchtech.io/c17bc158-b624-4ea4-82d5-7490ffa56698",
+      "https://static.dimdim.wrenchtech.io/29cc5cc0-dad6-4a00-a60b-9ff71d575b55",
+      "https://static.dimdim.wrenchtech.io/6eaddfd6-b911-465f-a67b-ff4566ad21c0",
+      "https://static.dimdim.wrenchtech.io/4a7263da-4d6a-479e-9241-61364f3fb4c1",
+      "https://static.dimdim.wrenchtech.io/dc614c4e-c611-40f2-951f-f35b338a6955",
+      "https://static.dimdim.wrenchtech.io/fdfb5d22-331b-45a4-993e-0fe4f02502f0",
+      "https://static.dimdim.wrenchtech.io/2a1b3b6e-b735-4433-9a10-0c5f844baa18",
+      "https://static.dimdim.wrenchtech.io/6d0fe526-876f-4d78-b2bd-90c98e31c490",
+      "https://static.dimdim.wrenchtech.io/8a319481-c13d-4373-9b40-60b04611e7dd"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/vidovaya-1-kom-solomenskaya-15a-vremena-goda-izumrudnyy-solo-park-IDLVtGP.html",
+        "price_uah": 20000,
+        "price_usd": 741,
+        "price_eur": 612,
+        "price_rub": 53200,
+        "price_pln": 3200,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:18:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4549735,
+    "title": "Аренда 2х уровневой квартиры с террасой, ул. Банковая, 12/21",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Предлагается в аренду шикарная 2х уровненвая квартира на ул. Банковая 12/21 (ул. Лютеранская, 21/12) \n \nСостоит из: \n \n- 3х спален, 2 с/у с душем и ванной, кабинет, лаунж зона, кухня -гостиная , постирочная, терраса 30 метров с умывальником шезлонгами и зонтом, гардеробные комнаты и наличие шкафов. \n- Укомплектована всей необходимой мебелью и бытовой техникой, кондиционеры Daikin, вся сантехника Villeroy &. Boch.   \n- первый этаж оснащен центральным отоплением, а на втором автономное.  \n- квартира обустроена по последнему слову техники и дизайнерской мысли \n- Шикарный вид на Администрацию. В подъезде охрана, все чисто, опрятно и безопасно.  \n \nЖелающим жить рядом с главами страны, прошу дать знать, с удовольствием организую просмотр и заключим арендный договор! \n \nЦена: 4700€ + коммунальные платежи.",
+    "url": "https://www.olx.ua/d/obyavlenie/arenda-2h-urovnevoy-kvartiry-s-terrasoy-ul-bankovaya-12-21-IDLVuGi.html",
+    "base_price": 4700,
+    "price_uah": 153454,
+    "price_usd": 5690,
+    "price_eur": 4700,
+    "price_rub": 408188,
+    "price_pln": 24552,
+    "district": "Печерський район",
+    "street": "вулиця Банкова",
+    "building_no": "12",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Артем Пономаренко",
+    "created_at": "2021-06-16T16:37:10.386931+00:00",
+    "updated_at": "2021-06-16T16:37:10.386941+00:00",
+    "size_total": 200,
+    "size_kitchen": 20,
+    "room": 4,
+    "floor": 4,
+    "floors_total": 4,
+    "currency": "EUR",
+    "is_last_floor": true,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5279041,
+        50.4444357
+      ]
+    },
+    "location_point": {
+      "lat": 50.4444357,
+      "lon": 30.5279041
+    },
+    "address_raw": "вулиця Банкова, 12, Печерський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5279041,
+          50.4444357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549735
+        ],
+        "price_uah": 153454,
+        "count": 1,
+        "hash": "u8vwyxjsp",
+        "min_price_uah": "153 454",
+        "max_price_uah": "153 454",
+        "min_price_usd": "5 690",
+        "max_price_usd": "5 690",
+        "min_price_eur": "4 700",
+        "max_price_eur": "4 700",
+        "min_price_rub": "408 188",
+        "max_price_rub": "408 188",
+        "min_price_pln": "24 552",
+        "max_price_pln": "24 552"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 93850,
+    "street_id": 1376,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/812874e6-22a9-48ea-9149-b8b5a4353f0e",
+      "https://static.dimdim.wrenchtech.io/66d0794b-9de8-452f-8dbe-c21ef0fc37ac",
+      "https://static.dimdim.wrenchtech.io/e1e2aa7f-3f70-4e44-bce3-88a18083b5fc",
+      "https://static.dimdim.wrenchtech.io/bce29866-5d3f-48df-9199-43eaee384871",
+      "https://static.dimdim.wrenchtech.io/35b97588-26b4-4bbb-81eb-2b60d01cc041",
+      "https://static.dimdim.wrenchtech.io/2d699ffd-dd9d-4fc0-8e5a-3325cf25d420",
+      "https://static.dimdim.wrenchtech.io/689a1ceb-504d-47c6-943b-b5dbd3d2c142",
+      "https://static.dimdim.wrenchtech.io/64d31849-c6f4-4e15-9c4d-f53c2cd4d768",
+      "https://static.dimdim.wrenchtech.io/023f8161-a1b6-4f4c-8e58-888e7d4f0834",
+      "https://static.dimdim.wrenchtech.io/00eb6d05-ca76-4df6-ab15-d7e45ec619bb",
+      "https://static.dimdim.wrenchtech.io/178fb3d7-cc70-4136-a00c-65a4e0640998",
+      "https://static.dimdim.wrenchtech.io/c99b078c-2669-41cf-827f-ff7ae72980fa",
+      "https://static.dimdim.wrenchtech.io/d5b42d90-554a-4082-91ff-1f1443dc74d6",
+      "https://static.dimdim.wrenchtech.io/c9988daa-c9d4-4c51-b152-5c09c9a25f40",
+      "https://static.dimdim.wrenchtech.io/21f7c576-7703-436b-a834-2fce6da9234a",
+      "https://static.dimdim.wrenchtech.io/a8330e3d-a092-4c69-bb4b-a68583a41d65",
+      "https://static.dimdim.wrenchtech.io/824fd561-c5ff-4aec-a2d4-66f6f30b4d58",
+      "https://static.dimdim.wrenchtech.io/7d37d0be-32bf-4289-9824-3351b106dada",
+      "https://static.dimdim.wrenchtech.io/490a3f73-486b-4ce9-a697-73b5ea43eaed",
+      "https://static.dimdim.wrenchtech.io/3c7cf102-0d3a-4d43-a59c-5558990cbdb9",
+      "https://static.dimdim.wrenchtech.io/2a45295c-34e6-4dc6-bd4a-a7f7c4bbd302",
+      "https://static.dimdim.wrenchtech.io/e939e330-8247-4b9c-b2c9-0f76484f5eb4",
+      "https://static.dimdim.wrenchtech.io/0413e9a1-5020-448d-a95f-908bde1da9ec",
+      "https://static.dimdim.wrenchtech.io/8d5dfa64-b4d7-4389-81ba-0fcf158eab26"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/arenda-2h-urovnevoy-kvartiry-s-terrasoy-ul-bankovaya-12-21-IDLVuGi.html",
+        "price_uah": 153454,
+        "price_usd": 5690,
+        "price_eur": 4700,
+        "price_rub": 408188,
+        "price_pln": 24552,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:16:00+00:00"
+      }
+    ],
+    "subways_distance": [
+      {
+        "subway_id": 12,
+        "minutes": 12
+      },
+      {
+        "subway_id": 3,
+        "minutes": 6
+      },
+      {
+        "subway_id": 11,
+        "minutes": 13
+      },
+      {
+        "subway_id": 13,
+        "minutes": 15
+      },
+      {
+        "subway_id": 9,
+        "minutes": 8
+      },
+      {
+        "subway_id": 8,
+        "minutes": 12
+      },
+      {
+        "subway_id": 4,
+        "minutes": 19
+      },
+      {
+        "subway_id": 2,
+        "minutes": 13
+      }
+    ]
+  },
+  {
+    "id": 4549733,
+    "title": "Сдам квартиру с ремонтом!",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Сдам 1комнатную квартиру в Ирпене,ул.Пушкинская,38мкв,3/5,отличный ремонт,полная комплектация: мебель и техника, интернет,отличная транспортная развязка:рядом маршрутки.Магазины,школа,садик,Центральный парк,супермаркеты7500+ком,свободна с 01.07.21,просмотры в любой день,Мария:09******87.",
+    "url": "https://www.olx.ua/d/obyavlenie/sdam-kvartiru-s-remontom-IDLO8XY.html",
+    "base_price": 7499,
+    "price_uah": 7499,
+    "price_usd": 278,
+    "price_eur": 229,
+    "price_rub": 19947,
+    "price_pln": 1199,
+    "district": "Шевченківський район",
+    "street": "вулиця Пушкінська",
+    "building_no": "38",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Мария",
+    "created_at": "2021-06-16T16:36:58.164005+00:00",
+    "updated_at": "2021-06-16T16:36:58.164009+00:00",
+    "size_total": 38,
+    "size_kitchen": 10,
+    "room": 1,
+    "floor": 3,
+    "floors_total": 5,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5160874,
+        50.4407135
+      ]
+    },
+    "location_point": {
+      "lat": 50.4407135,
+      "lon": 30.5160874
+    },
+    "address_raw": "вулиця Пушкінська, 38, Шевченківський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5160874,
+          50.4407135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549733
+        ],
+        "price_uah": 7499,
+        "count": 1,
+        "hash": "u8vwyqmnk",
+        "min_price_uah": "7 499",
+        "max_price_uah": "7 499",
+        "min_price_usd": "278",
+        "max_price_usd": "278",
+        "min_price_eur": "229",
+        "max_price_eur": "229",
+        "min_price_rub": "19 947",
+        "max_price_rub": "19 947",
+        "min_price_pln": "1 199",
+        "max_price_pln": "1 199"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 93851,
+    "street_id": 505,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/c6bcc131-8e0b-4538-840a-ee4d9041980b",
+      "https://static.dimdim.wrenchtech.io/2a34f772-e1cc-4462-9e88-20a9fa77401a",
+      "https://static.dimdim.wrenchtech.io/04c603d1-7778-4f85-904c-070ba1abf344",
+      "https://static.dimdim.wrenchtech.io/90498e47-96af-447d-b80e-5ea95e60b4f6",
+      "https://static.dimdim.wrenchtech.io/1d9b68fa-d5d0-456b-8cfa-775a189b6595",
+      "https://static.dimdim.wrenchtech.io/8044ce95-ef51-45f5-8320-f52d8234f203",
+      "https://static.dimdim.wrenchtech.io/c862395f-73b6-47bf-9e5b-688fe2635498",
+      "https://static.dimdim.wrenchtech.io/31730ac3-455f-47a0-8e12-4796726a4967",
+      "https://static.dimdim.wrenchtech.io/07fa9e25-6a2e-46e6-b0ea-fd3421a6a109",
+      "https://static.dimdim.wrenchtech.io/be02f35d-1362-4537-ba93-ea778e39fe85"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-kvartiru-s-remontom-IDLO8XY.html",
+        "price_uah": 7499,
+        "price_usd": 278,
+        "price_eur": 229,
+        "price_rub": 19947,
+        "price_pln": 1199,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:22:00+00:00"
+      }
+    ],
+    "subways_distance": [
+      {
+        "subway_id": 12,
+        "minutes": 4
+      },
+      {
+        "subway_id": 3,
+        "minutes": 14
+      },
+      {
+        "subway_id": 11,
+        "minutes": 7
+      },
+      {
+        "subway_id": 9,
+        "minutes": 16
+      },
+      {
+        "subway_id": 8,
+        "minutes": 3
+      },
+      {
+        "subway_id": 7,
+        "minutes": 16
+      },
+      {
+        "subway_id": 2,
+        "minutes": 7
+      },
+      {
+        "subway_id": 1,
+        "minutes": 12
+      }
+    ]
+  },
+  {
+    "id": 4549639,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Долгосрочная аренда квартиры . Регенераторная 4, \"Комфорт Таун\"\nКвартира с качественным ремонтом. На первом этаже комфортная кухня-гостиная, на 2-м две отдельные спальные комнаты. Есть еще 3-й этаж, детская комната.\nКвартира полностью меблирована и оборудована бытовой техникой, для комфортного проживания .\nЖК \"Комфорт Таун\", имеющий собственный пропускной режим, охрану 24/7, детские и спортивные площадки, скверы отдыха, салоны красоты, кафе, рестораны, магазины, детский сад, гимназия, рядом (до 50 м.) Частная клиника, супермаркеты , продуктовый и вещевой рынки, СТО, автомойки.",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-sotsgorod-regeneratornaya-ulitsa-19829781.html",
+    "base_price": 1200,
+    "price_uah": 32358,
+    "price_usd": 1200,
+    "price_eur": 991,
+    "price_rub": 86072,
+    "price_pln": 5177,
+    "district": "Дніпровський район",
+    "street": "вулиця Регенераторна",
+    "building_no": "4",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Олексій Юрійович Денисюк",
+    "created_at": "2021-06-16T16:26:50.670971+00:00",
+    "updated_at": "2021-06-16T16:26:50.670980+00:00",
+    "size_total": 98,
+    "size_kitchen": 20,
+    "size_living": 67,
+    "room": 3,
+    "floor": 4,
+    "floors_total": 6,
+    "group_id": 12664659,
+    "currency": "USD",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.6213167,
+        50.4375525
+      ]
+    },
+    "location_point": {
+      "lat": 50.4375525,
+      "lon": 30.6213167
+    },
+    "address_raw": "вулиця Регенераторна, 4, Дніпровський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.6213167,
+          50.4375525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549639
+        ],
+        "price_uah": 32358,
+        "count": 1,
+        "hash": "u8vybvcu0",
+        "min_price_uah": "32 358",
+        "max_price_uah": "32 358",
+        "min_price_usd": "1 200",
+        "max_price_usd": "1 200",
+        "min_price_eur": "991",
+        "max_price_eur": "991",
+        "min_price_rub": "86 072",
+        "max_price_rub": "86 072",
+        "min_price_pln": "5 177",
+        "max_price_pln": "5 177"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 39420,
+    "street_id": 364,
+    "complex_id": 102,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/1073909b-7f00-4f2a-be34-228aeee38e39",
+      "https://static.dimdim.wrenchtech.io/39a02e77-b395-482c-a724-c1a1c9a18232",
+      "https://static.dimdim.wrenchtech.io/332edeb1-fba5-447e-ac29-10fd4bd295bc",
+      "https://static.dimdim.wrenchtech.io/cbbbf669-2490-4b1b-93f1-678316013982",
+      "https://static.dimdim.wrenchtech.io/540fa26e-6bce-4049-92c7-4aac94d56992",
+      "https://static.dimdim.wrenchtech.io/d5ad233c-baa0-4054-a8e1-57368a9fc956",
+      "https://static.dimdim.wrenchtech.io/2bc8422e-b405-486b-91a3-a61da98707bc",
+      "https://static.dimdim.wrenchtech.io/a82be277-68da-46c5-9f78-fcbd8cef8c41",
+      "https://static.dimdim.wrenchtech.io/48b66032-ec85-4801-bdbc-b3f15ddfcdc1",
+      "https://static.dimdim.wrenchtech.io/ebbf1e3d-c812-4b49-b199-0b82190c7335",
+      "https://static.dimdim.wrenchtech.io/bd0a837d-9c40-45c7-884d-9bd8ab4466c9",
+      "https://static.dimdim.wrenchtech.io/43ac40c8-ca23-4fb9-9814-9303dbeae98b",
+      "https://static.dimdim.wrenchtech.io/5105fe83-2f70-4d8e-a405-16bab208f3f9",
+      "https://static.dimdim.wrenchtech.io/7498be4a-3ed7-4d3f-8540-c9956254cf32",
+      "https://static.dimdim.wrenchtech.io/dcef8c7b-e558-4b9f-8e40-7ec83ec3435c",
+      "https://static.dimdim.wrenchtech.io/8c637663-94cc-4ddf-84e5-bff362e726c2",
+      "https://static.dimdim.wrenchtech.io/250377e7-0e58-434d-b376-e343fe14f419"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-sotsgorod-regeneratornaya-ulitsa-19829781.html",
+        "price_uah": 32358,
+        "price_usd": 1200,
+        "price_eur": 991,
+        "price_rub": 86072,
+        "price_pln": 5177,
+        "is_owner": false,
+        "created_at": "2021-06-16T16:15:54+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-3k-komfort-taun-regeneratornaya-IDLMydn.html",
+        "price_uah": 32000,
+        "price_usd": 1186,
+        "price_eur": 980,
+        "price_rub": 85120,
+        "price_pln": 5120,
+        "is_owner": false,
+        "created_at": "2021-06-07T05:45:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4549638,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Сдам 1-к квартиру на длительный срок. Подольский район, ЖК Город цветов, ул. Тираспольская. Отличная транспортная развязка. До метро Сырец 15-20 минут пешком. Этаж 5/16, площадь 40 кв.м. Отличная квартира с хорошим ремонтом, укомплектована мебелью, техникой, всем нужно для комфортного проживания. Застекленный балкон. Территория комплекса закрытого типа, под круглосуточной охраной и видеонаблюдением.\nИсточник:https://dom.ria.com/uk/realty_add_new.html © DOM.RIA.com",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-tiraspolskaya-ulitsa-19035721.html",
+    "base_price": 12000,
+    "price_uah": 12000,
+    "price_usd": 445,
+    "price_eur": 367,
+    "price_rub": 31920,
+    "price_pln": 1920,
+    "district": "Подільський район",
+    "street": "вулиця Тираспольська",
+    "building_no": "43",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Татьяна Юрьевна Тимакова",
+    "created_at": "2021-06-16T16:26:40.906859+00:00",
+    "updated_at": "2021-06-16T16:26:40.906867+00:00",
+    "size_total": 40,
+    "size_kitchen": 10,
+    "room": 1,
+    "floor": 5,
+    "floors_total": 16,
+    "group_id": 90136258,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4240826,
+        50.4836247
+      ]
+    },
+    "location_point": {
+      "lat": 50.4836247,
+      "lon": 30.4240826
+    },
+    "address_raw": "вулиця Тираспольська, 43, Подільський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4240826,
+          50.4836247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549638
+        ],
+        "price_uah": 12000,
+        "count": 1,
+        "hash": "u8vxhq60k",
+        "min_price_uah": "12 000",
+        "max_price_uah": "12 000",
+        "min_price_usd": "445",
+        "max_price_usd": "445",
+        "min_price_eur": "367",
+        "max_price_eur": "367",
+        "min_price_rub": "31 920",
+        "max_price_rub": "31 920",
+        "min_price_pln": "1 920",
+        "max_price_pln": "1 920"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 39798,
+    "street_id": 176,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/930daba5-fdef-4272-acc2-a5d8a677d616",
+      "https://static.dimdim.wrenchtech.io/009ff670-c760-421c-afbd-7ec040b20c1e",
+      "https://static.dimdim.wrenchtech.io/4819914b-5d9c-4cd5-8c02-e16508939375",
+      "https://static.dimdim.wrenchtech.io/25573522-fb8f-46db-8d96-3fc2e4cd60ab",
+      "https://static.dimdim.wrenchtech.io/fceacac8-02b1-458a-8520-105f9a345716",
+      "https://static.dimdim.wrenchtech.io/0d49333d-e50d-4ce6-b115-e0dee5838c70",
+      "https://static.dimdim.wrenchtech.io/aa06acaa-68a9-4899-9642-258771042477",
+      "https://static.dimdim.wrenchtech.io/adcc21b4-1f4b-4c0b-bdf8-82a87fbbb92c",
+      "https://static.dimdim.wrenchtech.io/e4b23b9c-8b8b-47eb-bd3d-e1a681f87f4e"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-podolskiy-tiraspolskaya-ulitsa-19035721.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T16:15:47+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-1-k-kvartiru-v-novom-zhk-gorod-tsvetov-ul-tiraspolskaya-IDKwKl7.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T04:03:00+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-2k-kvartiru-v-zhk-gorod-tsvetov-ul-tiraspolskaya-IDKkRBp.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T04:03:00+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/dolgosrochnaya-arenda-zhk-gorod-tsvetov-novyy-remont-ul-teraspolskaya-IDKla3r.html",
+        "price_uah": 11500,
+        "price_usd": 426,
+        "price_eur": 352,
+        "price_rub": 30590,
+        "price_pln": 1840,
+        "is_owner": false,
+        "created_at": "2021-06-14T11:17:00+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/arenda-1-kom-zhk-gorod-tsvetov-novyy-remont-ul-teraspolskaya-IDLVjPx.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T08:44:00+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/arenda-evro-2-komnatnoy-kvartiry-45m2-v-zhk-msto-kvtv-IDKljxB.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-14T16:09:00+00:00"
+      }
+    ],
+    "subways_distance": [
+      {
+        "subway_id": 59,
+        "minutes": 15
+      }
+    ]
+  },
+  {
+    "id": 4549637,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Сдам 1к квартиру с ремонтом в ЖК Яскравый по ул. Калнышевского Петра 6!\nОтличное месторасположение: метро Минская или Героев Днепра транспортом 7-10 минут,  рядом ТЦ \"Полярный\", Эпицентр, Леруа Мерлен, Сильпо, диагностический центр, озеро Министерское, лес.\nЭтаж 23/25, площадь 39кв.м.",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolonskiy-petra-kalnyshevskogo-ulitsa-19836797.html",
+    "base_price": 12000,
+    "price_uah": 12000,
+    "price_usd": 445,
+    "price_eur": 367,
+    "price_rub": 31920,
+    "price_pln": 1920,
+    "district": "Оболонський район",
+    "street": "вулиця Петра Калнишевського",
+    "building_no": "6",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Татьяна Юрьевна Тимакова",
+    "created_at": "2021-06-16T16:26:21.976360+00:00",
+    "updated_at": "2021-06-16T16:26:21.976370+00:00",
+    "size_total": 39,
+    "size_kitchen": 12,
+    "size_living": 18,
+    "room": 1,
+    "floor": 23,
+    "floors_total": 25,
+    "group_id": 68041894,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.467201,
+        50.5248462
+      ]
+    },
+    "location_point": {
+      "lat": 50.5248462,
+      "lon": 30.467201
+    },
+    "address_raw": "вулиця Петра Калнишевського, 6, Оболонський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.467201,
+          50.5248462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549637
+        ],
+        "price_uah": 12000,
+        "count": 1,
+        "hash": "u8vxmmc89",
+        "min_price_uah": "12 000",
+        "max_price_uah": "12 000",
+        "min_price_usd": "445",
+        "max_price_usd": "445",
+        "min_price_eur": "367",
+        "max_price_eur": "367",
+        "min_price_rub": "31 920",
+        "max_price_rub": "31 920",
+        "min_price_pln": "1 920",
+        "max_price_pln": "1 920"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 39395,
+    "street_id": 257,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/e213b3f6-442f-42fd-b5e1-a72e2a13a26b",
+      "https://static.dimdim.wrenchtech.io/cc0c682e-debb-4211-838c-70399a6575db",
+      "https://static.dimdim.wrenchtech.io/cd3c7d7a-9428-4eb2-b22d-616bcbc15392",
+      "https://static.dimdim.wrenchtech.io/d4f60fd7-c438-43c4-9f87-bba349769435",
+      "https://static.dimdim.wrenchtech.io/bea93358-aecc-4199-9130-8af6dcbe2294",
+      "https://static.dimdim.wrenchtech.io/7e3f237c-ef4e-4d3b-8d61-04c67fc7b86b",
+      "https://static.dimdim.wrenchtech.io/570d1ed5-abff-42d9-a0dc-fdf0c3f0a478"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolonskiy-petra-kalnyshevskogo-ulitsa-19836797.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T16:15:32+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-minskiy-massiv-petra-kalnyshevskogo-ulitsa-19818356.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-16T16:15:55+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-1k-v-arendu-mayorova-kalnyschevskogo-novyy-zhk-IDLFAJE.html",
+        "price_uah": 12000,
+        "price_usd": 445,
+        "price_eur": 367,
+        "price_rub": 31920,
+        "price_pln": 1920,
+        "is_owner": false,
+        "created_at": "2021-06-09T10:21:00+00:00"
+      }
+    ]
+  },
+  {
+    "id": 4549636,
+    "title": "",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Сдам долгосрочно свою 3-х комнатную квартиру пр. Героев Сталинграда, 20-А, 90 м.кв., 3-й этаж 12-ти этажного кирпичного дома, 2 лифта (пас. + груз.) с видом на Днепр (окна вдоль Набережной во двор) и Сквер, после Свежего Дизайнерского ремонта, полностью меблированная и обставленная, паркет, 3 шкафа купе, бронедверь, консьерж, рядом охраняемая автостоянка. 2 санузла, 3 кондиционера, 2 SMART TV 43\", свой спортзал и веранда, Холодильник, посудомойка, микроволновка, индукционная электроплита, чайник, утюг, комбо-усилитель, велотренажер. Новая посуда, матрас, постельное и ковры. Рядом станции Метро \"Минская\" и \"Оболонь\", парк \"Наталка\", детский садик, школа, спорткомплекс, супермаркеты \"Сильпо\" и \"Varus\", уютное и обжитое место",
+    "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolon-geroev-stalingrada-prospekt-19953390.html",
+    "base_price": 28000,
+    "price_uah": 28000,
+    "price_usd": 1038,
+    "price_eur": 857,
+    "price_rub": 74480,
+    "price_pln": 4480,
+    "district": "Оболонський район",
+    "street": "Оболонський проспект",
+    "building_no": "16",
+    "is_owner": true,
+    "is_verified": false,
+    "owner_name": "Александр",
+    "created_at": "2021-06-16T16:26:18.673276+00:00",
+    "updated_at": "2021-06-16T16:26:18.673280+00:00",
+    "size_total": 90,
+    "size_kitchen": 14,
+    "size_living": 43,
+    "room": 3,
+    "floor": 3,
+    "floors_total": 12,
+    "group_id": 920065,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.4992613,
+        50.5062253
+      ]
+    },
+    "location_point": {
+      "lat": 50.5062253,
+      "lon": 30.4992613
+    },
+    "address_raw": "Оболонський проспект, 16, Оболонський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.4992613,
+          50.5062253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549636
+        ],
+        "price_uah": 28000,
+        "count": 1,
+        "hash": "u8vxq42uh",
+        "min_price_uah": "28 000",
+        "max_price_uah": "28 000",
+        "min_price_usd": "1 038",
+        "max_price_usd": "1 038",
+        "min_price_eur": "857",
+        "max_price_eur": "857",
+        "min_price_rub": "74 480",
+        "max_price_rub": "74 480",
+        "min_price_pln": "4 480",
+        "max_price_pln": "4 480"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 41454,
+    "street_id": 199,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/97d340ed-7911-40bb-b6af-4561c8b0fa1a",
+      "https://static.dimdim.wrenchtech.io/94b57701-f385-4b33-9b72-beb8782f29d9",
+      "https://static.dimdim.wrenchtech.io/89ca95b8-abdf-4cbf-a5eb-14fd774f07aa",
+      "https://static.dimdim.wrenchtech.io/a3676966-c726-4174-803b-b529a2d52bdc",
+      "https://static.dimdim.wrenchtech.io/26d90c83-7f9e-4bb6-883b-b568ca5a0d36",
+      "https://static.dimdim.wrenchtech.io/9e98ae41-678f-4d31-a639-48fc486da210",
+      "https://static.dimdim.wrenchtech.io/71c3acbf-ed97-4899-9b51-0ace3cdc01c1",
+      "https://static.dimdim.wrenchtech.io/3097f815-9068-4ecb-9e76-c58e88f19228",
+      "https://static.dimdim.wrenchtech.io/ba675ddd-1a11-4acd-8174-b41d378772a8",
+      "https://static.dimdim.wrenchtech.io/6d0a34e6-7c61-412e-a165-f9807fcef088",
+      "https://static.dimdim.wrenchtech.io/9fc2e3b6-8faa-477d-ba0b-70ca0a3d0327",
+      "https://static.dimdim.wrenchtech.io/edf96b43-1628-4ef7-a3b4-145bd83a45b5",
+      "https://static.dimdim.wrenchtech.io/dcd46483-fe18-4804-92cf-d21c3312ae65",
+      "https://static.dimdim.wrenchtech.io/d23bd4e0-afeb-49d5-b4ad-752f82bafc95",
+      "https://static.dimdim.wrenchtech.io/2fe2cd18-0c0d-427c-b5fc-5fcae37d1eb8",
+      "https://static.dimdim.wrenchtech.io/34cb8cd6-f7c5-4c10-8496-33688dc33af9",
+      "https://static.dimdim.wrenchtech.io/d0b02bc0-4c3f-4a6e-9ec7-bcf8af170bc5",
+      "https://static.dimdim.wrenchtech.io/66f2cfa1-8f85-4056-b79c-0fbddcc861df",
+      "https://static.dimdim.wrenchtech.io/fc412375-740f-40bf-88c6-72ac21bac30f",
+      "https://static.dimdim.wrenchtech.io/23d3346d-db77-4081-9eda-66dd42c4339f",
+      "https://static.dimdim.wrenchtech.io/abb3f173-971f-4a21-9228-569864f74b31",
+      "https://static.dimdim.wrenchtech.io/c09ab5c0-3a00-4316-a135-975d5dc6e6a8",
+      "https://static.dimdim.wrenchtech.io/184e7182-c199-4851-954d-ae2946588200",
+      "https://static.dimdim.wrenchtech.io/340bfb27-1aa1-40b6-888e-a44c17fc93bf",
+      "https://static.dimdim.wrenchtech.io/a8737887-d9ba-427c-bc74-4435e3449266",
+      "https://static.dimdim.wrenchtech.io/8619b757-0262-43a4-97ae-2f475e21dcba",
+      "https://static.dimdim.wrenchtech.io/bf1e8526-6be5-4bbe-8eb1-2f79fbbcebdd",
+      "https://static.dimdim.wrenchtech.io/a71b4ccc-3a1d-4e19-a1b7-e74cb8c98cfa",
+      "https://static.dimdim.wrenchtech.io/637d785e-db73-4a74-a215-da9d0d41c86b",
+      "https://static.dimdim.wrenchtech.io/5cd8bef1-862b-420f-a4eb-30b8104deb19",
+      "https://static.dimdim.wrenchtech.io/7199f129-9093-4e70-a0ad-b6180846ff93",
+      "https://static.dimdim.wrenchtech.io/3684ef1a-7c64-49a1-a42e-72b3dfd62008"
+    ],
+    "providers": [
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolon-geroev-stalingrada-prospekt-19953390.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": true,
+        "created_at": "2021-06-16T16:14:07+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375767342",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": true,
+        "created_at": "2021-06-10T21:00:00+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolon-geroev-stalingrada-prospekt-19923048.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-11T09:32:03+00:00"
+      },
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdam-dolgosrochno-svoyu-3-h-komn-kvartiru-90-m-kv-obolon-naberezhnaya-IDLVrnl.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-16T12:21:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375772196",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-13T21:00:00+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolonskiy-geroev-stalingrada-prospekt-19921883.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-11T07:29:49+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolonskiy-geroev-stalingrada-prospekt-19922008.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-11T07:46:37+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolon-geroev-stalingrada-prospekt-19924272.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-11T11:50:25+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolonskiy-geroev-stalingrada-prospekt-19941450.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-15T07:33:50+00:00"
+      },
+      {
+        "provider": "dom.ria.com",
+        "url": "https://dom.ria.com/ru/realty-dolgosrochnaya-arenda-kvartira-kiev-obolonskiy-geroev-stalingrada-prospekt-19922663.html",
+        "price_uah": 28000,
+        "price_usd": 1038,
+        "price_eur": 857,
+        "price_rub": 74480,
+        "price_pln": 4480,
+        "is_owner": false,
+        "created_at": "2021-06-11T09:01:04+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375771969",
+        "price_uah": 25800,
+        "price_usd": 956,
+        "price_eur": 790,
+        "price_rub": 68628,
+        "price_pln": 4128,
+        "is_owner": false,
+        "created_at": "2021-06-15T21:00:00+00:00"
+      },
+      {
+        "provider": "100realty.ua",
+        "url": "https://100realty.ua/object/375769028",
+        "price_uah": 27100,
+        "price_usd": 1005,
+        "price_eur": 830,
+        "price_rub": 72086,
+        "price_pln": 4336,
+        "is_owner": false,
+        "created_at": "2021-06-14T21:00:00+00:00"
+      }
+    ],
+    "subways_distance": [
+      {
+        "subway_id": 81,
+        "minutes": 10
+      },
+      {
+        "subway_id": 80,
+        "minutes": 8
+      }
+    ]
+  },
+  {
+    "id": 4549611,
+    "title": "Сдается шикарная 2 кв-ра м.Левобережная ул.Никольско - Слободская 1",
+    "adv_type": "rent",
+    "is_suburban": false,
+    "description": "Сдается отличная 2 х  квартира с дизайнерским ремонтом возле м. Левобережная , в прибрежной зоне , в ЖК \" Солнечная Ривьера \" ул.Никольско - Слободская 1 . Дом премиум класса с закрытой  территорией , с охраной , с парковкой . 3/30 кирп.дома 55 /21/16 , большая застекленная лоджия с окнами в пол , просторная кухня - столовая , уютная спальня .Квартира полностью меблирована , с дорогой и качественной бытовой техникой  и сантехникой от ведущих производителей ( посудомоечная и стиральная машинки , бойлер , холодильник и морозильная камера , кондиционеры , микроволновка , фен , утюг , пылесос , посуда  ) , большая гардеробная , прихожая , Н =3м , в квартире есть все для комфортного проживания ! Первая сдача !!! Есть похожая квартира на 7 этаже",
+    "url": "https://www.olx.ua/d/obyavlenie/sdaetsya-shikarnaya-2-kv-ra-m-levoberezhnaya-ul-nikolsko-slobodskaya-1-IDLLSyV.html",
+    "base_price": 21500,
+    "price_uah": 21500,
+    "price_usd": 797,
+    "price_eur": 658,
+    "price_rub": 57190,
+    "price_pln": 3440,
+    "district": "Дніпровський район",
+    "street": "вулиця Микільсько-Слобідська",
+    "building_no": "1",
+    "is_owner": false,
+    "is_verified": false,
+    "owner_name": "Татьяна",
+    "created_at": "2021-06-16T16:22:43.167857+00:00",
+    "updated_at": "2021-06-16T16:22:43.167861+00:00",
+    "size_total": 55,
+    "size_kitchen": 21,
+    "room": 2,
+    "floor": 3,
+    "floors_total": 30,
+    "group_id": 41894833,
+    "currency": "UAH",
+    "is_last_floor": false,
+    "is_first_floor": false,
+    "city": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        30.5858944,
+        50.4504305
+      ]
+    },
+    "location_point": {
+      "lat": 50.4504305,
+      "lon": 30.5858944
+    },
+    "address_raw": "вулиця Микільсько-Слобідська, 1, Дніпровський район, Київ",
+    "additional_info": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          30.5858944,
+          50.4504305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "type": "single",
+        "flat_ids": [
+          4549611
+        ],
+        "price_uah": 21500,
+        "count": 1,
+        "hash": "u8vxpbpzn",
+        "min_price_uah": "21 500",
+        "max_price_uah": "21 500",
+        "min_price_usd": "797",
+        "max_price_usd": "797",
+        "min_price_eur": "658",
+        "max_price_eur": "658",
+        "min_price_rub": "57 190",
+        "max_price_rub": "57 190",
+        "min_price_pln": "3 440",
+        "max_price_pln": "3 440"
+      }
+    },
+    "locality_name": "Київ",
+    "address_id": 39373,
+    "street_id": 167,
+    "images": [
+      "https://static.dimdim.wrenchtech.io/d72413b4-a1d9-4329-9460-5f04b5244f56",
+      "https://static.dimdim.wrenchtech.io/ec4fd1df-3fc0-4a0f-a93e-116aa16b67bd",
+      "https://static.dimdim.wrenchtech.io/acc4d18b-ecf6-4aec-ba81-6b9131374937",
+      "https://static.dimdim.wrenchtech.io/67a254e8-5732-49f9-a872-29d5d3d149f0",
+      "https://static.dimdim.wrenchtech.io/2f7bf241-a233-402c-ac82-8c22f4441aca",
+      "https://static.dimdim.wrenchtech.io/312b6f92-f8c1-4787-b5dc-1d5dc4e0af1e",
+      "https://static.dimdim.wrenchtech.io/49e103d0-0b16-4745-a171-8a0f33758612",
+      "https://static.dimdim.wrenchtech.io/73658719-438a-4bc3-9f31-ad8275becf53",
+      "https://static.dimdim.wrenchtech.io/ed9ff3a7-a8ba-454d-8576-51f6c1552b1a",
+      "https://static.dimdim.wrenchtech.io/d95fc257-35a1-4fbf-9304-233fc5947f9d",
+      "https://static.dimdim.wrenchtech.io/21202d56-3c57-41de-a776-8771fb276fc8",
+      "https://static.dimdim.wrenchtech.io/f759404c-5315-4da2-bd63-4fda9c8868c5",
+      "https://static.dimdim.wrenchtech.io/15a483dd-8df0-4ed6-beaf-d52a133b113b",
+      "https://static.dimdim.wrenchtech.io/986819ed-705c-4261-a3b4-1162df50629b"
+    ],
+    "providers": [
+      {
+        "provider": "olx.ua",
+        "url": "https://www.olx.ua/d/obyavlenie/sdaetsya-shikarnaya-2-kv-ra-m-levoberezhnaya-ul-nikolsko-slobodskaya-1-IDLLSyV.html",
+        "price_uah": 21500,
+        "price_usd": 797,
+        "price_eur": 658,
+        "price_rub": 57190,
+        "price_pln": 3440,
+        "is_owner": false,
+        "created_at": "2021-06-16T13:02:00+00:00"
+      }
+    ],
+    "subways_distance": [
+      {
+        "subway_id": 55,
+        "minutes": 14
+      },
+      {
+        "subway_id": 54,
+        "minutes": 12
+      }
+    ]
+  }
+]

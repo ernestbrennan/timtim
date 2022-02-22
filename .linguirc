@@ -1,0 +1,7 @@
+{
+   "locales": ["ru", "uk"],
+   "catalogs": [{
+      "path": "resources/js/{locale}/messages",
+   }],
+   "format": "po"
+}
